@@ -19,5 +19,5 @@ Here is my [CV](https://panageasj.github.io/files/cv.pdf)
 
 Teaching
 ======
-Introduction to Algorithms, Fall 2018
+Introduction to Algorithms, Fall 2018 <br/>
 Reading group on Markov chains and Mixing times, Fall 2016.
