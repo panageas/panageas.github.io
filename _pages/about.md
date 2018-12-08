@@ -15,7 +15,7 @@ I am an Assistant Professor in [Information Systems](https://istd.sutd.edu.sg/) 
 Interests
 ======
 I am interested in theory of computation and its interface with optimization, dynamical systems, probability and statistics, machine learning and their applications to game theory, evolution and dynamics on networks.
-Here is my [CV].()
+Here is my [CV](https://panageasj.github.io/files/cv.pdf)
 
 Teaching
 ======
