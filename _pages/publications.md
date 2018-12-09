@@ -9,22 +9,22 @@ redirect_from:
 ---
 <br/>
 **Last-Iterate Convergence: Zero-Sum Games and Constrained Min-Max Optimization (with Costis Daskalakis).**<br/>
-_<font color="red"> ITCS 2019 </font>_ {[Arxiv](https://arxiv.org/abs/1807.04252)} <br/>
+_ITCS 2019_ {[Arxiv](https://arxiv.org/abs/1807.04252)} <br/>
 <br/>
 **The Limit Points of (Optimistic) Gradient Descent in Min-Max Optimization (with Costis Daskalakis).** <br/>
-<font color="red"> _NIPS 2018_ </font> {[Arxiv](https://arxiv.org/abs/1807.03907)} <br/>
+_NIPS 2018_ {[Arxiv](https://arxiv.org/abs/1807.03907)} <br/>
 <br/>
 **Cycles in Zero Sum Differential Games and Biological Diversity (with Tung Mai, Milena Mihail, Will Ratcliff, Vijay V. Vazirani and Peter Yunker).** <br/>
-<font color="red"> _EC 2018_ </font> {[Arxiv](https://arxiv.org/abs/1710.11249)},{[Slides](https://panageasj.github.io/files/slidescycles.pdf)} <br/>
+_EC 2018_ {[Arxiv](https://arxiv.org/abs/1710.11249)},{[Slides](https://panageasj.github.io/files/slidescycles.pdf)} <br/>
 <br/>
 **Multiplicative Weights Update with Constant step-size in Congestion Games: Convergence, Limit Cycles and Chaos (with Gerasimos Palaiopanos and Georgios Piliouras).** <br/>
-<font color="red"> _NIPS 2017 (spotlight)_ </font> {[Arxiv](https://arxiv.org/abs/1703.01138)}, {[Poster](https://panageasj.github.io/files/NIPS17_poster.pdf)}, {[Video](https://www.youtube.com/watch?v=KlYaUlcVooo&feature=youtu.be)} <br/>
+ _NIPS 2017 (spotlight)_ {[Arxiv](https://arxiv.org/abs/1703.01138)}, {[Poster](https://panageasj.github.io/files/NIPS17_poster.pdf)}, {[Video](https://www.youtube.com/watch?v=KlYaUlcVooo&feature=youtu.be)} <br/>
 <br/>
 **Opinion Dynamics in Networks: Convergence, Stability and Lack of Explosion (with Tung Mai and Vijay V. Vazirani).** <br/>
-<font color="red"> _ICALP 2017_ </font> {[Arxiv](https://arxiv.org/abs/1607.03881)}, {[slides](https://panageasj.github.io/files/slides_icalp2017.pdf)} <br/>
+_ICALP 2017_ {[Arxiv](https://arxiv.org/abs/1607.03881)}, {[slides](https://panageasj.github.io/files/slides_icalp2017.pdf)} <br/>
 <br/>
 **Gradient Descent Only Converges to Minimizers: Non-Isolated Critical Points and Invariant Regions (with Georgios Piliouras).** <br/>
-<font color="red"> _ITCS 2017_ </font> {[Arxiv](https://arxiv.org/abs/1605.00405)}, {[slides](https://panageasj.github.io/files/slides_itcs2017.pdf)}, {[video](https://www.youtube.com/watch?v=0GELSYGiHFA)} <br/>
+ _ITCS 2017_ {[Arxiv](https://arxiv.org/abs/1605.00405)}, {[slides](https://panageasj.github.io/files/slides_itcs2017.pdf)}, {[video](https://www.youtube.com/watch?v=0GELSYGiHFA)} <br/>
 <br/>
 **Mutation, Sexual Reproduction and Survival in Dynamic Environments (with Ruta Mehta, Georgios Piliouras, Prasad Tetali and Vijay V. Vazirani).** <br/>
 _ITCS 2017_ {[Arxiv](https://arxiv.org/abs/1511.01409)} <br/>
