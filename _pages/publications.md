@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br/>
 **Last-Iterate Convergence: Zero-Sum Games and Constrained Min-Max Optimization (with Costis Daskalakis).**<br/>
-<font color="red"> _ITCS 2019_ </font> {[Arxiv](https://arxiv.org/abs/1807.04252)} <br/>
+_<font color="red"> ITCS 2019 </font>_ {[Arxiv](https://arxiv.org/abs/1807.04252)} <br/>
 <br/>
 **The Limit Points of (Optimistic) Gradient Descent in Min-Max Optimization (with Costis Daskalakis).** <br/>
 <font color="red"> _NIPS 2018_ </font> {[Arxiv](https://arxiv.org/abs/1807.03907)} <br/>
