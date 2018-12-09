@@ -61,4 +61,4 @@ Manuscripts
 Thesis
 ======
 
-**PhD: Evolutionary Markov Chains, potential games and optimization under the lens of dynamical systems** [Pdf](https://panageasj.github.io/files/panageas-thesis.pdf) <br/>
+**PhD: Evolutionary Markov Chains, potential games and optimization under the lens of dynamical systems** {[Pdf](https://panageasj.github.io/files/panageas-thesis.pdf)} <br/>
