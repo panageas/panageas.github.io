@@ -7,7 +7,7 @@ redirect_from:
   - /publications
   - /publications.md
 ---
-
+<br/>
 **Last-Iterate Convergence: Zero-Sum Games and Constrained Min-Max Optimization (with Costis Daskalakis).**<br/>
 _ITCS 2019_ {[Arxiv](https://arxiv.org/abs/1807.04252)} <br/>
 <br/>
@@ -26,3 +26,37 @@ _ICALP 2017_ {[Arxiv](https://arxiv.org/abs/1607.03881)}, {[slides](https://pana
 **Gradient Descent Only Converges to Minimizers: Non-Isolated Critical Points and Invariant Regions (with Georgios Piliouras).** <br/>
 _ITCS 2017_ {[Arxiv](https://arxiv.org/abs/1605.00405)}, {[slides](https://panageasj.github.io/files/slides_itcs2017.pdf)}, {[video](https://www.youtube.com/watch?v=0GELSYGiHFA)} <br/>
 <br/>
+**Mutation, Sexual Reproduction and Survival in Dynamic Environments (with Ruta Mehta, Georgios Piliouras, Prasad Tetali and Vijay V. Vazirani).** <br/>
+_ITCS 2017_ {[Arxiv](https://arxiv.org/abs/1511.01409)} <br/>
+<br/>
+**The Computational Complexity of Genetic Diversity (with Ruta Mehta, Georgios Piliouras and Sadra Yazdanbod).** <br/>
+_ESA 2016_ {[Arxiv](https://arxiv.org/abs/1411.6322)}, {[Slides](https://panageasj.github.io/files/slides_esa16.pdf)}  <br/>
+<br/>
+**Average Case Performance of Replicator Dynamics in Potential Games via Computing Regions of Attraction (with Georgios Piliouras).** <br/>
+_EC 2016_ {[Arxiv](https://arxiv.org/abs/1403.3885)} <br/>
+<br/>
+**Mixing Time of Markov Chains, Dynamical Systems and Evolution (with Nisheeth K. Vishnoi).** <br/>
+_ICALP 2016_ {[Pdf](https://panageasj.github.io/files/dsmc.pdf)} <br/>
+<br/>
+**Evolutionary Dynamics in finite populations mix rapidly (with Piyush Srivastava and Nisheeth K. Vishnoi).** <br/> 
+_SODA 2016_ {[Pdf](https://panageasj.github.io/files/dynamics-full.pdf)},{[Slides](https://panageasj.github.io/files/soda16_slides.pdf)} <br/>
+<br/>
+**Natural Selection as an Inhibitor of Genetic Diversity: Multiplicative Weights Updates Algorithm and a Conjecture of Haploid Genetics (with Ruta Mehta and Georgios Piliouras).** <br/>
+_ITCS 2015_ {[Arxiv](https://arxiv.org/abs/1408.6270)},{[Slides](https://panageasj.github.io/files/itcsv2.pdf)} <br/>
+<br/>
+**Support-theoretic subgraph preconditioners for large-scale SLAM (with Yong-Dian Jian, Doru Balcan, Prasad Tetali, Frank Dellaert).** <br/>
+_IROS 2013_ {[Pdf](https://panageasj.github.io/files/precon.pdf)} <br/>
+<br/>
+Manuscripts
+===========
+**Regression from Dependent Observations (with Costis Daskalakis and Nishanth Dikkala). {Coming soon}** <br/>
+<br/>
+**Multiplicative Weights Updates as a distributed constrained optimization algorithm: Convergence to second-order stationary points almost always (with Georgios Piliouras and Xiao Wang).** <br/>
+{[Arxiv](https://arxiv.org/abs/1810.05355)} <br/>
+<br/>
+**First-order Methods Almost Always Avoid Saddle Points (with Jason D. Lee, Georgios Piliouras, Max Simchowitz, Michael I. Jordan and Benjamin Recht).** <br/>
+{[Arxiv](https://arxiv.org/abs/1710.07406)} / [Have a look at this nice exposition about our work!](http://noahgolmant.com/avoiding-saddle-points) <br/>
+<br/>
+Thesis
+======
+[PhD: Evolutionary Markov Chains, potential games and optimization under the lens of dynamical systems](https://panageasj.github.io/files/panageas-thesis.pdf) <br/>
