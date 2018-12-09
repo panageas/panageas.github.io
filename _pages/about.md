@@ -17,8 +17,3 @@ Interests
 ======
 I am interested in theory of computation and its interface with optimization, dynamical systems, probability and statistics, machine learning and their applications to game theory, evolution and dynamics on networks. <br/>
 Here is my [CV](https://panageasj.github.io/files/cv.pdf)
-
-Teaching
-======
-Introduction to Algorithms, Fall 2018 <br/>
-Reading group on Markov chains and Mixing times, Fall 2016.
