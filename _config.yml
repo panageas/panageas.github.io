@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ioannis Panageas"
 title_separator          : "-"
-name                     : &Ioannis Panageas"
+name                     : &name "Ioannis Panageas"
 description              : &description "Assistant Professor in Information Systems at SUTD"
 url                      : https://panageasj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
