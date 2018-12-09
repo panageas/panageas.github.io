@@ -8,10 +8,10 @@ redirect_from:
   - /publications.md
 ---
 <br/>
-**Last-Iterate Convergence: Zero-Sum Games and Constrained Min-Max Optimization (with Costis Daskalakis).**<br/>
+Last-Iterate Convergence: Zero-Sum Games and Constrained Min-Max Optimization (with Costis Daskalakis). <br/>
 _<font color="red"> ITCS 2019 </font>_ [[Arxiv](https://arxiv.org/abs/1807.04252)] <br/>
 <br/>
-**The Limit Points of (Optimistic) Gradient Descent in Min-Max Optimization (with Costis Daskalakis).** <br/>
+The Limit Points of (Optimistic) Gradient Descent in Min-Max Optimization (with Costis Daskalakis). <br/>
 _<font color="red">NIPS 2018</font>_ [[Arxiv](https://arxiv.org/abs/1807.03907)] <br/>
 <br/>
 **Cycles in Zero Sum Differential Games and Biological Diversity (with Tung Mai, Milena Mihail, Will Ratcliff, Vijay V. Vazirani and Peter Yunker).** <br/>
