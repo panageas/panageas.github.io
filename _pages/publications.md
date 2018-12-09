@@ -46,9 +46,10 @@ _ITCS 2015_ {[Arxiv](https://arxiv.org/abs/1408.6270)},{[Slides](https://panagea
 <br/>
 **Support-theoretic subgraph preconditioners for large-scale SLAM (with Yong-Dian Jian, Doru Balcan, Prasad Tetali, Frank Dellaert).** <br/>
 _IROS 2013_ {[Pdf](https://panageasj.github.io/files/precon.pdf)} <br/>
-<br/>
+
 Manuscripts
 ===========
+
 **Regression from Dependent Observations (with Costis Daskalakis and Nishanth Dikkala). {Coming soon}** <br/>
 <br/>
 **Multiplicative Weights Updates as a distributed constrained optimization algorithm: Convergence to second-order stationary points almost always (with Georgios Piliouras and Xiao Wang).** <br/>
@@ -56,7 +57,8 @@ Manuscripts
 <br/>
 **First-order Methods Almost Always Avoid Saddle Points (with Jason D. Lee, Georgios Piliouras, Max Simchowitz, Michael I. Jordan and Benjamin Recht).** <br/>
 {[Arxiv](https://arxiv.org/abs/1710.07406)} / [Have a look at this nice exposition about our work!](http://noahgolmant.com/avoiding-saddle-points) <br/>
-<br/>
+
 Thesis
 ======
+
 [PhD: Evolutionary Markov Chains, potential games and optimization under the lens of dynamical systems](https://panageasj.github.io/files/panageas-thesis.pdf) <br/>
