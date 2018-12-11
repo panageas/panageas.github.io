@@ -23,3 +23,6 @@ Phone
 (+65)94553x03  <br/>
 (+65)64994x13 (Office) <br/>
 (Replace x with 8)
+<br/>
+<br/>
+Here are my [Google Scholar](https://scholar.google.com/citations?user=5NiFWuwAAAAJ&hl=en) and my [dblp](https://dblp.org/pers/hd/p/Panageas:Ioannis) profiles.
