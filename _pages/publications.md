@@ -8,6 +8,9 @@ redirect_from:
   - /publications.md
 ---
 <br/>
+First-order Methods Almost Always Avoid Saddle Points (with Jason D. Lee, Georgios Piliouras, Max Simchowitz, Michael I. Jordan and Benjamin Recht). <br/>
+_<font color="red"> Accepted at Math. Programming </font>_ [[Arxiv](https://arxiv.org/abs/1710.07406)] / [Have a look at this nice exposition about our work!](http://noahgolmant.com/avoiding-saddle-points) <br/>
+<br/>
 Last-Iterate Convergence: Zero-Sum Games and Constrained Min-Max Optimization (with Costis Daskalakis). <br/>
 _<font color="red"> ITCS 2019 </font>_ [[Arxiv](https://arxiv.org/abs/1807.04252)] <br/>
 <br/>
