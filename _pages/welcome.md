@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /welcome
   - /welcome.html
+  - https://sites.google.com/site/panageasj
 ---
 <br/>
 
