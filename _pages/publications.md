@@ -59,8 +59,6 @@ Regression from Dependent Observations (with Costis Daskalakis and Nishanth Dikk
 Multiplicative Weights Updates as a distributed constrained optimization algorithm: Convergence to second-order stationary points almost always (with Georgios Piliouras and Xiao Wang). <br/>
 [[Arxiv](https://arxiv.org/abs/1810.05355)] <br/>
 <br/>
-First-order Methods Almost Always Avoid Saddle Points (with Jason D. Lee, Georgios Piliouras, Max Simchowitz, Michael I. Jordan and Benjamin Recht). <br/>
-[[Arxiv](https://arxiv.org/abs/1710.07406)] / [Have a look at this nice exposition about our work!](http://noahgolmant.com/avoiding-saddle-points) <br/>
 
 Thesis
 ======
