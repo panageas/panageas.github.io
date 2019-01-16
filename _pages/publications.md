@@ -13,7 +13,7 @@ _<font color="red"> Accepted at Math. Programming </font>_ [[Arxiv](https://arxi
 [Have a look at this nice exposition about our work!](http://noahgolmant.com/avoiding-saddle-points) <br/>
 <br/>
 Last-Iterate Convergence: Zero-Sum Games and Constrained Min-Max Optimization (with Costis Daskalakis). <br/>
-_<font color="red"> ITCS 2019 </font>_ [[Arxiv](https://arxiv.org/abs/1807.04252)], [[Slides](https://panageas.github.io/files/ITCS2019_slides.pdf)] <br/>
+_<font color="red"> ITCS 2019 </font>_ [[Arxiv](https://arxiv.org/abs/1807.04252)], [Slides](https://panageas.github.io/files/ITCS2019_slides.pdf)] <br/>
 <br/>
 The Limit Points of (Optimistic) Gradient Descent in Min-Max Optimization (with Costis Daskalakis). <br/>
 _<font color="red">NIPS 2018</font>_ [[Arxiv](https://arxiv.org/abs/1807.03907)] <br/>
