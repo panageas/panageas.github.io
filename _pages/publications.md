@@ -51,7 +51,7 @@ _<font color="red">ITCS 2015</font>_ [[Arxiv](https://arxiv.org/abs/1408.6270)],
 Support-theoretic subgraph preconditioners for large-scale SLAM (with Yong-Dian Jian, Doru Balcan, Prasad Tetali, Frank Dellaert). <br/>
 _<font color="red">IROS 2013</font>_ [[Pdf](https://panageas.github.io/files/precon.pdf)] <br/>
 
-Manuscripts
+Manuscripts 
 ===========
 
 Regression from Dependent Observations (with Costis Daskalakis and Nishanth Dikkala). [Coming soon] <br/>
