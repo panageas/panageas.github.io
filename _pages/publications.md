@@ -8,6 +8,9 @@ redirect_from:
   - /publications.md
 ---
 <br/>
+Regression from Dependent Observations (with Costis Daskalakis and Nishanth Dikkala). <br/>
+_<font color="red"> STOC 2019 </font>_ [Coming soon] <br/>
+<br/>
 First-order Methods Almost Always Avoid Saddle Points (with Jason D. Lee, Georgios Piliouras, Max Simchowitz, Michael I. Jordan and Benjamin Recht). <br/>
 _<font color="red"> Accepted at Math. Programming, issue on non-convex optimization for statistical learning. </font>_ [[Arxiv](https://arxiv.org/abs/1710.07406)] <br/>
 [Have a look at this nice exposition about our work!](http://noahgolmant.com/avoiding-saddle-points) <br/>
@@ -54,8 +57,6 @@ _<font color="red">IROS 2013</font>_ [[Pdf](https://panageas.github.io/files/pre
 Manuscripts 
 ===========
 
-Regression from Dependent Observations (with Costis Daskalakis and Nishanth Dikkala). [Coming soon] <br/>
-<br/>
 Multiplicative Weights Updates as a distributed constrained optimization algorithm: Convergence to second-order stationary points almost always (with Georgios Piliouras and Xiao Wang). <br/>
 [[Arxiv](https://arxiv.org/abs/1810.05355)] <br/>
 <br/>
