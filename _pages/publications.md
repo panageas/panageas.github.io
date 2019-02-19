@@ -57,7 +57,7 @@ _<font color="red">IROS 2013</font>_ [[Pdf](https://panageas.github.io/files/pre
 Manuscripts 
 ===========
 On the Convergence of EM for truncated mixtures of two Gaussians (with Sai Ganesh Nagarajan). <br/>
-[Comming soon] <br/>
+[Coming soon] <br/>
 <br/>
 Multiplicative Weights Updates as a distributed constrained optimization algorithm: Convergence to second-order stationary points almost always (with Georgios Piliouras and Xiao Wang). <br/>
 [[Arxiv](https://arxiv.org/abs/1810.05355)] <br/>
