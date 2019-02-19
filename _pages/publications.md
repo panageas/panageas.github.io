@@ -59,7 +59,6 @@ Manuscripts
 On the Convergence of EM for truncated mixtures of two Gaussians (with Sai Ganesh Nagarajan). <br/>
 [[Arxiv](Comming soon] <br/>
 <br/>
-
 Multiplicative Weights Updates as a distributed constrained optimization algorithm: Convergence to second-order stationary points almost always (with Georgios Piliouras and Xiao Wang). <br/>
 [[Arxiv](https://arxiv.org/abs/1810.05355)] <br/>
 <br/>
