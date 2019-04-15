@@ -17,7 +17,8 @@ Here are my [Google Scholar](https://scholar.google.com/citations?user=5NiFWuwAA
 Interests
 ======
 I am interested in theory of computation and its interface with optimization, dynamical systems, probability and statistics, machine learning and their applications to game theory, evolution and dynamics on networks. <br/>
-Here is my [CV](https://panageas.github.io/files/cv.pdf)
+Here is my [CV](https://panageas.github.io/files/cv.pdf) .<br/>
+Interested in working with me? [Apply to our PhD program](https://sutd.edu.sg/Admissions/Graduate/PhD-Programmes/SUTD-PhD-Programme/Application) 
 
 Teaching
 ======
