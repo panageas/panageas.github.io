@@ -8,6 +8,9 @@ redirect_from:
   - /publications.md
 ---
 <br/>
+Multiplicative Weights Updates as a distributed constrained optimization algorithm: Convergence to second-order stationary points almost always (with Georgios Piliouras and Xiao Wang). <br/>
+_<font color="red">ICML 2019</font>_ [[Arxiv](https://arxiv.org/abs/1810.05355)] <br/>
+<br/>
 Regression from Dependent Observations (with Costis Daskalakis and Nishanth Dikkala). <br/>
 _<font color="red"> STOC 2019 </font>_ [Coming soon] <br/>
 <br/>
@@ -58,9 +61,6 @@ Manuscripts
 ===========
 On the Convergence of EM for truncated mixtures of two Gaussians (with Sai Ganesh Nagarajan). <br/>
 [[Arxiv](https://arxiv.org/abs/1902.06958)] <br/>
-<br/>
-Multiplicative Weights Updates as a distributed constrained optimization algorithm: Convergence to second-order stationary points almost always (with Georgios Piliouras and Xiao Wang). <br/>
-[[Arxiv](https://arxiv.org/abs/1810.05355)] <br/>
 <br/>
 
 Thesis
