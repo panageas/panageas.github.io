@@ -12,7 +12,7 @@ Multiplicative Weights Updates as a distributed constrained optimization algorit
 _<font color="red">ICML 2019</font>_ [[Arxiv](https://arxiv.org/abs/1810.05355)] <br/>
 <br/>
 Regression from Dependent Observations (with Costis Daskalakis and Nishanth Dikkala). <br/>
-_<font color="red"> STOC 2019 </font>_ [Coming soon] <br/>
+_<font color="red"> STOC 2019 </font>_ [[Arxiv](https://arxiv.org/abs/1905.03353)] <br/>
 <br/>
 First-order Methods Almost Always Avoid Saddle Points (with Jason D. Lee, Georgios Piliouras, Max Simchowitz, Michael I. Jordan and Benjamin Recht). <br/>
 _<font color="red"> Accepted at Math. Programming, issue on non-convex optimization for statistical learning. </font>_ [[Arxiv](https://arxiv.org/abs/1710.07406)] <br/>
