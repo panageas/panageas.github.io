@@ -16,7 +16,6 @@ I am an Assistant Professor in [Information Systems](https://istd.sutd.edu.sg/) 
 <b> Received NRF Award for AI (2019-2024) </b>. Thank you NRF!! <br/><br/>
 
 Here are my [Google Scholar](https://scholar.google.com/citations?user=5NiFWuwAAAAJ&hl=en) and my [dblp](https://dblp.org/pers/hd/p/Panageas:Ioannis) profiles. <br/>
-
 Interested in working with me? [Apply to our PhD program](https://sutd.edu.sg/Admissions/Graduate/PhD-Programmes/SUTD-PhD-Programme/Application) 
 
 
