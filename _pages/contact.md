@@ -15,7 +15,7 @@ Email
 =======
 panageasj {at} gmail {dot} com <br/>
 ioannis {at} sutd {dot} edu {dot} sg <br/>
-ioannis {at} csail {dot} min {dot} edu
+ioannis {at} csail {dot} mit {dot} edu
 
 Phone
 =======
