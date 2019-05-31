@@ -59,8 +59,8 @@ _<font color="red">IROS 2013</font>_ [[Pdf](https://panageas.github.io/files/pre
 
 Manuscripts 
 ===========
-On the Convergence of EM for truncated mixtures of two Gaussians (with Sai Ganesh Nagarajan). <br/>
-[[Arxiv](https://arxiv.org/abs/1902.06958)] <br/>
+On the Analysis of EM for truncated mixtures of two Gaussians (with Sai Ganesh Nagarajan). <br/>
+[[Arxiv](https://arxiv.org/abs/1902.06958v3)] <br/>
 <br/>
 
 Thesis
