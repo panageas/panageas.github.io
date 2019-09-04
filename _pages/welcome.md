@@ -23,7 +23,7 @@ Here is my [CV](https://panageas.github.io/files/cv.pdf).
 
 Positions
 ======
-<b>2-year Postdoc positions </b> are available (negotiable starting date, competitive salary), apply by sending to my email your CV and 1-2 representative publications. Requirement is that you have a PhD in Theoretical Computer Science/Mathematics/Machine Learning or related field and publications in conferences such as NIPS, ICML, STOC, FOCS, SODA, ICALP etc (or if you hold a PhD in Mathematics, one publication in a good journal).   
+<b>2-year Postdoc positions </b> are available (negotiable starting date, competitive salary), apply by sending to my email your CV and 1-2 representative publications. Requirement is that you have a PhD in Theoretical Computer Science/Mathematics/Machine Learning or related field.   
 
 Interested in working with me? [Apply to our PhD program](https://sutd.edu.sg/Admissions/Graduate/PhD-Programmes/SUTD-PhD-Programme/Application). 
 
