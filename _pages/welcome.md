@@ -27,6 +27,13 @@ Positions
 
 Interested in working with me? [Apply to our PhD program](https://sutd.edu.sg/Admissions/Graduate/PhD-Programmes/SUTD-PhD-Programme/Application). 
 
+Committees 
+======
+AAAI Conference on Artificial Intelligence (AAAI) 2020
+Neural Information Processing and Systems (NeurIPS) 2019
+International Conference on Machine Learning (ICML) 2019
+Conference on Economics and Computation (EC) 2019
+Conference on Web and Internet Economics (WINE) 2019
 
 Teaching
 ======
