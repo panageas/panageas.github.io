@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br/>
 First-order methods Almost Always Avoid Saddle Points: The case of Vanishing Step-sizes (with Xiao Wang and Georgios Piliouras). <br/> 
-_<font color="red">NeurIPS 2018</font>_ [[Arxiv](https://arxiv.org/abs/1906.07772)] <br/>
+_<font color="red">NeurIPS 2019</font>_ [[Arxiv](https://arxiv.org/abs/1906.07772)] <br/>
 <br/>
 Multiplicative Weights Updates as a distributed constrained optimization algorithm: Convergence to second-order stationary points almost always (with Georgios Piliouras and Xiao Wang). <br/>
 _<font color="red">ICML 2019</font>_ [[Arxiv](https://arxiv.org/abs/1810.05355)] <br/>
