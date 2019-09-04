@@ -29,10 +29,10 @@ Interested in working with me? [Apply to our PhD program](https://sutd.edu.sg/Ad
 
 Committees 
 ======
-AAAI Conference on Artificial Intelligence (AAAI) 2020
-Neural Information Processing and Systems (NeurIPS) 2019
-International Conference on Machine Learning (ICML) 2019
-Conference on Economics and Computation (EC) 2019
+AAAI Conference on Artificial Intelligence (AAAI) 2020 <br/>
+Neural Information Processing and Systems (NeurIPS) 2019 <br/>
+International Conference on Machine Learning (ICML) 2019 <br/>
+Conference on Economics and Computation (EC) 2019 <br/>
 Conference on Web and Internet Economics (WINE) 2019
 
 Teaching
