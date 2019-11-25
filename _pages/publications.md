@@ -8,6 +8,9 @@ redirect_from:
   - /publications.md
 ---
 <br/>
+On the Analysis of EM for truncated mixtures of two Gaussians (with Sai Ganesh Nagarajan). <br/>
+_<font color="red">ALT 2020</font>_ [[Arxiv](https://arxiv.org/abs/1902.06958v3)] <br/>
+<br/>
 First-order methods Almost Always Avoid Saddle Points: The case of Vanishing Step-sizes (with Xiao Wang and Georgios Piliouras). <br/> 
 _<font color="red">NeurIPS 2019</font>_ [[Arxiv](https://arxiv.org/abs/1906.07772)] <br/>
 <br/>
@@ -62,9 +65,7 @@ _<font color="red">IROS 2013</font>_ [[Pdf](https://panageas.github.io/files/pre
 
 Manuscripts 
 ===========
-On the Analysis of EM for truncated mixtures of two Gaussians (with Sai Ganesh Nagarajan). <br/>
-[[Arxiv](https://arxiv.org/abs/1902.06958v3)] <br/>
-<br/>
+
 
 Thesis
 ======
