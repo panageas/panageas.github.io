@@ -28,13 +28,13 @@ Last-Iterate Convergence: Zero-Sum Games and Constrained Min-Max Optimization (w
 _<font color="red"> ITCS 2019 </font>_ [[Arxiv](https://arxiv.org/abs/1807.04252)], [[Slides](https://panageas.github.io/files/ITCS2019_slides.pdf)] <br/>
 <br/>
 The Limit Points of (Optimistic) Gradient Descent in Min-Max Optimization (with Costis Daskalakis). <br/>
-_<font color="red">NIPS 2018</font>_ [[Arxiv](https://arxiv.org/abs/1807.03907)], [[Poster](https://panageas.github.io/files/NIPS18_poster.pdf)] <br/>
+_<font color="red">NeurIPS 2018</font>_ [[Arxiv](https://arxiv.org/abs/1807.03907)], [[Poster](https://panageas.github.io/files/NIPS18_poster.pdf)] <br/>
 <br/>
 Cycles in Zero Sum Differential Games and Biological Diversity (with Tung Mai, Milena Mihail, Will Ratcliff, Vijay V. Vazirani and Peter Yunker).<br/>
 _<font color="red"> EC 2018</font>_ [[Arxiv](https://arxiv.org/abs/1710.11249)],[[Slides](https://panageas.github.io/files/slidescycles.pdf)] <br/>
 <br/>
 Multiplicative Weights Update with Constant step-size in Congestion Games: Convergence, Limit Cycles and Chaos (with Gerasimos Palaiopanos and Georgios Piliouras). <br/>
- _<font color="red">NIPS 2017 (spotlight)</font>_ [[Arxiv](https://arxiv.org/abs/1703.01138)], [[Poster](https://panageas.github.io/files/NIPS17_poster.pdf)], [[Video](https://www.youtube.com/watch?v=KlYaUlcVooo&feature=youtu.be)] <br/>
+ _<font color="red">NeurIPS 2017 (spotlight)</font>_ [[Arxiv](https://arxiv.org/abs/1703.01138)], [[Poster](https://panageas.github.io/files/NIPS17_poster.pdf)], [[Video](https://www.youtube.com/watch?v=KlYaUlcVooo&feature=youtu.be)] <br/>
 <br/>
 Opinion Dynamics in Networks: Convergence, Stability and Lack of Explosion (with Tung Mai and Vijay V. Vazirani). <br/>
 _<font color="red">ICALP 2017</font>_ [[Arxiv](https://arxiv.org/abs/1607.03881)],[[slides](https://panageas.github.io/files/slides_icalp2017.pdf)] <br/>
