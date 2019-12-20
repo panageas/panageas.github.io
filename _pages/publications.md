@@ -36,7 +36,7 @@ _<font color="red">NeurIPS 2018</font>_ [[Arxiv](https://arxiv.org/abs/1807.0390
 Cycles in Zero Sum Differential Games and Biological Diversity <br/>(with Tung Mai, Milena Mihail, Will Ratcliff, Vijay V. Vazirani and Peter Yunker).<br/>
 _<font color="red"> EC 2018</font>_ [[Arxiv](https://arxiv.org/abs/1710.11249)],[[Slides](https://panageas.github.io/files/slidescycles.pdf)] <br/>
 <br/>
-Multiplicative Weights Update with Constant step-size in Congestion Games: Convergence, Limit Cycles and Chaos (with Gerasimos Palaiopanos and Georgios Piliouras). <br/>
+Multiplicative Weights Update with Constant step-size in Congestion Games: Convergence, Limit Cycles and Chaos <br/>(with Gerasimos Palaiopanos and Georgios Piliouras). <br/>
  _<font color="red">NeurIPS 2017 (spotlight)</font>_ [[Arxiv](https://arxiv.org/abs/1703.01138)], [[Poster](https://panageas.github.io/files/NIPS17_poster.pdf)], [[Video](https://www.youtube.com/watch?v=KlYaUlcVooo&feature=youtu.be)] <br/>
 <br/>
 Opinion Dynamics in Networks: Convergence, Stability and Lack of Explosion <br/>(with Tung Mai and Vijay V. Vazirani). <br/>
@@ -51,7 +51,7 @@ _<font color="red">ITCS 2017</font>_ [[Arxiv](https://arxiv.org/abs/1511.01409)]
 The Computational Complexity of Genetic Diversity (with Ruta Mehta, Georgios Piliouras and Sadra Yazdanbod). <br/>
 _<font color="red">ESA 2016</font>_ [[Arxiv](https://arxiv.org/abs/1411.6322)], [[Slides](https://panageas.github.io/files/slides_esa16.pdf)]  <br/>
 <br/>
-Average Case Performance of Replicator Dynamics in Potential Games via Computing Regions of Attraction (with Georgios Piliouras). <br/>
+Average Case Performance of Replicator Dynamics in Potential Games via Computing Regions of Attraction <br/>(with Georgios Piliouras). <br/>
 _<font color="red">EC 2016</font>_ [[Arxiv](https://arxiv.org/abs/1403.3885)] <br/>
 <br/>
 Mixing Time of Markov Chains, Dynamical Systems and Evolution (with Nisheeth K. Vishnoi). <br/>
