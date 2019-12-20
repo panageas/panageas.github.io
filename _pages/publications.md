@@ -8,6 +8,9 @@ redirect_from:
   - /publications.md
 ---
 <br/>
+Depth-Width Trade-offs for ReLU Networks via Sharkovsky's Theorem (with Vaggos Chatziafratis, Sai Ganesh Nagarajan and Xiao Wang). <br/>
+_<font color="red">ICLR 2020 (spotlight)</font>_ [[Arxiv](https://arxiv.org/abs/1912.04378)] <br/>
+<br/>
 On the Analysis of EM for truncated mixtures of two Gaussians (with Sai Ganesh Nagarajan). <br/>
 _<font color="red">ALT 2020</font>_ [[Arxiv](https://arxiv.org/abs/1902.06958)] <br/>
 <br/>
