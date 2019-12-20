@@ -36,7 +36,7 @@ _<font color="red">NeurIPS 2018</font>_ [[Arxiv](https://arxiv.org/abs/1807.0390
 Cycles in Zero Sum Differential Games and Biological Diversity <br/>(with Tung Mai, Milena Mihail, Will Ratcliff, Vijay V. Vazirani and Peter Yunker).<br/>
 _<font color="red"> EC 2018</font>_ [[Arxiv](https://arxiv.org/abs/1710.11249)],[[Slides](https://panageas.github.io/files/slidescycles.pdf)] <br/>
 <br/>
-Multiplicative Weights Update with Constant step-size in Congestion Games: Convergence, Limit Cycles and Chaos <br/>(with Gerasimos Palaiopanos and Georgios Piliouras). <br/>
+Multiplicative Weights Update with Constant step-size in Congestion Games: Convergence, Limit Cycles and Chaos (with Gerasimos Palaiopanos and Georgios Piliouras). <br/>
  _<font color="red">NeurIPS 2017 (spotlight)</font>_ [[Arxiv](https://arxiv.org/abs/1703.01138)], [[Poster](https://panageas.github.io/files/NIPS17_poster.pdf)], [[Video](https://www.youtube.com/watch?v=KlYaUlcVooo&feature=youtu.be)] <br/>
 <br/>
 Opinion Dynamics in Networks: Convergence, Stability and Lack of Explosion <br/>(with Tung Mai and Vijay V. Vazirani). <br/>
@@ -45,13 +45,13 @@ _<font color="red">ICALP 2017</font>_ [[Arxiv](https://arxiv.org/abs/1607.03881)
 Gradient Descent Only Converges to Minimizers: Non-Isolated Critical Points and Invariant Regions (with Georgios Piliouras). <br/>
  _<font color="red">ITCS 2017</font>_ [[Arxiv](https://arxiv.org/abs/1605.00405)], [[slides](https://panageas.github.io/files/slides_itcs2017.pdf)], [[video](https://www.youtube.com/watch?v=0GELSYGiHFA)] <br/>
 <br/>
-Mutation, Sexual Reproduction and Survival in Dynamic Environments (with Ruta Mehta, Georgios Piliouras, Prasad Tetali and Vijay V. Vazirani). <br/>
+Mutation, Sexual Reproduction and Survival in Dynamic Environments <br/>(with Ruta Mehta, Georgios Piliouras, Prasad Tetali and Vijay V. Vazirani). <br/>
 _<font color="red">ITCS 2017</font>_ [[Arxiv](https://arxiv.org/abs/1511.01409)] <br/>
 <br/>
-The Computational Complexity of Genetic Diversity (with Ruta Mehta, Georgios Piliouras and Sadra Yazdanbod). <br/>
+The Computational Complexity of Genetic Diversity <br/>(with Ruta Mehta, Georgios Piliouras and Sadra Yazdanbod). <br/>
 _<font color="red">ESA 2016</font>_ [[Arxiv](https://arxiv.org/abs/1411.6322)], [[Slides](https://panageas.github.io/files/slides_esa16.pdf)]  <br/>
 <br/>
-Average Case Performance of Replicator Dynamics in Potential Games via Computing Regions of Attraction <br/>(with Georgios Piliouras). <br/>
+Average Case Performance of Replicator Dynamics in Potential Games via Computing Regions of Attraction (with Georgios Piliouras). <br/>
 _<font color="red">EC 2016</font>_ [[Arxiv](https://arxiv.org/abs/1403.3885)] <br/>
 <br/>
 Mixing Time of Markov Chains, Dynamical Systems and Evolution (with Nisheeth K. Vishnoi). <br/>
@@ -63,7 +63,7 @@ _<font color="red">SODA 2016</font>_ [[Pdf](https://panageas.github.io/files/dyn
 Natural Selection as an Inhibitor of Genetic Diversity: Multiplicative Weights Updates Algorithm and a Conjecture of Haploid Genetics (with Ruta Mehta and Georgios Piliouras). <br/>
 _<font color="red">ITCS 2015</font>_ [[Arxiv](https://arxiv.org/abs/1408.6270)],[[Slides](https://panageas.github.io/files/itcsv2.pdf)] <br/>
 <br/>
-Support-theoretic subgraph preconditioners for large-scale SLAM (with Yong-Dian Jian, Doru Balcan, Prasad Tetali, Frank Dellaert). <br/>
+Support-theoretic subgraph preconditioners for large-scale SLAM <br/>(with Yong-Dian Jian, Doru Balcan, Prasad Tetali, Frank Dellaert). <br/>
 _<font color="red">IROS 2013</font>_ [[Pdf](https://panageas.github.io/files/precon.pdf)] <br/>
 
 Manuscripts 
