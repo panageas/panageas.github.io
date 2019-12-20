@@ -54,7 +54,7 @@ _<font color="red">ESA 2016</font>_ [[Arxiv](https://arxiv.org/abs/1411.6322)], 
 Average Case Performance of Replicator Dynamics in Potential Games via Computing Regions of Attraction (with Georgios Piliouras). <br/>
 _<font color="red">EC 2016</font>_ [[Arxiv](https://arxiv.org/abs/1403.3885)] <br/>
 <br/>
-Mixing Time of Markov Chains, Dynamical Systems and Evolution (with Nisheeth K. Vishnoi). <br/>
+Mixing Time of Markov Chains, Dynamical Systems and Evolution <br/>(with Nisheeth K. Vishnoi). <br/>
 _<font color="red">ICALP 2016</font>_ [[Pdf](https://panageas.github.io/files/dsmc.pdf)] <br/>
 <br/>
 Evolutionary Dynamics in finite populations mix rapidly <br/>(with Piyush Srivastava and Nisheeth K. Vishnoi). <br/> 
