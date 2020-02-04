@@ -12,7 +12,7 @@ Logistic regression with peer-group effects via inference in higher-order Ising 
 _<font color="red">AISTATS 2020 </font>_ [[Arxiv soon]] <br/>
 <br/>
 Depth-Width Trade-offs for ReLU Networks via Sharkovsky's Theorem <br/> (with Vaggos Chatziafratis, Sai Ganesh Nagarajan and Xiao Wang). <br/>
-_<font color="red">ICLR 2020 (spotlight)</font>_ [[Arxiv](https://arxiv.org/abs/1912.04378)] <br/>
+_<font color="red">ICLR 2020 (spotlight)</font>_ [[Arxiv](https://arxiv.org/abs/1912.04378)], [[Mifods talk](https://www.youtube.com/watch?v=HNQ204BmOQ8) <br/>
 <br/>
 On the Analysis of EM for truncated mixtures of two Gaussians <br/>(with Sai Ganesh Nagarajan). <br/>
 _<font color="red">ALT 2020</font>_ [[Arxiv](https://arxiv.org/abs/1902.06958)] <br/>
