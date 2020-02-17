@@ -44,5 +44,5 @@ Introduction to Algorithms, Fall 2018 <br/>
 
 Students and Postdocs
 ======
-[Xiao Wang](https://xiiaowang.github.io/) <br/>
-[Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (Co-advising)<br/>
+Postdoc [Xiao Wang](https://xiiaowang.github.io/) <br/>
+Student [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (Co-advising with G. Piliouras)<br/>
