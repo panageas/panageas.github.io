@@ -76,11 +76,11 @@ Better Depth-Width Trade-offs for Neural Networks through the lens of Dynamical 
 (with Vaggos Chatziafratis and Sai Ganesh Nagarajan). <br/>
 [[Arxiv](https://arxiv.org/abs/2003.00777)] <br/>
  <br/>
-Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently <br/>
+Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently 
 (with Stratis Skoulakis, Antonios Varvitsiotis and Xiao Wang). <br/>
 [[Arxiv](https://arxiv.org/abs/2002.11323)] <br/>
 <br/>
-Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes <br/>
+Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes 
 (with Qi Lei, Sai Ganesh Nagarajan and Xiao Wang). <br/>
 [[Arxiv](https://arxiv.org/abs/2002.06768)] <br/>
 
