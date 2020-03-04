@@ -83,7 +83,10 @@ Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: 
 Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes 
 (with Qi Lei, Sai Ganesh Nagarajan and Xiao Wang). <br/>
 [[Arxiv](https://arxiv.org/abs/2002.06768)] <br/>
-
+<br/>
+Efficient Statistics for Sparse Graphical Models from Truncated Samples <br/>
+(with Arnab Bhattacharya, Rathin Desai and Sai Ganesh Nagarajan). <br/>
+[Arxiv soon]
 
 Thesis
 ======
