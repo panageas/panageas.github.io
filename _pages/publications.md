@@ -71,7 +71,13 @@ _<font color="red">IROS 2013</font>_ [[Pdf](https://panageas.github.io/files/pre
 
 Manuscripts 
 ===========
-
+<br/>
+Better Depth-Width Trade-offs for Neural Networks through the lens of Dynamical Systems [[Arxiv](https://arxiv.org/abs/2003.00777)] <br/>
+(with Vaggos Chatziafratis and Sai Ganesh Nagarajan). <br/>
+Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently [[Arxiv](https://arxiv.org/abs/2002.11323)] <br/>
+(with Stratis Skoulakis, Antonios Varvitsiotis and Xiao Wang). <br/>
+Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes [[Arxiv](https://arxiv.org/abs/2002.06768)] <br/>
+(with Qi Lei, Sai Ganesh Nagarajan and Xiao Wang). <br/>
 
 Thesis
 ======
