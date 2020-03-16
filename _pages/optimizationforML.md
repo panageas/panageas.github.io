@@ -7,7 +7,7 @@ redirect_from:
   - /optimizationforML
   - /optimizationforML.md
 ---
-Below you can find slides and lecture notes. The syllabus can be found [here](https://panageas.github.io/files/syllabus.pdf) <br/>
+Below you can find slides and lecture notes. The syllabus can be found [here](https://panageas.github.io/files/syllabus.pdf). <br/>
 <br/>
 [Lecture 1](https://panageas.github.io/_pages/L01 GD.pdf): Definitions and Gradient Descent    <br/>
 [Lecture 2](https://panageas.github.io/_pages/L02 SGD.pdf): Stochastic Gradient Descent<br/>
