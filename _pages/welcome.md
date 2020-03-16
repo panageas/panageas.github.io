@@ -37,7 +37,7 @@ Conference on Web and Internet Economics (<b>WINE</b>) 2019
 
 Teaching
 ======
-[Optimization for Machine Learning, Spring 2020](https://panageas.github.io/optimizationforML.md) <br/>
+[Optimization for Machine Learning, Spring 2020](https://panageas.github.io/optimizationforML) <br/>
 Introduction to Algorithms, Fall 2019 <br/>
 Introduction to Algorithms, Fall 2018 <br/>
 [Reading group on Markov chains and Mixing times](https://panageas.github.io/files/reading_markovchains.pdf), Fall 2016.
