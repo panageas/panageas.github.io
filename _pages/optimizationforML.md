@@ -16,5 +16,5 @@ Below you can find slides and lecture notes. The syllabus can be found [here](ht
 [Lecture 5 slides](https://panageas.github.io/_pages/slides_week4(partb).pdf): Non-convex optimization<br/>
 [Lecture 6 slides](https://panageas.github.io/_pages/slides_week5.pdf): Non-convex optimization (part 2) <br/>
 [Lecture 7 slides](https://panageas.github.io/_pages/slides_week6.pdf): Accelerated GD (Nesterov) <br/>
-[Lecture 8 slides](https://panageas.github.io/_pages/slides_week7.pdf): Accelerated GD (Nesterov) <br/>
+[Lecture 8 slides](https://panageas.github.io/_pages/slides_week7.pdf): Intro to min-max optimization <br/>
 <br/>
