@@ -7,7 +7,7 @@ redirect_from:
   - /optimizationforML
   - /optimizationforML.md
 ---
-Below you can find slides and lecture notes. The syllabus can be found [here](https://panageas.github.io/files/syllabus.pdf). <br/>
+Below you can find slides and lecture notes. The syllabus can be found [here](https://panageas.github.io/files/syllabus.pdf), the homework [here](https://panageas.github.io/_pages/Homework.pdf) and the projects [here](https://panageas.github.io/_pages/projects.pdf).<br/> 
 <br/>
 [Lecture 1 slides](https://panageas.github.io/_pages/L01 GD.pdf), [Lecture notes](https://panageas.github.io/_pages/L01_LectureNotes.pdf): Definitions and Gradient Descent    <br/>
 [Lecture 2 slides](https://panageas.github.io/_pages/L02 SGD.pdf), [Lecture notes](https://panageas.github.io/_pages/L02_LectureNotes.pdf): Stochastic Gradient Descent<br/>
@@ -16,4 +16,5 @@ Below you can find slides and lecture notes. The syllabus can be found [here](ht
 [Lecture 5 slides](https://panageas.github.io/_pages/slides_week4(partb).pdf): Non-convex optimization<br/>
 [Lecture 6 slides](https://panageas.github.io/_pages/slides_week5.pdf): Non-convex optimization (part 2) <br/>
 [Lecture 7 slides](https://panageas.github.io/_pages/slides_week6.pdf): Accelerated GD (Nesterov) <br/>
+[Lecture 8 slides](https://panageas.github.io/_pages/slides_week7.pdf): Accelerated GD (Nesterov) <br/>
 <br/>
