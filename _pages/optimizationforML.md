@@ -19,5 +19,5 @@ Below you can find slides and lecture notes. The syllabus can be found [here](ht
 [Lecture 8 slides](https://panageas.github.io/_pages/slides_week7.pdf): Intro to min-max optimization <br/>
 [Lecture 9 slides](https://panageas.github.io/_pages/slides_week7(part%20b).pdf): Min-max optimization using optimism <br/>
 [Lecture 10 slides](https://panageas.github.io/_pages/slides_week8.pdf): Intro to statistical learning and ERM <br/>
-[Lecture 11 slides](https://panageas.github.io/_pages/slides_week8(part%20b).pdf): VC dimension <br/>
+[Lecture 11 slides](https://panageas.github.io/_pages/slides_week8(partb).pdf): VC dimension <br/>
 <br/>
