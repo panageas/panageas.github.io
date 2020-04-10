@@ -22,4 +22,5 @@ Below you can find slides and lecture notes. The syllabus can be found [here](ht
 [Lecture 11 slides](https://panageas.github.io/_pages/slides_week8(partb).pdf): VC dimension <br/>
 [Lecture 12 slides](https://panageas.github.io/_pages/slides_week9.pdf): Intro to multi-armed bandits <br/>
 [Lecture 13 slides](https://panageas.github.io/_pages/slides_week9(partb).pdf): Intro to multi-armed bandits part 2 <br/>
+[Lecture 14 slides](https://panageas.github.io/_pages/slides_week10.pdf): Intro to MDPs <br/>
 <br/>
