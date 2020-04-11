@@ -16,7 +16,7 @@ Below you can find slides and lecture notes. The syllabus can be found [here](ht
 [Lecture 5 slides](https://panageas.github.io/_pages/slides_week4(partb).pdf): Non-convex optimization<br/>
 [Lecture 6 slides](https://panageas.github.io/_pages/slides_week5.pdf): Non-convex optimization (part 2) <br/>
 [Lecture 7 slides](https://panageas.github.io/_pages/slides_week6.pdf), [Lecture notes](https://panageas.github.io/_pages/L06_LectureNotes.pdf): Accelerated GD (Nesterov) <br/>
-[Lecture 8 slides](https://panageas.github.io/_pages/slides_week7.pdf): Intro to min-max optimization <br/>
+[Lecture 8 slides](https://panageas.github.io/_pages/slides_week7.pdf), [Lecture notes](https://panageas.github.io/_pages/GANs_scribe.pdf): Intro to min-max optimization <br/>
 [Lecture 9 slides](https://panageas.github.io/_pages/slides_week7(part%20b).pdf): Min-max optimization using optimism <br/>
 [Lecture 10 slides](https://panageas.github.io/_pages/slides_week8.pdf): Intro to statistical learning and ERM <br/>
 [Lecture 11 slides](https://panageas.github.io/_pages/slides_week8(partb).pdf): VC dimension <br/>
