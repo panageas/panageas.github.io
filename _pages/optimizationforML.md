@@ -20,7 +20,7 @@ Below you can find slides and lecture notes. The syllabus can be found [here](ht
 [Lecture 9 slides](https://panageas.github.io/_pages/slides_week7(part%20b).pdf): Min-max optimization using optimism <br/>
 [Lecture 10 slides](https://panageas.github.io/_pages/slides_week8.pdf), [Lecture notes](https://panageas.github.io/_pages/stat-learning.pdf): Intro to statistical learning and ERM <br/>
 [Lecture 11 slides](https://panageas.github.io/_pages/slides_week8(partb).pdf): VC dimension <br/>
-[Lecture 12 slides](https://panageas.github.io/_pages/slides_week9.pdf): Intro to multi-armed bandits <br/>
+[Lecture 12 slides](https://panageas.github.io/_pages/slides_week9.pdf), [Lecture notes](https://panageas.github.io/_pages/L09_LectureNotes.pdf): Intro to multi-armed bandits <br/>
 [Lecture 13 slides](https://panageas.github.io/_pages/slides_week9(partb).pdf): Intro to multi-armed bandits part 2 <br/>
 [Lecture 14 slides](https://panageas.github.io/_pages/slides_week10.pdf): Intro to MDPs <br/>
 <br/>
