@@ -22,22 +22,27 @@ Better Depth-Width Trade-offs for Neural Networks through the lens of Dynamical 
 Submitted, [[Arxiv](https://arxiv.org/abs/2003.00777)] 2020<br/>
  <br/>
 Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently 
+<br/>
 (with Stratis Skoulakis, Antonios Varvitsiotis and Xiao Wang). <br/>
 Submitted, [[Arxiv](https://arxiv.org/abs/2002.11323)] 2020<br/>
 <br/>
 Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes 
+<br/>
 (with Qi Lei, Sai Ganesh Nagarajan and Xiao Wang). <br/>
 Submitted, [[Arxiv](https://arxiv.org/abs/2002.06768)] 2020<br/>
 <br/>
 Fast Convergence of Langevin Dynamics on Manifold: Geodesics meet Log-Sobolev
+<br/>
 (with Qi Lei and Xiao Wang). <br/>
 Submitted, [[Arxiv soon] 2020<br/>
 <br/>
 Mean estimation of truncated mixtures of two Gaussians: A gradient based approach
+<br/>
 (with Sai Ganesh Nagarajan, Tushar Vaidya and Samson Yu Bai Jian)
 Submitted, [[Arxiv soon] 2020<br/>
 <br/>
 Efficient Statistics for Sparse Graphical Models from Truncated Samples
+<br/>
 (with Arnab Bhattacharya, Rathin Desai and Sai Ganesh Nagarajan)
 Submitted, [[Arxiv soon] 2020<br/>
 <br/>
