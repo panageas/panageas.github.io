@@ -39,11 +39,13 @@ Submitted, [[Arxiv soon] 2020<br/>
 Mean estimation of truncated mixtures of two Gaussians: A gradient based approach
 <br/>
 (with Sai Ganesh Nagarajan, Tushar Vaidya and Samson Yu Bai Jian)
+<br/>
 Submitted, [[Arxiv soon] 2020<br/>
 <br/>
 Efficient Statistics for Sparse Graphical Models from Truncated Samples
 <br/>
 (with Arnab Bhattacharya, Rathin Desai and Sai Ganesh Nagarajan)
+<br/>
 Submitted, [[Arxiv soon] 2020<br/>
 <br/>
 First-order methods Almost Always Avoid Saddle Points: The case of Vanishing Step-sizes <br/>(with Xiao Wang and Georgios Piliouras). <br/> 
