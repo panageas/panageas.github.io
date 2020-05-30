@@ -8,15 +8,6 @@ redirect_from:
   - /publications.md
 ---
 <br/>
-Logistic regression with peer-group effects via inference in higher-order Ising models <br/> (with Costis Daskalakis and Nishanth Dikkala). <br/>
-_<font color="red">AISTATS 2020 </font>_ [[Arxiv](https://arxiv.org/abs/2003.08259)] <br/>
-<br/>
-Depth-Width Trade-offs for ReLU Networks via Sharkovsky's Theorem <br/> (with Vaggos Chatziafratis, Sai Ganesh Nagarajan and Xiao Wang). <br/>
-_<font color="red">ICLR 2020 (spotlight)</font>_ [[Arxiv](https://arxiv.org/abs/1912.04378)], [[Mifods talk](https://www.youtube.com/watch?v=HNQ204BmOQ8)] <br/>
-<br/>
-On the Analysis of EM for truncated mixtures of two Gaussians <br/>(with Sai Ganesh Nagarajan). <br/>
-_<font color="red">ALT 2020</font>_ [[Arxiv](https://arxiv.org/abs/1902.06958)] <br/>
-<br/>
 Better Depth-Width Trade-offs for Neural Networks through the lens of Dynamical Systems <br/>
 (with Vaggos Chatziafratis and Sai Ganesh Nagarajan). <br/>
 Submitted, [[Arxiv](https://arxiv.org/abs/2003.00777)] 2020<br/>
@@ -47,6 +38,15 @@ Efficient Statistics for Sparse Graphical Models from Truncated Samples
 (with Arnab Bhattacharya, Rathin Desai and Sai Ganesh Nagarajan)
 <br/>
 Submitted, [[Arxiv soon] 2020<br/>
+<br/>
+Logistic regression with peer-group effects via inference in higher-order Ising models <br/> (with Costis Daskalakis and Nishanth Dikkala). <br/>
+_<font color="red">AISTATS 2020 </font>_ [[Arxiv](https://arxiv.org/abs/2003.08259)] <br/>
+<br/>
+Depth-Width Trade-offs for ReLU Networks via Sharkovsky's Theorem <br/> (with Vaggos Chatziafratis, Sai Ganesh Nagarajan and Xiao Wang). <br/>
+_<font color="red">ICLR 2020 (spotlight)</font>_ [[Arxiv](https://arxiv.org/abs/1912.04378)], [[Mifods talk](https://www.youtube.com/watch?v=HNQ204BmOQ8)] <br/>
+<br/>
+On the Analysis of EM for truncated mixtures of two Gaussians <br/>(with Sai Ganesh Nagarajan). <br/>
+_<font color="red">ALT 2020</font>_ [[Arxiv](https://arxiv.org/abs/1902.06958)] <br/>
 <br/>
 First-order methods Almost Always Avoid Saddle Points: The case of Vanishing Step-sizes <br/>(with Xiao Wang and Georgios Piliouras). <br/> 
 _<font color="red">NeurIPS 2019</font>_ [[Arxiv](https://arxiv.org/abs/1906.07772)] <br/>
