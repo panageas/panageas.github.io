@@ -17,6 +17,18 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ [[Arxiv](https://arxiv.org/abs/
 On the Analysis of EM for truncated mixtures of two Gaussians <br/>(with Sai Ganesh Nagarajan). <br/>
 _<font color="red">ALT 2020</font>_ [[Arxiv](https://arxiv.org/abs/1902.06958)] <br/>
 <br/>
+Better Depth-Width Trade-offs for Neural Networks through the lens of Dynamical Systems <br/>
+(with Vaggos Chatziafratis and Sai Ganesh Nagarajan). <br/>
+[[Arxiv](https://arxiv.org/abs/2003.00777)] 2020<br/>
+ <br/>
+Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently 
+(with Stratis Skoulakis, Antonios Varvitsiotis and Xiao Wang). <br/>
+[[Arxiv](https://arxiv.org/abs/2002.11323)] 2020<br/>
+<br/>
+Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes 
+(with Qi Lei, Sai Ganesh Nagarajan and Xiao Wang). 2020<br/>
+[[Arxiv](https://arxiv.org/abs/2002.06768)] 
+<br/>
 First-order methods Almost Always Avoid Saddle Points: The case of Vanishing Step-sizes <br/>(with Xiao Wang and Georgios Piliouras). <br/> 
 _<font color="red">NeurIPS 2019</font>_ [[Arxiv](https://arxiv.org/abs/1906.07772)] <br/>
 <br/>
@@ -71,18 +83,7 @@ _<font color="red">IROS 2013</font>_ [[Pdf](https://panageas.github.io/files/pre
 
 Manuscripts 
 ===========
-<br/>
-Better Depth-Width Trade-offs for Neural Networks through the lens of Dynamical Systems <br/>
-(with Vaggos Chatziafratis and Sai Ganesh Nagarajan). <br/>
-[[Arxiv](https://arxiv.org/abs/2003.00777)] <br/>
- <br/>
-Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently 
-(with Stratis Skoulakis, Antonios Varvitsiotis and Xiao Wang). <br/>
-[[Arxiv](https://arxiv.org/abs/2002.11323)] <br/>
-<br/>
-Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes 
-(with Qi Lei, Sai Ganesh Nagarajan and Xiao Wang). <br/>
-[[Arxiv](https://arxiv.org/abs/2002.06768)] <br/>
+
 
 
 Thesis
