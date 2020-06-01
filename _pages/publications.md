@@ -20,29 +20,29 @@ _<font color="red">ICML 2020</font>_ [[Arxiv](https://arxiv.org/abs/2003.00777)]
 Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently 
 <br/>
 (with Stratis Skoulakis, Antonios Varvitsiotis and Xiao Wang). <br/>
-_<font color="red">Submitted</font>_, [[Arxiv](https://arxiv.org/abs/2002.11323)] 2020<br/>
+_<font color="red">Submitted</font>_, [[Arxiv](https://arxiv.org/abs/2002.11323)] <br/>
 <br/>
 Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes 
 <br/>
 (with Qi Lei, Sai Ganesh Nagarajan and Xiao Wang). <br/>
-_<font color="red">Submitted</font>_, [[Arxiv](https://arxiv.org/abs/2002.06768)] 2020<br/>
+_<font color="red">Submitted</font>_, [[Arxiv](https://arxiv.org/abs/2002.06768)] <br/>
 <br/>
 Fast Convergence of Langevin Dynamics on Manifold: Geodesics meet Log-Sobolev
 <br/>
 (with Qi Lei and Xiao Wang). <br/>
-_<font color="red">Submitted</font>_, [Link soon] 2020<br/>
+_<font color="red">Submitted</font>_, [Link soon] <br/>
 <br/>
 Mean estimation of truncated mixtures of two Gaussians: A gradient based approach
 <br/>
 (with Sai Ganesh Nagarajan, Tushar Vaidya and Samson Yu Bai Jian)
 <br/>
-_<font color="red">Submitted</font>_, [Link soon] 2020<br/>
+_<font color="red">Submitted</font>_, [Link soon] <br/>
 <br/>
 Efficient Statistics for Sparse Graphical Models from Truncated Samples
 <br/>
 (with Arnab Bhattacharya, Rathin Desai and Sai Ganesh Nagarajan)
 <br/>
-_<font color="red">Submitted</font>_, [Link soon] 2020<br/>
+_<font color="red">Submitted</font>_, [Link soon] <br/>
 <br/>
 Logistic regression with peer-group effects via inference in higher-order Ising models <br/> (with Costis Daskalakis and Nishanth Dikkala). <br/>
 _<font color="red">AISTATS 2020 </font>_ [[Arxiv](https://arxiv.org/abs/2003.08259)] <br/>
