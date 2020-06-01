@@ -53,7 +53,6 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ [[Arxiv](https://arxiv.org/abs/
 On the Analysis of EM for truncated mixtures of two Gaussians <br/>(with Sai Ganesh Nagarajan). <br/>
 _<font color="red">ALT 2020</font>_ [[Arxiv](https://arxiv.org/abs/1902.06958)] <br/>
 <br/>
-<br/>
 
 2019
 ======
