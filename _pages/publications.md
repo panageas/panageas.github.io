@@ -10,7 +10,7 @@ redirect_from:
 <br/>
 Better Depth-Width Trade-offs for Neural Networks through the lens of Dynamical Systems <br/>
 (with Vaggos Chatziafratis and Sai Ganesh Nagarajan). <br/>
-_<font color="red">Submitted</font>_, [[Arxiv](https://arxiv.org/abs/2003.00777)] 2020<br/>
+_<font color="red">ICML 2020</font>_, [[Arxiv](https://arxiv.org/abs/2003.00777)] <br/>
  <br/>
 Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently 
 <br/>
