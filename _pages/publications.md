@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br/>
 
-Year 2020
+2020
 ======
 
 <br/>
@@ -55,7 +55,7 @@ _<font color="red">ALT 2020</font>_ [[Arxiv](https://arxiv.org/abs/1902.06958)] 
 <br/>
 <br/>
 
-Year 2019
+2019
 ======
 
 <br/>
@@ -77,7 +77,7 @@ _<font color="red"> ITCS 2019 </font>_ [[Arxiv](https://arxiv.org/abs/1807.04252
 <br/>
 
 
-Year 2018
+2018
 =====
 
 <br/>
@@ -105,7 +105,7 @@ Mutation, Sexual Reproduction and Survival in Dynamic Environments <br/>(with Ru
 _<font color="red">ITCS 2017</font>_ [[Arxiv](https://arxiv.org/abs/1511.01409)] <br/>
 <br/>
 
-Years before 2017
+Before 2017
 =====
 
 <br/>
