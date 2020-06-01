@@ -17,14 +17,10 @@ Better Depth-Width Trade-offs for Neural Networks through the lens of Dynamical 
 (with Vaggos Chatziafratis and Sai Ganesh Nagarajan). <br/>
 _<font color="red">ICML 2020</font>_ [[Arxiv](https://arxiv.org/abs/2003.00777)] <br/>
  <br/>
-Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently 
-<br/>
-(with Stratis Skoulakis, Antonios Varvitsiotis and Xiao Wang). <br/>
+Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently (with Stratis Skoulakis, Antonios Varvitsiotis and Xiao Wang). <br/>
 _<font color="red">Submitted</font>_, [[Arxiv](https://arxiv.org/abs/2002.11323)] <br/>
 <br/>
-Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes 
-<br/>
-(with Qi Lei, Sai Ganesh Nagarajan and Xiao Wang). <br/>
+Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes (with Qi Lei, Sai Ganesh Nagarajan and Xiao Wang). <br/>
 _<font color="red">Submitted</font>_, [[Arxiv](https://arxiv.org/abs/2002.06768)] <br/>
 <br/>
 Fast Convergence of Langevin Dynamics on Manifold: Geodesics meet Log-Sobolev
@@ -64,7 +60,7 @@ _<font color="red">NeurIPS 2019</font>_ [[Arxiv](https://arxiv.org/abs/1906.0777
 Multiplicative Weights Updates as a distributed constrained optimization algorithm: Convergence to second-order stationary points almost always <br/>(with Georgios Piliouras and Xiao Wang). <br/>
 _<font color="red">ICML 2019</font>_ [[Arxiv](https://arxiv.org/abs/1810.05355)] <br/>
 <br/>
-Regression from Dependent Observations (with Costis Daskalakis and Nishanth Dikkala). <br/>
+Regression from Dependent Observations <br/> (with Costis Daskalakis and Nishanth Dikkala). <br/>
 _<font color="red"> STOC 2019 </font>_ [[Arxiv](https://arxiv.org/abs/1905.03353)] <br/>
 <br/>
 First-order Methods Almost Always Avoid Saddle Points <br/>(with Jason D. Lee, Georgios Piliouras, Max Simchowitz, Michael I. Jordan and Benjamin Recht). <br/>
