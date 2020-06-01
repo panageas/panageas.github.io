@@ -88,7 +88,7 @@ Cycles in Zero Sum Differential Games and Biological Diversity <br/>(with Tung M
 _<font color="red"> EC 2018</font>_ [[Arxiv](https://arxiv.org/abs/1710.11249)],[[Slides](https://panageas.github.io/files/slidescycles.pdf)] <br/>
 <br/>
 
-Year 2017
+2017
 =====
 
 <br/>
