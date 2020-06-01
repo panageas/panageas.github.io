@@ -9,6 +9,8 @@ redirect_from:
 ---
 <br/>
 Year 2020
+======
+<br/>
 <br/>
 Better Depth-Width Trade-offs for Neural Networks through the lens of Dynamical Systems <br/>
 (with Vaggos Chatziafratis and Sai Ganesh Nagarajan). <br/>
@@ -52,6 +54,8 @@ _<font color="red">ALT 2020</font>_ [[Arxiv](https://arxiv.org/abs/1902.06958)] 
 <br/>
 <br/>
 Year 2019
+======
+<br/>
 <br/>
 First-order methods Almost Always Avoid Saddle Points: The case of Vanishing Step-sizes <br/>(with Xiao Wang and Georgios Piliouras). <br/> 
 _<font color="red">NeurIPS 2019</font>_ [[Arxiv](https://arxiv.org/abs/1906.07772)] <br/>
@@ -71,6 +75,8 @@ _<font color="red"> ITCS 2019 </font>_ [[Arxiv](https://arxiv.org/abs/1807.04252
 <br/>
 <br/>
 Year 2018
+=====
+<br/>
 <br/>
 The Limit Points of (Optimistic) Gradient Descent in Min-Max Optimization <br/>(with Costis Daskalakis). <br/>
 _<font color="red">NeurIPS 2018</font>_ [[Arxiv](https://arxiv.org/abs/1807.03907)], [[Poster](https://panageas.github.io/files/NIPS18_poster.pdf)] <br/>
@@ -80,6 +86,8 @@ _<font color="red"> EC 2018</font>_ [[Arxiv](https://arxiv.org/abs/1710.11249)],
 <br/>
 <br/>
 Year 2017
+=====
+<br/>
 <br/>
 Multiplicative Weights Update with Constant step-size in Congestion Games: Convergence, Limit Cycles and Chaos (with Gerasimos Palaiopanos and Georgios Piliouras). <br/>
  _<font color="red">NeurIPS 2017 (spotlight)</font>_ [[Arxiv](https://arxiv.org/abs/1703.01138)], [[Poster](https://panageas.github.io/files/NIPS17_poster.pdf)], [[Video](https://www.youtube.com/watch?v=KlYaUlcVooo&feature=youtu.be)] <br/>
@@ -94,7 +102,9 @@ Mutation, Sexual Reproduction and Survival in Dynamic Environments <br/>(with Ru
 _<font color="red">ITCS 2017</font>_ [[Arxiv](https://arxiv.org/abs/1511.01409)] <br/>
 <br/>
 <br/>
-Year earlier 2017
+Years before 2017
+=====
+<br/>
 <br/>
 The Computational Complexity of Genetic Diversity <br/>(with Ruta Mehta, Georgios Piliouras and Sadra Yazdanbod). <br/>
 _<font color="red">ESA 2016</font>_ [[Arxiv](https://arxiv.org/abs/1411.6322)], [[Slides](https://panageas.github.io/files/slides_esa16.pdf)]  <br/>
