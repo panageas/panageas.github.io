@@ -8,8 +8,10 @@ redirect_from:
   - /publications.md
 ---
 <br/>
+
 Year 2020
 ======
+
 <br/>
 <br/>
 Better Depth-Width Trade-offs for Neural Networks through the lens of Dynamical Systems <br/>
