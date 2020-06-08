@@ -94,7 +94,7 @@ Opinion Dynamics in Networks: Convergence, Stability and Lack of Explosion <br/>
 _<font color="red">ICALP 2017</font>_ [[ARXIV](https://arxiv.org/abs/1607.03881)],[[SLIDES](https://panageas.github.io/files/slides_icalp2017.pdf)] <br/>
 <br/>
 Gradient Descent Only Converges to Minimizers: Non-Isolated Critical Points and Invariant Regions (with Georgios Piliouras). <br/>
- _<font color="red">ITCS 2017</font>_ [[ARXIV](https://arxiv.org/abs/1605.00405)], [[SLIDES](https://panageas.github.io/files/slides_itcs2017.pdf)], [[video](https://www.youtube.com/watch?v=0GELSYGiHFA)] <br/>
+ _<font color="red">ITCS 2017</font>_ [[ARXIV](https://arxiv.org/abs/1605.00405)], [[SLIDES](https://panageas.github.io/files/slides_itcs2017.pdf)], [[VIDEO](https://www.youtube.com/watch?v=0GELSYGiHFA)] <br/>
 <br/>
 Mutation, Sexual Reproduction and Survival in Dynamic Environments <br/>(with Ruta Mehta, Georgios Piliouras, Prasad Tetali and Vijay V. Vazirani). <br/>
 _<font color="red">ITCS 2017</font>_ [[Arxiv](https://arxiv.org/abs/1511.01409)] <br/>
