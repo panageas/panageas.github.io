@@ -114,10 +114,10 @@ Mixing Time of Markov Chains, Dynamical Systems and Evolution <br/>(with Nisheet
 _<font color="red">ICALP 2016</font>_ [[PDF](https://panageas.github.io/files/dsmc.pdf)] <br/>
 <br/>
 Evolutionary Dynamics in finite populations mix rapidly <br/>(with Piyush Srivastava and Nisheeth K. Vishnoi). <br/> 
-_<font color="red">SODA 2016</font>_ [[PDF](https://panageas.github.io/files/dynamics-full.pdf)],[[Slides](https://panageas.github.io/files/soda16_slides.pdf)] <br/>
+_<font color="red">SODA 2016</font>_ [[PDF](https://panageas.github.io/files/dynamics-full.pdf)], [[Slides](https://panageas.github.io/files/soda16_slides.pdf)] <br/>
 <br/>
 Natural Selection as an Inhibitor of Genetic Diversity: Multiplicative Weights Updates Algorithm and a Conjecture of Haploid Genetics (with Ruta Mehta and Georgios Piliouras). <br/>
-_<font color="red">ITCS 2015</font>_ [[Arxiv](https://arxiv.org/abs/1408.6270)],[[Slides](https://panageas.github.io/files/itcsv2.pdf)] <br/>
+_<font color="red">ITCS 2015</font>_ [[Arxiv](https://arxiv.org/abs/1408.6270)], [[Slides](https://panageas.github.io/files/itcsv2.pdf)] <br/>
 <br/>
 Support-theoretic subgraph preconditioners for large-scale SLAM <br/>(with Yong-Dian Jian, Doru Balcan, Prasad Tetali, Frank Dellaert). <br/>
 _<font color="red">IROS 2013</font>_ [[PDF](https://panageas.github.io/files/precon.pdf)] <br/>
