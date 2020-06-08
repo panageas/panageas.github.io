@@ -80,7 +80,7 @@ The Limit Points of (Optimistic) Gradient Descent in Min-Max Optimization <br/>(
 _<font color="red">NeurIPS 2018</font>_ [[Arxiv](https://arxiv.org/abs/1807.03907)], [[Poster](https://panageas.github.io/files/NIPS18_poster.pdf)] <br/>
 <br/>
 Cycles in Zero Sum Differential Games and Biological Diversity <br/>(with Tung Mai, Milena Mihail, Will Ratcliff, Vijay V. Vazirani and Peter Yunker).<br/>
-_<font color="red"> EC 2018</font>_ [[Arxiv](https://arxiv.org/abs/1710.11249)],[[Slides](https://panageas.github.io/files/slidescycles.pdf)] <br/>
+_<font color="red"> EC 2018</font>_ [[Arxiv](https://arxiv.org/abs/1710.11249)], [[Slides](https://panageas.github.io/files/slidescycles.pdf)] <br/>
 <br/>
 
 2017
@@ -91,7 +91,7 @@ Multiplicative Weights Update with Constant step-size in Congestion Games: Conve
  _<font color="red">NeurIPS 2017 (spotlight)</font>_ [[Arxiv](https://arxiv.org/abs/1703.01138)], [[Poster](https://panageas.github.io/files/NIPS17_poster.pdf)], [[Video](https://www.youtube.com/watch?v=KlYaUlcVooo&feature=youtu.be)] <br/>
 <br/>
 Opinion Dynamics in Networks: Convergence, Stability and Lack of Explosion <br/>(with Tung Mai and Vijay V. Vazirani). <br/>
-_<font color="red">ICALP 2017</font>_ [[Arxiv](https://arxiv.org/abs/1607.03881)],[[Slides](https://panageas.github.io/files/slides_icalp2017.pdf)] <br/>
+_<font color="red">ICALP 2017</font>_ [[Arxiv](https://arxiv.org/abs/1607.03881)], [[Slides](https://panageas.github.io/files/slides_icalp2017.pdf)] <br/>
 <br/>
 Gradient Descent Only Converges to Minimizers: Non-Isolated Critical Points and Invariant Regions (with Georgios Piliouras). <br/>
  _<font color="red">ITCS 2017</font>_ [[Arxiv](https://arxiv.org/abs/1605.00405)], [[Slides](https://panageas.github.io/files/slides_itcs2017.pdf)], [[Video](https://www.youtube.com/watch?v=0GELSYGiHFA)] <br/>
