@@ -13,10 +13,6 @@ redirect_from:
 ======
 
 <br/>
-Better Depth-Width Trade-offs for Neural Networks through the lens of Dynamical Systems <br/>
-(with Vaggos Chatziafratis and Sai Ganesh Nagarajan). <br/>
-_<font color="red">ICML 2020</font>_ [[Arxiv](https://arxiv.org/abs/2003.00777)] <br/>
- <br/>
 Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently (with Stratis Skoulakis, Antonios Varvitsiotis and Xiao Wang). <br/>
 _<font color="red">Submitted</font>_, [[Arxiv](https://arxiv.org/abs/2002.11323)] <br/>
 <br/>
@@ -40,6 +36,10 @@ Efficient Statistics for Sparse Graphical Models from Truncated Samples
 <br/>
 _<font color="red">Submitted</font>_, [[PDF](https://panageas.github.io/files/sparse.pdf)] <br/>
 <br/>
+Better Depth-Width Trade-offs for Neural Networks through the lens of Dynamical Systems <br/>
+(with Vaggos Chatziafratis and Sai Ganesh Nagarajan). <br/>
+_<font color="red">ICML 2020</font>_ [[Arxiv](https://arxiv.org/abs/2003.00777)] <br/>
+ <br/>
 Logistic regression with peer-group effects via inference in higher-order Ising models <br/> (with Costis Daskalakis and Nishanth Dikkala). <br/>
 _<font color="red">AISTATS 2020 </font>_ [[Arxiv](https://arxiv.org/abs/2003.08259)] <br/>
 <br/>
