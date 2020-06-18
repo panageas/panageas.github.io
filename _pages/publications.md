@@ -34,7 +34,7 @@ Efficient Statistics for Sparse Graphical Models from Truncated Samples
 <br/>
 (with Arnab Bhattacharya, Rathin Desai and Sai Ganesh Nagarajan)
 <br/>
-_<font color="red">Submitted</font>_, [[PDF](https://panageas.github.io/files/sparse.pdf)] <br/>
+_<font color="red">Submitted</font>_, [[Arxiv](https://arxiv.org/abs/2006.09735)] <br/>
 <br/>
 Better Depth-Width Trade-offs for Neural Networks through the lens of Dynamical Systems <br/>
 (with Vaggos Chatziafratis and Sai Ganesh Nagarajan). <br/>
