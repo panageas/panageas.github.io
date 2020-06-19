@@ -21,9 +21,6 @@ Interests
 I am interested in theory of computation and its interface with optimization, dynamical systems, probability and statistics, machine learning and their applications to game theory, evolution and dynamics on networks. <br/>
 Here is my [CV](https://panageas.github.io/files/panageascv_2020feb.pdf).
 
-Positions
-======
-
 Committees 
 ======
 Conference on Economics and Computation (<b>EC</b>) 2019, 2020 <br/>
