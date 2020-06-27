@@ -19,17 +19,6 @@ _<font color="red">Submitted</font>_, [[Arxiv](https://arxiv.org/abs/2002.11323)
 Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes (with Qi Lei, Sai Ganesh Nagarajan and Xiao Wang). <br/>
 _<font color="red">Submitted</font>_, [[Arxiv](https://arxiv.org/abs/2002.06768)] <br/>
 <br/>
-Fast Convergence of Langevin Dynamics on Manifold: Geodesics meet Log-Sobolev
-<br/>
-(with Qi Lei and Xiao Wang). <br/>
-_<font color="red">Submitted</font>_, [[PDF](https://panageas.github.io/files/langevin.pdf)] <br/>
-<br/>
-Mean estimation of truncated mixtures of two Gaussians: A gradient based approach
-<br/>
-(with Sai Ganesh Nagarajan, Tushar Vaidya and Samson Yu Bai Jian)
-<br/>
-_<font color="red">Submitted</font>_, [[PDF](https://panageas.github.io/files/mean_estimation.pdf)] <br/>
-<br/>
 Efficient Statistics for Sparse Graphical Models from Truncated Samples
 <br/>
 (with Arnab Bhattacharya, Rathin Desai and Sai Ganesh Nagarajan)
