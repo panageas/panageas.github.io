@@ -13,17 +13,9 @@ redirect_from:
 ======
 
 <br/>
-Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently (with Stratis Skoulakis, Antonios Varvitsiotis and Xiao Wang). <br/>
-_<font color="red">Submitted</font>_, [[Arxiv](https://arxiv.org/abs/2002.11323)] <br/>
-<br/>
-Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes (with Qi Lei, Sai Ganesh Nagarajan and Xiao Wang). <br/>
-_<font color="red">Submitted</font>_, [[Arxiv](https://arxiv.org/abs/2002.06768)] <br/>
-<br/>
-Efficient Statistics for Sparse Graphical Models from Truncated Samples
-<br/>
-(with Arnab Bhattacharya, Rathin Desai and Sai Ganesh Nagarajan)
-<br/>
-_<font color="red">Submitted</font>_, [[Arxiv](https://arxiv.org/abs/2006.09735)] <br/>
+Fast convergence of Langevin dynamics on manifold: Geodesics meet log-Sobolev <br/>
+(with Xiao Wang and Qi Lei)
+_<font color="red">NeurIPS 2020</font>_ [Arxiv] <br/>
 <br/>
 Better Depth-Width Trade-offs for Neural Networks through the lens of Dynamical Systems <br/>
 (with Vaggos Chatziafratis and Sai Ganesh Nagarajan). <br/>
@@ -110,6 +102,22 @@ _<font color="red">ITCS 2015</font>_ [[Arxiv](https://arxiv.org/abs/1408.6270)],
 <br/>
 Support-theoretic subgraph preconditioners for large-scale SLAM <br/>(with Yong-Dian Jian, Doru Balcan, Prasad Tetali, Frank Dellaert). <br/>
 _<font color="red">IROS 2013</font>_ [[PDF](https://panageas.github.io/files/precon.pdf)] <br/>
+
+Manuscripts
+======
+<br/>
+Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently (with Stratis Skoulakis, Antonios Varvitsiotis and Xiao Wang). <br/>
+[[Arxiv](https://arxiv.org/abs/2002.11323)] <br/>
+<br/>
+Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes (with Qi Lei, Sai Ganesh Nagarajan and Xiao Wang). <br/>
+[[Arxiv](https://arxiv.org/abs/2002.06768)] <br/>
+<br/>
+Efficient Statistics for Sparse Graphical Models from Truncated Samples
+<br/>
+(with Arnab Bhattacharya, Rathin Desai and Sai Ganesh Nagarajan)
+<br/>
+[[Arxiv](https://arxiv.org/abs/2006.09735)] <br/>
+<br/>
 
 Thesis
 ======
