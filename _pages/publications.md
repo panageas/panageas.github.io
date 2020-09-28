@@ -15,7 +15,7 @@ redirect_from:
 <br/>
 Fast convergence of Langevin dynamics on manifold: Geodesics meet log-Sobolev <br/>
 (with Xiao Wang and Qi Lei). <br/>
-_<font color="red">NeurIPS 2020</font>_ [Arxiv] <br/>
+_<font color="red">NeurIPS 2020</font>_ [[Arxiv](https://panageas.github.io/publications/)] <br/>
 <br/>
 Better Depth-Width Trade-offs for Neural Networks through the lens of Dynamical Systems <br/>
 (with Vaggos Chatziafratis and Sai Ganesh Nagarajan). <br/>
@@ -104,7 +104,7 @@ Support-theoretic subgraph preconditioners for large-scale SLAM <br/>(with Yong-
 _<font color="red">IROS 2013</font>_ [[PDF](https://panageas.github.io/files/precon.pdf)] <br/>
 
 Manuscripts
-======
+=====
 <br/>
 Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently (with Stratis Skoulakis, Antonios Varvitsiotis and Xiao Wang). <br/>
 [[Arxiv](https://arxiv.org/abs/2002.11323)] <br/>
