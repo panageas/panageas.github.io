@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ioannis Panageas"
 title_separator          : "-"
 name                     : &name "Ioannis Panageas"
-description              : &description "Assistant Professor in Information Systems at SUTD"
+description              : &description ""
 url                      : https://panageas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "panageas/panageas.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ioannis Panageas"
   avatar           : "profile.png"
-  bio              : "Assistant Professor in Information Systems at SUTD"
-  location         :  "Singapore"
+  bio              : ""
+  location         :  ""
   employer         :
   googlescholar    :  "https://scholar.google.com/citations?user=5NiFWuwAAAAJ&hl=en"
   email            :
