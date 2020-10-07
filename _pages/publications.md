@@ -7,8 +7,6 @@ redirect_from:
   - /publications
   - /publications.md
 ---
-<br/>
-
 2020
 ======
 
