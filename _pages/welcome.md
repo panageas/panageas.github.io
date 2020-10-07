@@ -24,10 +24,9 @@ Here is my [CV](https://panageas.github.io/files/panageascv_2020feb.pdf).
 Selected Publications 
 ======
 <br/>
-Depth-Width Trade-offs for ReLU Networks via Sharkovsky's Theorem. <br/>
-_<font color="red">ICLR 2020 (spotlight)</font>_ [[Arxiv](https://arxiv.org/abs/1912.04378)], [[MIFODS Talk](https://www.youtube.com/watch?v=HNQ204BmOQ8)] <br/>
-Regression from Dependent Observations. <br/>
-_<font color="red"> STOC 2019 </font>_ [[Arxiv](https://arxiv.org/abs/1905.03353)] <br/>
+[[Depth-Width Trade-offs for ReLU Networks via Sharkovsky's Theorem.](https://arxiv.org/abs/1912.04378)] 
+_<font color="red">ICLR 2020 (spotlight), [[MIFODS Talk](https://www.youtube.com/watch?v=HNQ204BmOQ8)] <br/>
+[[Regression from Dependent Observations.](https://arxiv.org/abs/1905.03353)] _<font color="red"> STOC 2019 </font>_  <br/>
 First-order Methods Almost Always Avoid Saddle Points. <br/>
 _<font color="red"> Math. Programming 2019, issue on non-convex optimization for statistical learning. </font>_ [[Arxiv](https://arxiv.org/abs/1710.07406)] <br/>
 The Limit Points of (Optimistic) Gradient Descent in Min-Max Optimization.<br/>
