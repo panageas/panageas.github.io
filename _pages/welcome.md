@@ -7,8 +7,6 @@ redirect_from:
   - /welcome
   - /welcome.html
 ---
-<br/>
-
 About Me
 ======
 <span style="color:#ff0000">I will be moving </span> to [UC Irvine](https://uci.edu/) as an Assistant Professor in the department of [Computer Science](https://www.cs.uci.edu/).
