@@ -30,7 +30,7 @@ _<font color="red">ICLR 2020 (spotlight)</font>_, [MIFODS](https://www.youtube.c
 [First-order Methods Almost Always Avoid Saddle Points.](https://arxiv.org/abs/1710.07406) _<font color="red"> Math. Programming 2019. </font>_  <br/>
 [The Limit Points of (Optimistic) Gradient Descent in Min-Max Optimization.](https://arxiv.org/abs/1807.03907) _<font color="red">NeurIPS 2018</font>_ <br/>
 [Multiplicative Weights Update with Constant step-size in Congestion Games: Convergence, Limit Cycles and Chaos.](https://arxiv.org/abs/1703.01138) <br/>
- _<font color="red">NeurIPS 2017 (spotlight)</font>_, [[Video](https://www.youtube.com/watch?v=KlYaUlcVooo&feature=youtu.be)] <br/>
+ _<font color="red">NeurIPS 2017 (spotlight)</font>_ <br/>
 
 Teaching
 ======
