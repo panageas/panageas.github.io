@@ -34,9 +34,12 @@ Teaching
 [Optimization for Machine Learning, Spring 2020](https://panageas.github.io/optimizationforML) <br/>
 Introduction to Algorithms, Fall 2019 <br/>
 Introduction to Algorithms, Fall 2018 <br/>
-[Reading group on Markov chains and Mixing times](https://panageas.github.io/files/reading_markovchains.pdf), Fall 2016.
 
-Students and Postdocs
+Students 
 ======
-Postdoc [Xiao Wang](https://xiiaowang.github.io/) <br/>
-Student [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) <br/>
+[Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) <br/>
+
+Postdocs
+======
+[Xiao Wang](https://xiiaowang.github.io/) <br/>
+
