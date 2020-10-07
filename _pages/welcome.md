@@ -21,14 +21,6 @@ Interests
 I am interested in theory of computation and its interface with optimization, dynamical systems, probability and statistics, machine learning and their applications to game theory, evolution and dynamics on networks. <br/>
 Here is my [CV](https://panageas.github.io/files/panageascv_2020feb.pdf).
 
-Committees 
-======
-Conference on Economics and Computation (<b>EC</b>) 2019, 2020 <br/>
-Neural Information Processing and Systems (<b>NeurIPS</b>) 2019 <br/>
-International Conference on Machine Learning (<b>ICML</b>) 2019 <br/>
-AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2020 <br/>
-Conference on Web and Internet Economics (<b>WINE</b>) 2019
-
 Teaching
 ======
 [Optimization for Machine Learning, Spring 2020](https://panageas.github.io/optimizationforML) <br/>
@@ -38,8 +30,17 @@ Introduction to Algorithms, Fall 2018 <br/>
 Students 
 ======
 [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) <br/>
-
 Postdocs
 ======
-[Xiao Wang](https://xiiaowang.github.io/) <br/>
+[Xiao Wang](https://xiiaowang.github.io/) 
+
+Committees 
+======
+Conference on Economics and Computation (<b>EC</b>) 2019, 2020 <br/>
+Neural Information Processing and Systems (<b>NeurIPS</b>) 2019 <br/>
+International Conference on Machine Learning (<b>ICML</b>) 2019 <br/>
+AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2020 <br/>
+Conference on Web and Internet Economics (<b>WINE</b>) 2019
+
+
 
