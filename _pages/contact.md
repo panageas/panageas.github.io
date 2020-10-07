@@ -9,8 +9,6 @@ redirect_from:
   - /teaching.html
 ---
 
-<br/>
-
 Email
 =======
 panageasj {at} gmail {dot} com <br/>
