@@ -23,7 +23,7 @@ Here is my [CV](https://panageas.github.io/files/panageascv_2020feb.pdf).
 
 Selected Publications 
 ======
-Click [here](https://panageas.github.io/publications) for full list
+Click [here](https://panageas.github.io/publications) for full list<br/?
 <br/>
 [Depth-Width Trade-offs for ReLU Networks via Sharkovsky's Theorem.](https://arxiv.org/abs/1912.04378) 
 _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
