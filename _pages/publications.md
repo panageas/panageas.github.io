@@ -13,7 +13,7 @@ redirect_from:
 <br/>
 Fast convergence of Langevin dynamics on manifold: Geodesics meet log-Sobolev <br/>
 (with Xiao Wang and Qi Lei). <br/>
-_<font color="red">NeurIPS 2020</font>_ [[Arxiv](https://panageas.github.io/publications/)] <br/>
+_<font color="red">NeurIPS 2020</font>_ [[Arxiv](https://arxiv.org/abs/2010.05263)] <br/>
 <br/>
 Better Depth-Width Trade-offs for Neural Networks through the lens of Dynamical Systems <br/>
 (with Vaggos Chatziafratis and Sai Ganesh Nagarajan). <br/>
