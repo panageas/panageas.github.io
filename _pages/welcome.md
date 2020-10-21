@@ -39,7 +39,7 @@ Introduction to Algorithms, Fall 2018 <br/>
 
 Students 
 ======
-[Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) <br/>
+[Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (SUTD -> EPFL) <br/>
 
 Postdocs
 ======
