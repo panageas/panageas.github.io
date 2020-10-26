@@ -12,7 +12,6 @@ redirect_from:
 Email
 =======
 panageasj {at} gmail {dot} com <br/>
-ioannis {at} sutd {dot} edu {dot} sg <br/>
 ipanagea {at} ics {dot} uci {dot} edu 
 
 Phone
