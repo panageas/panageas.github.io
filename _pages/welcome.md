@@ -30,12 +30,6 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 [Multiplicative Weights Update with Constant step-size in Congestion Games: Convergence, Limit Cycles and Chaos.](https://arxiv.org/abs/1703.01138) 
  _<font color="red">NeurIPS 2017 (spotlight)</font>_ <br/>
 
-Teaching
-======
-[Optimization for Machine Learning, Spring 2020](https://panageas.github.io/optimizationforML) <br/>
-Introduction to Algorithms, Fall 2019 <br/>
-Introduction to Algorithms, Fall 2018 <br/>
-
 Students 
 ======
 [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (SUTD -> EPFL) <br/>
