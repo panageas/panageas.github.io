@@ -30,6 +30,11 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 [Multiplicative Weights Update with Constant step-size in Congestion Games: Convergence, Limit Cycles and Chaos.](https://arxiv.org/abs/1703.01138) 
  _<font color="red">NeurIPS 2017 (spotlight)</font>_ <br/>
 
+Talks 
+======
+[UCI ML seminar](https://www.youtube.com/watch?v=4cepfWDiL3A&list=PLcm9UtazJCOKyuab1cGVE5H54Kt0XxEPN&index=3&t=2s) <br/>
+[Mifods (MIT)](https://www.youtube.com/watch?v=HNQ204BmOQ8&t=1s) <br/>
+
 Students 
 ======
 [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (SUTD -> EPFL) <br/>
