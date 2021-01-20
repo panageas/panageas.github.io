@@ -33,7 +33,7 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 Talks 
 ======
 [On first-order methods (UCI ML seminar)](https://www.youtube.com/watch?v=4cepfWDiL3A&list=PLcm9UtazJCOKyuab1cGVE5H54Kt0XxEPN&index=3&t=2s) <br/>
-[Depth-width tradeoffs for NNs (Mifods - MIT)](https://www.youtube.com/watch?v=HNQ204BmOQ8&t=1s) <br/>
+[Depth-width tradeoffs for NNs (MiFODS - MIT)](https://www.youtube.com/watch?v=HNQ204BmOQ8&t=1s) <br/>
 
 Students 
 ======
