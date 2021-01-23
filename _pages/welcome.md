@@ -36,11 +36,11 @@ Talks
 
 Students 
 ======
-[Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (SUTD -> EPFL) <br/>
+[Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (Postdoc at EPFL) <br/>
 
 Postdocs
 ======
-[Xiao Wang](https://xiiaowang.github.io/) 
+[Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at SUFE)
 
 Committees 
 ======
