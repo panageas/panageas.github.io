@@ -40,7 +40,7 @@ Students
 
 Postdocs
 ======
-[Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at SUFE)
+[Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at [SUFE](http://itcs.shufe.edu.cn/))
 
 Committees 
 ======
