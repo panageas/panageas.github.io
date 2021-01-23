@@ -7,6 +7,20 @@ redirect_from:
   - /publications
   - /publications.md
 ---
+2021
+======
+
+<br/>
+Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes (with Qi Lei, Sai Ganesh Nagarajan and Xiao Wang). <br/>
+_<font color="red">AISTATS 2021</font>_ [[Arxiv](https://arxiv.org/abs/2002.06768)] <br/>
+<br/>
+Efficient Statistics for Sparse Graphical Models from Truncated Samples
+<br/>
+(with Arnab Bhattacharya, Rathin Desai and Sai Ganesh Nagarajan)
+<br/>
+_<font color="red">AISTATS 2021</font>_ [[Arxiv](https://arxiv.org/abs/2006.09735)] <br/>
+<br/>
+
 2020
 ======
 
@@ -106,15 +120,6 @@ Manuscripts
 <br/>
 Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently (with Stratis Skoulakis, Antonios Varvitsiotis and Xiao Wang). <br/>
 [[Arxiv](https://arxiv.org/abs/2002.11323)] <br/>
-<br/>
-Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes (with Qi Lei, Sai Ganesh Nagarajan and Xiao Wang). <br/>
-[[Arxiv](https://arxiv.org/abs/2002.06768)] <br/>
-<br/>
-Efficient Statistics for Sparse Graphical Models from Truncated Samples
-<br/>
-(with Arnab Bhattacharya, Rathin Desai and Sai Ganesh Nagarajan)
-<br/>
-[[Arxiv](https://arxiv.org/abs/2006.09735)] <br/>
 <br/>
 
 Thesis
