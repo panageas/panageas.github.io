@@ -34,7 +34,7 @@ Talks
 [On first-order methods (UCI ML seminar)](https://www.youtube.com/watch?v=4cepfWDiL3A&list=PLcm9UtazJCOKyuab1cGVE5H54Kt0XxEPN&index=3&t=2s) <br/>
 [Depth-width tradeoffs for NNs (MiFODS - MIT)](https://www.youtube.com/watch?v=HNQ204BmOQ8&t=1s) <br/>
 
-Students 
+Graduated Students 
 ======
 [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (Postdoc at EPFL) <br/>
 
