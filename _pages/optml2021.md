@@ -1,6 +1,6 @@
 ---
 permalink: /optml2021/
-title: "Optimization for Machine Learning"
+title: "CS 295 - Optimization for Machine Learning"
 excerpt: "optml2021"
 author_profile: true
 redirect_from: 
