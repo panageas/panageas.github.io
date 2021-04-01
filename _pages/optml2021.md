@@ -7,8 +7,8 @@ redirect_from:
   - /optml2021
   - /optml2021.md
 ---
+
 Below we will be posting lecture notes for the class. The syllabus can be found [here](https://panageas.github.io/_pages/syllabus_optml2021.pdf).
 
-<br/>
 [Lecture 1 slides](https://panageas.github.io/optmlslides/L01 GD.pdf): Definitions and Gradient Descent <br/>
-[Lecture 2 slides](https://panageas.github.io/optmlslides/L02 SGD.pdf): Gradient Descent (cont.)
+[Lecture 2 slides](https://panageas.github.io/optmlslides/L02 GD.pdf): Gradient Descent (cont.)
