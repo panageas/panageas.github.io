@@ -12,4 +12,4 @@ Below we will be posting slides and lecture notes for the class. The syllabus ca
 
 [Lecture 1 slides](https://panageas.github.io/optmlslides/L01 GD.pdf): Definitions and Gradient Descent <br/>
 [Lecture 2 slides](https://panageas.github.io/optmlslides/L02 GD.pdf): Gradient Descent (cont.) <br/>
-[Lecture 3 slides](https://panageas.github.io/optmlslides/L03 GD.pdf): Stochastic Gradient Descent
+[Lecture 3 slides](https://panageas.github.io/optmlslides/L03 SGD.pdf): Stochastic Gradient Descent
