@@ -16,3 +16,4 @@ Below we will be posting slides and lecture notes for the class. The syllabus ca
 [Lecture 4 slides](https://panageas.github.io/optmlslides/L04 SGD(examples).pdf): Stochastic Gradient Descent (examples) <br/>
 [Lecture 5 slides](https://panageas.github.io/optmlslides/L05 Online.pdf): Intro to Online optimization and Online Learning <br/>
 [Lecture 6 slides](https://panageas.github.io/optmlslides/L06 Online(partb).pdf): Online optimization and Online Learning (cont.) <br/>
+[Lecture 7 slides](https://panageas.github.io/optmlslides/L07 Nesterov.pdf): Accelerated Methods <br/>
