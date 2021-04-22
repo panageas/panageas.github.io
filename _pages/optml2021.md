@@ -17,3 +17,4 @@ Below we will be posting slides and lecture notes for the class. The syllabus ca
 [Lecture 5 slides](https://panageas.github.io/optmlslides/L05 Online.pdf): Intro to Online optimization and Online Learning <br/>
 [Lecture 6 slides](https://panageas.github.io/optmlslides/L06 Online(partb).pdf): Online optimization and Online Learning (cont.) <br/>
 [Lecture 7 slides](https://panageas.github.io/optmlslides/L07 Nesterov.pdf): Accelerated Methods <br/>
+[Lecture 8 slides](https://panageas.github.io/optmlslides/L08 non-convex.pdf): Intro to non-convex optimization <br/>
