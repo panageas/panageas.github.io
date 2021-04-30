@@ -19,3 +19,4 @@ Below we will be posting slides and lecture notes for the class. The syllabus ca
 [Lecture 7 slides](https://panageas.github.io/optmlslides/L07 Nesterov.pdf): Accelerated Methods <br/>
 [Lecture 8 slides](https://panageas.github.io/optmlslides/L08 non-convex.pdf): Intro to non-convex optimization <br/>
 [Lecture 9 slides](https://panageas.github.io/optmlslides/L09 non-convex.pdf): Non-convex optimization: GD + noise avoids saddles <br/>
+[Lecture 10 slides](https://panageas.github.io/optmlslides/L10 min-max.pdf): Introduction to min-max <br/>
