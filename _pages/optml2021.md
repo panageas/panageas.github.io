@@ -21,3 +21,4 @@ Below we will be posting slides and lecture notes for the class. The syllabus ca
 [Lecture 9 slides](https://panageas.github.io/optmlslides/L09 non-convex.pdf): Non-convex optimization: GD + noise avoids saddles <br/>
 [Lecture 10 slides](https://panageas.github.io/optmlslides/L10 min-max.pdf): Introduction to min-max <br/>
 [Lecture 11 slides](https://panageas.github.io/optmlslides/L11 min-max.pdf): Min-max and optimism<br/>
+[Lecture 12 slides](https://panageas.github.io/optmlslides/L12 mab.pdf): Min-max and optimism<br/>
