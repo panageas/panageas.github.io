@@ -24,3 +24,5 @@ Below we will be posting slides and lecture notes for the class. The syllabus ca
 [Lecture 12 slides](https://panageas.github.io/optmlslides/L12 mab.pdf): Intro to Multi-Armed Bandits<br/>
 [Lecture 13 slides](https://panageas.github.io/optmlslides/L13 mab.pdf): Multi-Armed Bandits (part 2)<br/>
 [Lecture 14 slides](https://panageas.github.io/optmlslides/L14 MDPs.pdf): Intro to MDPs<br/>
+[Lecture 17 slides](https://panageas.github.io/optmlslides/L14 MDPs.pdf): Stochastic Games and multi-agent RL<br/>
+[Lecture 15 slides](https://panageas.github.io/optmlslides/L15 perceptron.pdf): Intro to Perceptron and ERM<br/>
