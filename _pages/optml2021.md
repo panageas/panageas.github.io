@@ -26,3 +26,4 @@ Below we will be posting slides and lecture notes for the class. The syllabus ca
 [Lecture 14 slides](https://panageas.github.io/optmlslides/L14 MDPs.pdf): Intro to MDPs<br/>
 [Lecture 17 slides](https://panageas.github.io/optmlslides/L14 MDPs.pdf): Stochastic Games and multi-agent RL<br/>
 [Lecture 15 slides](https://panageas.github.io/optmlslides/L15 perceptron.pdf): Intro to Perceptron and ERM<br/>
+[Lecture 16 slides](https://panageas.github.io/optmlslides/L16 VC dimension.pdf): VC dimension and Learnability<br/>
