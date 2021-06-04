@@ -33,12 +33,13 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 
 Talks 
 ======
+[Policy Gradient for Potential Stochastic Games](https://www.youtube.com/watch?v=d1QRdQ2ayNA&ab_channel=UCIBrenICS) <br/>
 [On first-order methods (UCI ML seminar)](https://www.youtube.com/watch?v=4cepfWDiL3A&list=PLcm9UtazJCOKyuab1cGVE5H54Kt0XxEPN&index=3&t=2s) <br/>
 [Depth-width tradeoffs for NNs (MiFODS - MIT)](https://www.youtube.com/watch?v=HNQ204BmOQ8&t=1s) <br/>
 
 Students 
 ======
-[Will Overman](https://www.ics.uci.edu/~overmana/) (2021 - Present) <br/>
+[Will Overman](https://willoverman.github.io/) (2021 - Present) <br/>
 [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (Graduated 2021, now Postdoc at EPFL) <br/>
 
 Postdocs
