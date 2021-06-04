@@ -11,6 +11,15 @@ redirect_from:
 ======
 
 <br/>
+Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games (with Stefanos Leonardos, Will Overman and Georgios Piliouras). <br/>
+[[Arxiv](https://arxiv.org/abs/2106.01969)] <br/>
+<br/>
+Combinatorial Algorithms for Matching Markets via Nash Bargaining: One-Sided, Two-Sided and Non-Bipartite (with Thorben Tr\"obst and Vijay Vazirani). <br/>
+[[Arxiv](https://arxiv.org/abs/2106.02024)] <br/>
+<br/>
+Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently (with Stratis Skoulakis, Antonios Varvitsiotis and Xiao Wang). <br/>
+[[Arxiv](https://arxiv.org/abs/2002.11323)] <br/>
+<br/>
 Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes (with Qi Lei, Sai Ganesh Nagarajan and Xiao Wang). <br/>
 _<font color="red">AISTATS 2021</font>_ [[Arxiv](https://arxiv.org/abs/2002.06768)] <br/>
 <br/>
@@ -114,13 +123,6 @@ _<font color="red">ITCS 2015</font>_ [[Arxiv](https://arxiv.org/abs/1408.6270)],
 <br/>
 Support-theoretic subgraph preconditioners for large-scale SLAM <br/>(with Yong-Dian Jian, Doru Balcan, Prasad Tetali, Frank Dellaert). <br/>
 _<font color="red">IROS 2013</font>_ [[PDF](https://panageas.github.io/files/precon.pdf)] <br/>
-
-Manuscripts
-=====
-<br/>
-Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently (with Stratis Skoulakis, Antonios Varvitsiotis and Xiao Wang). <br/>
-[[Arxiv](https://arxiv.org/abs/2002.11323)] <br/>
-<br/>
 
 Thesis
 ======
