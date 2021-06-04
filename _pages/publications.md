@@ -14,7 +14,7 @@ redirect_from:
 Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games (with Stefanos Leonardos, Will Overman and Georgios Piliouras). <br/>
 [[Arxiv](https://arxiv.org/abs/2106.01969)] <br/>
 <br/>
-Combinatorial Algorithms for Matching Markets via Nash Bargaining: One-Sided, Two-Sided and Non-Bipartite (with Thorben Tr\"obst and Vijay Vazirani). <br/>
+Combinatorial Algorithms for Matching Markets via Nash Bargaining: One-Sided, Two-Sided and Non-Bipartite (with Thorben Tröbst and Vijay Vazirani). <br/>
 [[Arxiv](https://arxiv.org/abs/2106.02024)] <br/>
 <br/>
 Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently (with Stratis Skoulakis, Antonios Varvitsiotis and Xiao Wang). <br/>
