@@ -21,7 +21,7 @@ Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: 
 [[Arxiv](https://arxiv.org/abs/2002.11323)] <br/>
 <br/>
 Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes (with Qi Lei, Sai Ganesh Nagarajan and Xiao Wang). <br/>
-_<font color="red">AISTATS 2021</font>_ [[Arxiv](https://arxiv.org/abs/2002.06768)]. This work was part of Qi Lei's thesis that was [[awarded](https://www.oden.utexas.edu/about/news/qi-lei-wins-Outstanding-Dissertation-Award/)]
+_<font color="red">AISTATS 2021</font>_ [[Arxiv](https://arxiv.org/abs/2002.06768)]. This work was part of Qi Lei's thesis that was [[awarded](https://www.oden.utexas.edu/about/news/qi-lei-wins-Outstanding-Dissertation-Award/)].
 <br/>
 <br/>
 Efficient Statistics for Sparse Graphical Models from Truncated Samples
