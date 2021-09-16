@@ -50,8 +50,9 @@ Committees
 Conference on Economics and Computation (<b>EC</b>) 2019, 2020, 2021 <br/>
 Neural Information Processing and Systems (<b>NeurIPS</b>) 2019 <br/>
 International Conference on Machine Learning (<b>ICML</b>) 2019 <br/>
-AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2020 <br/>
-Conference on Web and Internet Economics (<b>WINE</b>) 2019, 2021
+Conference on Web and Internet Economics (<b>WINE</b>) 2019, 2021 <br/>
+AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2020 
+
 
 
 
