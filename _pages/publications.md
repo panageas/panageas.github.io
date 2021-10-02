@@ -7,6 +7,15 @@ redirect_from:
   - /publications
   - /publications.md
 ---
+2022
+======
+
+<br/>
+Frequency-Domain Representation of First-Order Methods: A Simple and Robust Framework of Analysis <br/> (with Ioannis Anagnostides). <br/>
+_<font color="red">SOSA 2022</font>_ [[Arxiv](https://arxiv.org/abs/2109.04603)] <br/>
+<br/>
+
+
 2021
 ======
 
