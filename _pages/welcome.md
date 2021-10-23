@@ -36,19 +36,22 @@ Talks
 [On first-order methods (UCI ML seminar)](https://www.youtube.com/watch?v=4cepfWDiL3A&list=PLcm9UtazJCOKyuab1cGVE5H54Kt0XxEPN&index=3&t=2s) <br/>
 [Depth-width tradeoffs for NNs (MiFODS - MIT)](https://www.youtube.com/watch?v=HNQ204BmOQ8&t=1s) <br/>
 
-Students 
+PhD Students 
 ======
-[Will Overman](https://willoverman.github.io/) (2021 - Present) <br/>
 [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (Graduated 2021, now Postdoc at EPFL) <br/>
 
 Postdocs
 ======
 [Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at [SUFE](http://itcs.shufe.edu.cn/))
 
+Msc Students 
+======
+[Will Overman](https://willoverman.github.io/) (2021 - 2022) <br/>
+
 Committees 
 ======
 Conference on Economics and Computation (<b>EC</b>) 2019, 2020, 2021 <br/>
-Neural Information Processing and Systems (<b>NeurIPS</b>) 2019 <br/>
+Neural Information Processing and Systems (<b>NeurIPS</b>) 2019, 2021 <br/>
 International Conference on Machine Learning (<b>ICML</b>) 2019 <br/>
 Conference on Web and Internet Economics (<b>WINE</b>) 2019, 2021 <br/>
 AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2020 
