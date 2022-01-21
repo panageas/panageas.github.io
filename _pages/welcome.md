@@ -21,7 +21,7 @@ Selected Publications
 ======
 Click [here](https://panageas.github.io/publications) for full list<br/>
 <br/>
-[Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games.](https://arxiv.org/abs/2106.01969)<br/>
+[Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games.](https://arxiv.org/abs/2106.01969) _<font color="red">ICLR 2022</font>_ <br/>
 [Depth-Width Trade-offs for ReLU Networks via Sharkovsky's Theorem.](https://arxiv.org/abs/1912.04378) 
 _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 [Regression from Dependent Observations.](https://arxiv.org/abs/1905.03353) _<font color="red"> STOC 2019 </font>_  <br/>
