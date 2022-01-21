@@ -17,7 +17,7 @@ _<font color="red">AISTATS 2022</font>_ [[Arxiv](https://arxiv.org/abs/2110.1061
 Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games (with Stefanos Leonardos, Will Overman and Georgios Piliouras). <br/>
 _<font color="red">ICLR 2022</font>_ [[Arxiv](https://arxiv.org/abs/2106.01969)] <br/>
 <br/>
-Frequency-Domain Representation of First-Order Methods: A Simple and Robust Framework of Analysis <br/> (with Ioannis Anagnostides). <br/>
+Frequency-Domain Representation of First-Order Methods: A Simple and Robust Framework of Analysis (with Ioannis Anagnostides). <br/>
 _<font color="red">SOSA 2022</font>_ [[Arxiv](https://arxiv.org/abs/2109.04603)] <br/>
 <br/>
 
