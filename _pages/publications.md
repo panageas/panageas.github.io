@@ -14,7 +14,6 @@ redirect_from:
 Independent Natural Policy Gradient Always Converges in Markov Potential Games (with Roy Fox, Stephen McAleer and Will Overman). <br/>
 _<font color="red">AISTATS 2022</font>_ [[Arxiv](https://arxiv.org/abs/2110.10614)] <br/>
 <br/>
-<br/>
 Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games (with Stefanos Leonardos, Will Overman and Georgios Piliouras). <br/>
 _<font color="red">ICLR 2022</font>_ [[Arxiv](https://arxiv.org/abs/2106.01969)] <br/>
 <br/>
