@@ -39,7 +39,7 @@ Talks
 PhD Students 
 ======
 [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (Graduated in 2021, now Postdoc at EPFL) <br/>
-[Stelios Stavroulakis](https://www.linkedin.com/in/steliostavroulakis/?originalSubdomain=gr) (2021 - Present) <br/>
+[Stelios Stavroulakis](https://steliostavroulakis.github.io/) (2021 - Present) <br/>
 
 Postdocs
 ======
