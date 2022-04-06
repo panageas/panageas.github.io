@@ -36,18 +36,19 @@ Talks
 [On first-order methods (UCI ML seminar)](https://www.youtube.com/watch?v=4cepfWDiL3A&list=PLcm9UtazJCOKyuab1cGVE5H54Kt0XxEPN&index=3&t=2s) <br/>
 [Depth-width tradeoffs for NNs (MiFODS - MIT)](https://www.youtube.com/watch?v=HNQ204BmOQ8&t=1s) <br/>
 
-PhD Students 
+Current Students 
 ======
-[Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (Graduated in 2021, now Postdoc at EPFL) <br/>
-[Stelios Stavroulakis](https://steliostavroulakis.github.io/) (2021 - Present) <br/>
+[Stelios Stavroulakis](https://steliostavroulakis.github.io/) (2022 - Present) <br/>
+[Fivos Kalogiannis](https://fivoskal.github.io) (2022 - Present)
+
+Past Students
+======
+[Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (PhD, Graduated in 2021, now Postdoc at EPFL) <br/>
+[Will Overman](https://willoverman.github.io/) (MSc, 2021 - 2022, now PhD in Stanford) 
 
 Postdocs
 ======
 [Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at [SUFE](http://itcs.shufe.edu.cn/))
-
-Msc Students 
-======
-[Will Overman](https://willoverman.github.io/) (2021 - 2022) <br/>
 
 Committees 
 ======
