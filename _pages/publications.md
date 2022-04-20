@@ -11,7 +11,8 @@ redirect_from:
 ======
 
 <br/>
-Accelerated Multiplicative Weights Update Avoids Saddle Points almost always (with Yi Feng and Xiao Wang). <br/>
+Accelerated Multiplicative Weights Update Avoids Saddle Points almost always 
+(with Yi Feng and Xiao Wang). <br/>
 _<font color="red">IJCAI 2022</font>_ [coming soon] <br/>
 <br/>
 Independent Natural Policy Gradient Always Converges in Markov Potential Games (with Roy Fox, Stephen McAleer and Will Overman). <br/>
