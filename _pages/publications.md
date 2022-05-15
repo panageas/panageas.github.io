@@ -11,6 +11,10 @@ redirect_from:
 ======
 
 <br/>
+On Last-Iterate Convergence Beyond Zero-Sum Games 
+(with Ioannis Anagnostides, Gabriele Farina and Tuomas Sandholm). <br/>
+_<font color="red">ICML 2022</font>_ [[Arxiv](https://arxiv.org/abs/2203.12056)] <br/>
+<br/>
 Accelerated Multiplicative Weights Update Avoids Saddle Points almost always 
 (with Yi Feng and Xiao Wang). <br/>
 _<font color="red">IJCAI 2022</font>_ [[Arxiv](https://arxiv.org/abs/2204.11407)] <br/>
