@@ -39,7 +39,8 @@ Talks
 Current Students 
 ======
 [Fivos Kalogiannis](https://fivoskal.github.io) (2022 - Present) <br/>
-[Stelios Stavroulakis](https://steliostavroulakis.github.io/) (2022 - Present) 
+[Stelios Stavroulakis](https://steliostavroulakis.github.io/) (2022 - Present) <br/>
+[Zhi Zhang](https://zzh237.github.io/) (2022 - Present)
 
 
 Past Students
