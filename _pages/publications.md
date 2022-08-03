@@ -11,6 +11,10 @@ redirect_from:
 ======
 
 <br/>
+Optimistic Mirror Descent Either Converges to Nash or to Strong Coarse Correlated Equilibria in Bimatrix Games
+(with Ioannis Anagnostides, Gabriele Farina and Tuomas Sandholm). <br/>
+[[Arxiv](https://arxiv.org/abs/2203.12074)] <br/>
+<br/>
 On Last-Iterate Convergence Beyond Zero-Sum Games 
 (with Ioannis Anagnostides, Gabriele Farina and Tuomas Sandholm). <br/>
 _<font color="red">ICML 2022</font>_ [[Arxiv](https://arxiv.org/abs/2203.12056)] <br/>
