@@ -11,9 +11,17 @@ redirect_from:
 ======
 
 <br/>
+Efficiently Computing Nash Equilibria in Adversarial Team Markov Games
+(with Fivos Kalogiannis, Ioannis Anagnostides, Manolis Vlatakis, Vaggos Chatziafratis and Stelios Stavroulakis). <br/>
+[[Arxiv](https://arxiv.org/abs/2208.02204)] <br/>
+<br/>
 Optimistic Mirror Descent Either Converges to Nash or to Strong Coarse Correlated Equilibria in Bimatrix Games
 (with Ioannis Anagnostides, Gabriele Farina and Tuomas Sandholm). <br/>
 [[Arxiv](https://arxiv.org/abs/2203.12074)] <br/>
+<br/>
+Teamwork makes von Neumann work: Min-Max Optimization in Two-Team Zero-Sum Games
+(with Fivos Kalogiannis and Manolis Vlatakis). <br/>
+[[Arxiv](https://arxiv.org/abs/2111.04178)] <br/>
 <br/>
 On Last-Iterate Convergence Beyond Zero-Sum Games 
 (with Ioannis Anagnostides, Gabriele Farina and Tuomas Sandholm). <br/>
