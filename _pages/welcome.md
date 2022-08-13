@@ -49,7 +49,7 @@ Past Students
 [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (PhD, Graduated in 2021, now Postdoc at EPFL) <br/>
 [Will Overman](https://willoverman.github.io/) (MSc, 2021 - 2022, now PhD at Stanford) 
 
-Postdocs
+Past Postdocs
 ======
 [Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at [SUFE](http://itcs.shufe.edu.cn/))
 
