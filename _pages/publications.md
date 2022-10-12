@@ -21,7 +21,7 @@ Teamwork makes von Neumann work: Min-Max Optimization in Two-Team Zero-Sum Games
 <br/>
 On Scrambling Phenomena for Randomly Initialized Recurrent Networks
 (with Vaggos Chatziafratis, Clayton Sanford and Stelios Stavroulakis).  <br/>
-_<font color="red">NeurIPS 2022</font>_ [link] <br/>
+_<font color="red">NeurIPS 2022</font>_ [[Arxiv](https://arxiv.org/abs/2210.05212)] <br/>
 <br/>
 Optimistic Mirror Descent Either Converges to Nash or to Strong Coarse Correlated Equilibria in Bimatrix Games
 (with Ioannis Anagnostides, Gabriele Farina and Tuomas Sandholm). <br/>
