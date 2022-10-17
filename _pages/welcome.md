@@ -40,6 +40,7 @@ Talks
 Current Students 
 ======
 [Fivos Kalogiannis](https://fivoskal.github.io) (2022 - Present) <br/>
+[Nikolas Patris](https://npatris.github.io/) (2022 - Present, coadvised with Vijay V Vazirani) <br/>
 [Stelios Stavroulakis](https://steliostavroulakis.github.io/) (2022 - Present) <br/>
 
 
