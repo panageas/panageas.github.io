@@ -7,6 +7,15 @@ redirect_from:
   - /publications
   - /publications.md
 ---
+2023
+======
+
+<br/>
+Mean estimation of truncated mixtures of two Gaussians: A gradient based approach (with Sai Ganesh Nagarajan, Gerasimos Palaiopanos, Tushar Vaidya and Samson Yu). <br/>
+_<font color="red">AAAI 2023</font>_ [link soon] <br/>
+<br/>
+
+
 2022
 ======
 
