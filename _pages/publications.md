@@ -11,6 +11,14 @@ redirect_from:
 ======
 
 <br/>
+Efficiently Computing Nash Equilibria in Adversarial Team Markov Games
+(with Fivos Kalogiannis, Ioannis Anagnostides, Manolis Vlatakis, Vaggos Chatziafratis and Stelios Stavroulakis). <br/>
+_<font color="red">ICLR 2023 (oral)</font>_ [[Arxiv](https://arxiv.org/abs/2208.02204)] <br/>
+<br/>
+Teamwork makes von Neumann work: Min-Max Optimization in Two-Team Zero-Sum Games
+(with Fivos Kalogiannis and Manolis Vlatakis). <br/>
+_<font color="red">ICLR 2023</font>_ [[Arxiv](https://arxiv.org/abs/2111.04178)] <br/>
+<br/>
 Mean estimation of truncated mixtures of two Gaussians: A gradient based approach (with Sai Ganesh Nagarajan, Gerasimos Palaiopanos, Tushar Vaidya and Samson Yu). <br/>
 _<font color="red">AAAI 2023</font>_ [link soon] <br/>
 <br/>
@@ -19,14 +27,6 @@ _<font color="red">AAAI 2023</font>_ [link soon] <br/>
 2022
 ======
 
-<br/>
-Efficiently Computing Nash Equilibria in Adversarial Team Markov Games
-(with Fivos Kalogiannis, Ioannis Anagnostides, Manolis Vlatakis, Vaggos Chatziafratis and Stelios Stavroulakis). <br/>
-[[Arxiv](https://arxiv.org/abs/2208.02204)] <br/>
-<br/>
-Teamwork makes von Neumann work: Min-Max Optimization in Two-Team Zero-Sum Games
-(with Fivos Kalogiannis and Manolis Vlatakis). <br/>
-[[Arxiv](https://arxiv.org/abs/2111.04178)] <br/>
 <br/>
 On Scrambling Phenomena for Randomly Initialized Recurrent Networks
 (with Vaggos Chatziafratis, Clayton Sanford and Stelios Stavroulakis).  <br/>
