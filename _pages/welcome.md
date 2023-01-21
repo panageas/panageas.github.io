@@ -21,7 +21,7 @@ Selected Publications
 ======
 Click [here](https://panageas.github.io/publications) for full list<br/>
 <br/>
-[Efficiently Computing Nash Equilibria in Adversarial Team Markov Games.](https://arxiv.org/abs/2208.02204) _<font color="red">ICLR 2023 (oral)</font>_ <br/><br/>
+[Efficiently Computing Nash Equilibria in Adversarial Team Markov Games.](https://arxiv.org/abs/2208.02204) _<font color="red">ICLR 2023 (oral)</font>_ <br/>
 [Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games.](https://arxiv.org/abs/2106.01969) _<font color="red">ICLR 2022</font>_ <br/>
 [Depth-Width Trade-offs for ReLU Networks via Sharkovsky's Theorem.](https://arxiv.org/abs/1912.04378) 
 _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
