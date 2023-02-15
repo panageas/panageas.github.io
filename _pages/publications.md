@@ -11,6 +11,10 @@ redirect_from:
 ======
 
 <br/>
+On the Convergence of No-Regret Learning Dynamics in Time-Varying Games
+(with Ioannis Anagnostides, Gabriele Farina and Tuomas Sandholm). <br/>
+[[Arxiv](https://arxiv.org/abs/2301.11241)] <br/>
+<br/>
 Efficiently Computing Nash Equilibria in Adversarial Team Markov Games
 (with Fivos Kalogiannis, Ioannis Anagnostides, Manolis Vlatakis, Vaggos Chatziafratis and Stelios Stavroulakis). <br/>
 _<font color="red">ICLR 2023 (oral)</font>_ [[Arxiv](https://arxiv.org/abs/2208.02204)] <br/>
