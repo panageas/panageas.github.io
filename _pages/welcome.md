@@ -31,6 +31,14 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 [Multiplicative Weights Update with Constant step-size in Congestion Games: Convergence, Limit Cycles and Chaos.](https://arxiv.org/abs/1703.01138) 
  _<font color="red">NeurIPS 2017 (spotlight)</font>_ <br/>
 
+News 
+======
+  <ul>
+<li>2/2023: New paper on <a href="https://arxiv.org/abs/2301.11241">
+        time-varying games.</a> </li>
+<li>1/2023: Two papers accepted in ICLR 2023, <a href="https://arxiv.org/abs/2208.02204"> one oral.</a></li>
+    </ul>
+    
 Talks 
 ======
 [Policy Gradient for Potential Stochastic Games](https://www.youtube.com/watch?v=d1QRdQ2ayNA&ab_channel=UCIBrenICS) <br/>
