@@ -35,6 +35,8 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 News 
 ======
   <ul>
+ <li>3/2023: <a href="https://panageas.github.io/_pages/recent_advances.pdf">
+        Talk</a> on computing Nash equilibria in Markov Games.</li>
 <li>2/2023: New paper on <a href="https://arxiv.org/abs/2301.11241">
         time-varying games.</a> </li>
 <li>1/2023: Two papers accepted in ICLR 2023, <a href="https://arxiv.org/abs/2208.02204"> one oral.</a></li>
