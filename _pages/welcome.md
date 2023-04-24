@@ -34,7 +34,7 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 News 
 ======
   <ul>
-  <li> 4/2023 One paper accepted in ICML 2023, link soon. </a></li>
+  <li> 4/2023 One paper accepted in ICML 2023, link soon. </li>
  <li>3/2023: <a href="https://panageas.github.io/_pages/recent_advances.pdf">
         Talk</a> on computing Nash equilibria in Markov Games.</li>
 <li>2/2023: New paper on <a href="https://arxiv.org/abs/2301.11241">
