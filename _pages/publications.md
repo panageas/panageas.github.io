@@ -13,7 +13,7 @@ redirect_from:
 <br/>
 Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees
 (with Stratis Skoulakis, Luca Viano, Xiao Wang and Volkan Cevher). <br/>
-_<font color="red">ICML 2023</font>_ [link soon] <br/>
+_<font color="red">ICML 2023 (oral)</font>_ [link soon] <br/>
 <br/>
 On the Convergence of No-Regret Learning Dynamics in Time-Varying Games
 (with Ioannis Anagnostides, Gabriele Farina and Tuomas Sandholm). <br/>
