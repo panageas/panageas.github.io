@@ -13,7 +13,7 @@ redirect_from:
 <br/>
 Algorithms and Complexity for Computing Nash Equilibria in Adversarial Team Games
 (with Ioannis Anagnostides, Fivos Kalogiannis, Manolis Vlatakis and Stephen McAleer). <br/>
-_<font color="red">EC 2023</font>_ [[Arxiv](https://arxiv.org/abs/2301.02129) <br/>
+_<font color="red">EC 2023</font>_ [[Arxiv](https://arxiv.org/abs/2301.02129)] <br/>
 <br/>
 Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees
 (with Stratis Skoulakis, Luca Viano, Xiao Wang and Volkan Cevher). <br/>
