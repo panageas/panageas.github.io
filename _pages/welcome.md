@@ -35,7 +35,7 @@ News
 ======
   <ul>
   <li> 5/2023 One <a href="https://arxiv.org/abs/2301.02129">
-    paper </a> accepted in EC 2023. </li>
+    paper</a> accepted in EC 2023. </li>
   <li> 4/2023 One paper accepted in ICML 2023 as oral, link soon. </li>
  <li>3/2023: <a href="https://panageas.github.io/_pages/recent_advances.pdf">
         Talk</a> on computing Nash equilibria in Markov Games.</li>
