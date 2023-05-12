@@ -32,7 +32,7 @@ Teamwork makes von Neumann work: Min-Max Optimization in Two-Team Zero-Sum Games
 _<font color="red">ICLR 2023</font>_ [[Arxiv](https://arxiv.org/abs/2111.04178)] <br/>
 <br/>
 Mean estimation of truncated mixtures of two Gaussians: A gradient based approach (with Sai Ganesh Nagarajan, Gerasimos Palaiopanos, Tushar Vaidya and Samson Yu). <br/>
-_<font color="red">AAAI 2023</font>_ [link soon] <br/>
+_<font color="red">AAAI 2023</font>_ [[Link](https://www.dropbox.com/s/p7ok5ij4f4ly0y1/mean_estimation_AAAI23.pdf?dl=0)] <br/>
 <br/>
 
 
