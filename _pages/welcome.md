@@ -35,7 +35,7 @@ News
 ======
   <ul>
   <li> I'm co-organizing the <a href="https://sites.google.com/view/ec23mentoring/home">
-    EC 2023 Mentoring</a> Workshop </li>
+    EC 2023 Mentoring</a> Workshop with Simina Branzei. </li>
   <li> 5/2023 One <a href="https://arxiv.org/abs/2301.02129">
     paper</a> accepted in EC 2023. </li>
   <li> 4/2023 One paper accepted in ICML 2023 as oral, link soon. </li>
@@ -69,8 +69,9 @@ Past Postdocs
 ======
 [Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at [SUFE](http://itcs.shufe.edu.cn/))
 
-Committees 
+Committees and Organising Workshops
 ======
+<a href="https://sites.google.com/view/ec23mentoring/home"> EC 2023 Mentoring </a> Workshop <br/>
 Conference on Economics and Computation (<b>EC</b>) 2019, 2020, 2021, 2022, 2023 <br/>
 Neural Information Processing and Systems (<b>NeurIPS</b>) 2019, 2021 <br/>
 International Conference on Machine Learning (<b>ICML</b>) 2019 <br/>
