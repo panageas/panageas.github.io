@@ -69,7 +69,7 @@ Past Postdocs
 ======
 [Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at [SUFE](http://itcs.shufe.edu.cn/))
 
-Committees and Organising Workshops
+Committees and Organizing Workshops
 ======
 <a href="https://sites.google.com/view/ec23mentoring/home"> EC 2023 Mentoring </a> Workshop <br/>
 Conference on Economics and Computation (<b>EC</b>) 2019, 2020, 2021, 2022, 2023 <br/>
