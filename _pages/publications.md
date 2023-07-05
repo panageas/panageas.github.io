@@ -17,7 +17,7 @@ _<font color="red">EC 2023</font>_ [[Arxiv](https://arxiv.org/abs/2301.02129)] <
 <br/>
 Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees
 (with Stratis Skoulakis, Luca Viano, Xiao Wang and Volkan Cevher). <br/>
-_<font color="red">ICML 2023 (oral)</font>_ [link soon] <br/>
+_<font color="red">ICML 2023 (oral)</font>_ [[Arxiv](https://arxiv.org/abs/2306.15543)] <br/>
 <br/>
 On the Convergence of No-Regret Learning Dynamics in Time-Varying Games
 (with Ioannis Anagnostides, Gabriele Farina and Tuomas Sandholm). <br/>
