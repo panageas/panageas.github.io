@@ -78,6 +78,7 @@ International Conference on Machine Learning (<b>ICML</b>) 2019 <br/>
 Conference on Web and Internet Economics (<b>WINE</b>) 2019, 2021 <br/>
 AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2020 
 
-
-
-
+Miscellaneous
+======
+<a href="https://www.imo-official.org/"> International Mathematical Olympiad </a> <br/>
+<a href="https://stats.ioinformatics.org/"> International Olympiad in Informatics </a> <br/>
