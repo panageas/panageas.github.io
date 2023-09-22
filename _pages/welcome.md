@@ -72,8 +72,8 @@ Past Postdocs
 
 Committees and Organizing Workshops
 ======
-Area Chair at ICLR 2024 <br/>
-Area Chair at AISTATS 2024 <br/>
+Area Chair at International Conference on Learning Representations (<b>ICLR</b>) 2024 <br/>
+Area Chair at International Conference on Artificial Intelligence and Statistics (<b>AISTATS</b>) 2024 <br/>
 <a href="https://sites.google.com/view/ec23mentoring/home"> EC 2023 Mentoring </a> Workshop <br/>
 Conference on Economics and Computation (<b>EC</b>) 2019, 2020, 2021, 2022, 2023 <br/>
 Neural Information Processing and Systems (<b>NeurIPS</b>) 2019, 2021 <br/>
