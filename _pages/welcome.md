@@ -34,7 +34,7 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 News 
 ======
   <ul>
-    <li> Four papers got accepted in NeurIPS 2023 </li>
+    <li> Four papers got accepted in NeurIPS 2023. </li>
   <li> I'm co-organizing the <a href="https://sites.google.com/view/ec23mentoring/home">
     EC 2023 Mentoring</a> Workshop with Simina Branzei. </li>
   <li> 5/2023 One <a href="https://arxiv.org/abs/2301.02129">
@@ -72,11 +72,13 @@ Past Postdocs
 
 Committees and Organizing Workshops
 ======
+Area Chair at ICLR 2024 <br/>
+Area Chair at AISTATS 2024 <br/>
 <a href="https://sites.google.com/view/ec23mentoring/home"> EC 2023 Mentoring </a> Workshop <br/>
 Conference on Economics and Computation (<b>EC</b>) 2019, 2020, 2021, 2022, 2023 <br/>
 Neural Information Processing and Systems (<b>NeurIPS</b>) 2019, 2021 <br/>
 International Conference on Machine Learning (<b>ICML</b>) 2019 <br/>
-Conference on Web and Internet Economics (<b>WINE</b>) 2019, 2021 <br/>
+Conference on Web and Internet Economics (<b>WINE</b>) 2019, 2021, 2023 <br/>
 AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2020 
 
 Miscellaneous
