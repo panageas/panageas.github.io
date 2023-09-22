@@ -34,6 +34,7 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 News 
 ======
   <ul>
+    <li> Four papers got accepted in NeurIPS 2023 </li>
   <li> I'm co-organizing the <a href="https://sites.google.com/view/ec23mentoring/home">
     EC 2023 Mentoring</a> Workshop with Simina Branzei. </li>
   <li> 5/2023 One <a href="https://arxiv.org/abs/2301.02129">
