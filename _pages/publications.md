@@ -9,7 +9,22 @@ redirect_from:
 ---
 2023
 ======
-
+<br/>
+Exponential Lower Bounds for Fictitious Play in Potential Games
+(with Nikolas Patris, Stratis Skoulakis and Volkan Cevher). <br/>
+_<font color="red">NeurIPS 2023</font>_ [link soon] <br/>
+<br/>
+Zero-sum Polymatrix Markov Games: Equilibrium Collapse and Efficient Computation of Nash Equilibria
+(with Fivos Kalogiannis). <br/>
+_<font color="red">NeurIPS 2023</font>_ [[Arxiv](https://arxiv.org/abs/2305.14329)] <br/>
+<br/>
+On the Last-iterate Convergence in Time-varying Zero-sum Games: Extra Gradient Succeeds where Optimism Fails
+(with Yi Feng, Hu Fu, Qun Hu, Ping Li, bo peng and Xiao Wang). <br/>
+_<font color="red">NeurIPS 2023</font>_ [link soon] <br/>
+<br/>
+On the Convergence of No-Regret Learning Dynamics in Time-Varying Games
+(with Ioannis Anagnostides, Gabriele Farina and Tuomas Sandholm). <br/>
+_<font color="red">NeurIPS 2023</font>_ [[Arxiv](https://arxiv.org/abs/2301.11241)] <br/>
 <br/>
 Algorithms and Complexity for Computing Nash Equilibria in Adversarial Team Games
 (with Ioannis Anagnostides, Fivos Kalogiannis, Manolis Vlatakis and Stephen McAleer). <br/>
@@ -18,10 +33,6 @@ _<font color="red">EC 2023</font>_ [[Arxiv](https://arxiv.org/abs/2301.02129)] <
 Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees
 (with Stratis Skoulakis, Luca Viano, Xiao Wang and Volkan Cevher). <br/>
 _<font color="red">ICML 2023 (oral)</font>_ [[Arxiv](https://arxiv.org/abs/2306.15543)] <br/>
-<br/>
-On the Convergence of No-Regret Learning Dynamics in Time-Varying Games
-(with Ioannis Anagnostides, Gabriele Farina and Tuomas Sandholm). <br/>
-[[Arxiv](https://arxiv.org/abs/2301.11241)] <br/>
 <br/>
 Efficiently Computing Nash Equilibria in Adversarial Team Markov Games
 (with Fivos Kalogiannis, Ioannis Anagnostides, Manolis Vlatakis, Vaggos Chatziafratis and Stelios Stavroulakis). <br/>
