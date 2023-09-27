@@ -19,7 +19,7 @@ Zero-sum Polymatrix Markov Games: Equilibrium Collapse and Efficient Computation
 _<font color="red">NeurIPS 2023</font>_ [[Arxiv](https://arxiv.org/abs/2305.14329)] <br/>
 <br/>
 On the Last-iterate Convergence in Time-varying Zero-sum Games: Extra Gradient Succeeds where Optimism Fails
-(with Yi Feng, Hu Fu, Qun Hu, Ping Li, bo Peng and Xiao Wang). <br/>
+(with Yi Feng, Hu Fu, Qun Hu, Ping Li, Bo Peng and Xiao Wang). <br/>
 _<font color="red">NeurIPS 2023</font>_ [link soon] <br/>
 <br/>
 On the Convergence of No-Regret Learning Dynamics in Time-Varying Games
