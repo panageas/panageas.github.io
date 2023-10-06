@@ -20,7 +20,7 @@ _<font color="red">NeurIPS 2023</font>_ [[Arxiv](https://arxiv.org/abs/2305.1432
 <br/>
 On the Last-iterate Convergence in Time-varying Zero-sum Games: Extra Gradient Succeeds where Optimism Fails
 (with Yi Feng, Hu Fu, Qun Hu, Ping Li, Bo Peng and Xiao Wang). <br/>
-_<font color="red">NeurIPS 2023</font>_ [[Arxiv](https://arxiv.org/abs/2310.02604) <br/>
+_<font color="red">NeurIPS 2023</font>_ [[Arxiv](https://arxiv.org/abs/2310.02604)] <br/>
 <br/>
 On the Convergence of No-Regret Learning Dynamics in Time-Varying Games
 (with Ioannis Anagnostides, Gabriele Farina and Tuomas Sandholm). <br/>
