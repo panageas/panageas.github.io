@@ -12,7 +12,7 @@ redirect_from:
 <br/>
 Exponential Lower Bounds for Fictitious Play in Potential Games
 (with Nikolas Patris, Stratis Skoulakis and Volkan Cevher). <br/>
-_<font color="red">NeurIPS 2023</font>_ [link soon] <br/>
+_<font color="red">NeurIPS 2023</font>_ [[Arxiv](https://arxiv.org/abs/2310.02387)] <br/>
 <br/>
 Zero-sum Polymatrix Markov Games: Equilibrium Collapse and Efficient Computation of Nash Equilibria
 (with Fivos Kalogiannis). <br/>
@@ -20,7 +20,7 @@ _<font color="red">NeurIPS 2023</font>_ [[Arxiv](https://arxiv.org/abs/2305.1432
 <br/>
 On the Last-iterate Convergence in Time-varying Zero-sum Games: Extra Gradient Succeeds where Optimism Fails
 (with Yi Feng, Hu Fu, Qun Hu, Ping Li, Bo Peng and Xiao Wang). <br/>
-_<font color="red">NeurIPS 2023</font>_ [link soon] <br/>
+_<font color="red">NeurIPS 2023</font>_ [[Arxiv](https://arxiv.org/abs/2310.02604) <br/>
 <br/>
 On the Convergence of No-Regret Learning Dynamics in Time-Varying Games
 (with Ioannis Anagnostides, Gabriele Farina and Tuomas Sandholm). <br/>
