@@ -7,6 +7,19 @@ redirect_from:
   - /publications
   - /publications.md
 ---
+2024
+======
+<br/>
+Optimistic Policy Gradient in Multi-Player Markov Games with a Single Controller: Convergence Beyond the Minty Property
+(with Ioannis Anagnostides, Gabriele Farina and Tuomas Sandholm). <br/>
+_<font color="red">AAAI 2024</font>_ [[Link soon](https://panageas.github.io)] <br/>
+<br/>
+Computing Nash Equilibria in Potential Games with Private Uncoupled Constraints
+(with Nikolas Patris, Stelios Stavroulakis, Fivos Kalogiannis and Rose Zhang). <br/>
+_<font color="red">AAAI 2024</font>_ [[Link soon](https://panageas.github.io)] <br/>
+<br/>
+
+
 2023
 ======
 <br/>
