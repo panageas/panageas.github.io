@@ -14,7 +14,7 @@ Learning Nash equilibria in Rank-1 games: Going beyond the Minty Property <br/>
 (with Nikolas Patris). <br/>
 _<font color="red">ICLR 2024</font>_ [[Link soon](https://panageas.github.io)] <br/>
 <br/>
-Beating Price of Anarchy and Gradient Descent without Regret in Potential Games
+Beating Price of Anarchy and Gradient Descent without Regret in Potential Games <br/>
 (with Iosif Sakos, Stefanos Leonardos, Stelios Stavroulakis, Will Overman and Georgios Piliouras). <br/>
 _<font color="red">ICLR 2024</font>_ [[Link soon](https://panageas.github.io)] <br/>
 <br/>
@@ -22,7 +22,7 @@ Optimistic Policy Gradient in Multi-Player Markov Games with a Single Controller
 (with Ioannis Anagnostides, Gabriele Farina and Tuomas Sandholm). <br/>
 _<font color="red">AAAI 2024</font>_ [[Arxiv](https://arxiv.org/abs/2312.12067)] <br/>
 <br/>
-Computing Nash Equilibria in Potential Games with Private Uncoupled Constraints
+Computing Nash Equilibria in Potential Games with Private Uncoupled Constraints <br/>
 (with Nikolas Patris, Stelios Stavroulakis, Fivos Kalogiannis and Rose Zhang). <br/>
 _<font color="red">AAAI 2024</font>_ [[Link soon](https://panageas.github.io)] <br/>
 <br/>
@@ -43,7 +43,7 @@ On the Last-iterate Convergence in Time-varying Zero-sum Games: Extra Gradient S
 (with Yi Feng, Hu Fu, Qun Hu, Ping Li, Bo Peng and Xiao Wang). <br/>
 _<font color="red">NeurIPS 2023</font>_ [[Arxiv](https://arxiv.org/abs/2310.02604)] <br/>
 <br/>
-On the Convergence of No-Regret Learning Dynamics in Time-Varying Games
+On the Convergence of No-Regret Learning Dynamics in Time-Varying Games <br/>
 (with Ioannis Anagnostides, Gabriele Farina and Tuomas Sandholm). <br/>
 _<font color="red">NeurIPS 2023</font>_ [[Arxiv](https://arxiv.org/abs/2301.11241)] <br/>
 <br/>
