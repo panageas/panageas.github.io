@@ -10,7 +10,7 @@ redirect_from:
 2024
 ======
 <br/>
-Learning Nash equilibria in Rank-1 games: Going beyond the Minty Property
+Learning Nash equilibria in Rank-1 games: Going beyond the Minty Property <br/>
 (with Nikolas Patris). <br/>
 _<font color="red">ICLR 2024</font>_ [[Link soon](https://panageas.github.io)] <br/>
 <br/>
@@ -31,7 +31,7 @@ _<font color="red">AAAI 2024</font>_ [[Link soon](https://panageas.github.io)] <
 2023
 ======
 <br/>
-Exponential Lower Bounds for Fictitious Play in Potential Games
+Exponential Lower Bounds for Fictitious Play in Potential Games <br/>
 (with Nikolas Patris, Stratis Skoulakis and Volkan Cevher). <br/>
 _<font color="red">NeurIPS 2023</font>_ [[Arxiv](https://arxiv.org/abs/2310.02387)] <br/>
 <br/>
@@ -47,7 +47,7 @@ On the Convergence of No-Regret Learning Dynamics in Time-Varying Games
 (with Ioannis Anagnostides, Gabriele Farina and Tuomas Sandholm). <br/>
 _<font color="red">NeurIPS 2023</font>_ [[Arxiv](https://arxiv.org/abs/2301.11241)] <br/>
 <br/>
-Algorithms and Complexity for Computing Nash Equilibria in Adversarial Team Games
+Algorithms and Complexity for Computing Nash Equilibria in Adversarial Team Games <br/>
 (with Ioannis Anagnostides, Fivos Kalogiannis, Manolis Vlatakis and Stephen McAleer). <br/>
 _<font color="red">EC 2023</font>_ [[Arxiv](https://arxiv.org/abs/2301.02129)] <br/>
 <br/>
@@ -63,7 +63,7 @@ Teamwork makes von Neumann work: Min-Max Optimization in Two-Team Zero-Sum Games
 (with Fivos Kalogiannis and Manolis Vlatakis). <br/>
 _<font color="red">ICLR 2023</font>_ [[Arxiv](https://arxiv.org/abs/2111.04178)] <br/>
 <br/>
-Mean estimation of truncated mixtures of two Gaussians: A gradient based approach (with Sai Ganesh Nagarajan, Gerasimos Palaiopanos, Tushar Vaidya and Samson Yu). <br/>
+Mean estimation of truncated mixtures of two Gaussians: A gradient based approach <br/>(with Sai Ganesh Nagarajan, Gerasimos Palaiopanos, Tushar Vaidya and Samson Yu). <br/>
 _<font color="red">AAAI 2023</font>_ [[Link](https://www.dropbox.com/s/p7ok5ij4f4ly0y1/mean_estimation_AAAI23.pdf?dl=0)] <br/>
 <br/>
 
@@ -72,7 +72,7 @@ _<font color="red">AAAI 2023</font>_ [[Link](https://www.dropbox.com/s/p7ok5ij4f
 ======
 
 <br/>
-On Scrambling Phenomena for Randomly Initialized Recurrent Networks
+On Scrambling Phenomena for Randomly Initialized Recurrent Networks <br/>
 (with Vaggos Chatziafratis, Clayton Sanford and Stelios Stavroulakis).  <br/>
 _<font color="red">NeurIPS 2022</font>_ [[Arxiv](https://arxiv.org/abs/2210.05212)] <br/>
 <br/>
@@ -80,18 +80,18 @@ Optimistic Mirror Descent Either Converges to Nash or to Strong Coarse Correlate
 (with Ioannis Anagnostides, Gabriele Farina and Tuomas Sandholm). <br/>
 _<font color="red">NeurIPS 2022</font>_ [[Arxiv](https://arxiv.org/abs/2203.12074)] <br/>
 <br/>
-On Last-Iterate Convergence Beyond Zero-Sum Games 
+On Last-Iterate Convergence Beyond Zero-Sum Games <br/>
 (with Ioannis Anagnostides, Gabriele Farina and Tuomas Sandholm). <br/>
 _<font color="red">ICML 2022</font>_ [[Arxiv](https://arxiv.org/abs/2203.12056)] <br/>
 <br/>
-Accelerated Multiplicative Weights Update Avoids Saddle Points almost always 
+Accelerated Multiplicative Weights Update Avoids Saddle Points almost always <br/>
 (with Yi Feng and Xiao Wang). <br/>
 _<font color="red">IJCAI 2022</font>_ [[Arxiv](https://arxiv.org/abs/2204.11407)] <br/>
 <br/>
-Independent Natural Policy Gradient Always Converges in Markov Potential Games (with Roy Fox, Stephen McAleer and Will Overman). <br/>
+Independent Natural Policy Gradient Always Converges in Markov Potential Games <br/>(with Roy Fox, Stephen McAleer and Will Overman). <br/>
 _<font color="red">AISTATS 2022</font>_ [[Arxiv](https://arxiv.org/abs/2110.10614)] <br/>
 <br/>
-Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games (with Stefanos Leonardos, Will Overman and Georgios Piliouras). <br/>
+Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games <br/>(with Stefanos Leonardos, Will Overman and Georgios Piliouras). <br/>
 _<font color="red">ICLR 2022</font>_ [[Arxiv](https://arxiv.org/abs/2106.01969)] <br/>
 <br/>
 Frequency-Domain Representation of First-Order Methods: A Simple and Robust Framework of Analysis (with Ioannis Anagnostides). <br/>
