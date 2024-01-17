@@ -34,6 +34,8 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 News 
 ======
   <ul>
+    <li> PC member for FOCS 2024. </li>
+    <li> Two papers got accepted in ICLR 2024. </li>
     <li> Two papers got accepted in AAAI 2024. </li>
     <li> Four papers got accepted in NeurIPS 2023. </li>
   <li> I'm co-organizing the <a href="https://sites.google.com/view/ec23mentoring/home">
