@@ -77,6 +77,7 @@ Past Postdocs
 
 Committees and Organizing Workshops
 ======
+PC member at Annual Symposium on Foundations of Computer Science (<b>FOCS</b>) 2024 <br/>
 Area Chair at International Conference on Learning Representations (<b>ICLR</b>) 2024 <br/>
 Area Chair at International Conference on Artificial Intelligence and Statistics (<b>AISTATS</b>) 2024 <br/>
 <a href="https://sites.google.com/view/ec23mentoring/home"> EC 2023 Mentoring </a> Workshop <br/>
