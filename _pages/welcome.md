@@ -38,6 +38,8 @@ News
     <li> 1/2024: PC member for FOCS 2024, AC for ICML 2024. </li>
     <li> 1/2024: Two papers got accepted in ICLR 2024. </li>
     <li> 1/2024: Two papers got accepted in AAAI 2024. </li>
+    <li> 11/2023: Talk at Simons Laufer Mathematical Sciences Institute on learning in two player games. </li>
+    <li> 10/2023: Talk at Informs on Markov polymatrix Games. </li>
     <li> 9/2023: Four papers got accepted in NeurIPS 2023. </li>
   <li> I'm co-organizing the <a href="https://sites.google.com/view/ec23mentoring/home">
     EC 2023 Mentoring</a> Workshop with Simina Branzei. </li>
