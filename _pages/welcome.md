@@ -34,7 +34,8 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 News 
 ======
   <ul>
-    <li> 1/2024: PC member for FOCS 2024. </li>
+    <li> 1/2024: New <a href="https://arxiv.org/abs/2401.09628">paper</a> on bandit feedback in congestion games. </li>
+    <li> 1/2024: PC member for FOCS 2024, AC for ICML 2024. </li>
     <li> 1/2024: Two papers got accepted in ICLR 2024. </li>
     <li> 1/2024: Two papers got accepted in AAAI 2024. </li>
     <li> 9/2023: Four papers got accepted in NeurIPS 2023. </li>
