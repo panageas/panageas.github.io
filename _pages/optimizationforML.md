@@ -1,7 +1,7 @@
 ---
 permalink: /optimizationforML/
 title: "Optimization for Machine Learning"
-excerpt: "OptimizationforML"
+
 author_profile: true
 redirect_from: 
   - /optimizationforML
