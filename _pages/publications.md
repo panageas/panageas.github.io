@@ -24,7 +24,7 @@ _<font color="red">AAAI 2024</font>_ [[Arxiv](https://arxiv.org/abs/2312.12067)]
 <br/>
 Computing Nash Equilibria in Potential Games with Private Uncoupled Constraints <br/>
 (with Nikolas Patris, Stelios Stavroulakis, Fivos Kalogiannis and Rose Zhang). <br/>
-_<font color="red">AAAI 2024</font>_ [[Link soon](https://panageas.github.io)] <br/>
+_<font color="red">AAAI 2024</font>_ [[Arxiv](https://arxiv.org/abs/2402.07797)] <br/>
 <br/>
 
 
