@@ -63,16 +63,17 @@ Talks
 
 Current Students 
 ======
-[Fivos Kalogiannis](https://fivoskal.github.io) (2022 - Present) <br/>
+
 [Nikolas Patris](https://npatris.github.io/) (2022 - Present, coadvised with Vijay V. Vazirani) <br/>
 [Stelios Stavroulakis](https://steliostavroulakis.github.io/) (2022 - Present) <br/>
 Jingming Yan (2023 - Present) <br/>
 
 
-Past Students
+Past Students (chronological order)
 ======
 [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (PhD, Graduated in 2021, now Postdoc at EPFL) <br/>
-[Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en&oi=sra) (MSc, 2021 - 2022, now PhD at Stanford) 
+[Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en&oi=sra) (MSc, 2021 - 2022, now PhD at Stanford) <br/>
+[Fivos Kalogiannis](https://fivoskal.github.io) (MSc, 2022 - 2024) <br/>
 
 Past Postdocs
 ======
