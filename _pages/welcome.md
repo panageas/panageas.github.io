@@ -71,7 +71,7 @@ Jingming Yan (2023 - Present) <br/>
 
 Past Students (chronological order)
 ======
-[Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (PhD '21, $\to$ Postdoc at EPFL) <br/>
+[Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (PhD '21 $\to$ Postdoc at EPFL) <br/>
 [Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en&oi=sra) (MSc '22 $\to$ PhD at Stanford) <br/>
 [Fivos Kalogiannis](https://fivoskal.github.io) (MSc '24 $\to$ PhD at UCSD) <br/>
 
