@@ -10,13 +10,13 @@ redirect_from:
 2024
 ======
 <br/>
-Learning Nash equilibria in Rank-1 games: Going beyond the Minty Property <br/>
+Learning Nash equilibria in Rank-1 games <br/>
 (with Nikolas Patris). <br/>
-_<font color="red">ICLR 2024</font>_ [[Link soon](https://panageas.github.io)] <br/>
+_<font color="red">ICLR 2024</font>_ [[Link soon](https://openreview.net/pdf?id=8utTlmhw8v)] <br/>
 <br/>
 Beating Price of Anarchy and Gradient Descent without Regret in Potential Games <br/>
 (with Iosif Sakos, Stefanos Leonardos, Stelios Stavroulakis, Will Overman and Georgios Piliouras). <br/>
-_<font color="red">ICLR 2024</font>_ [[Link soon](https://panageas.github.io)] <br/>
+_<font color="red">ICLR 2024</font>_ [[Link soon](https://openreview.net/pdf?id=36L7W3ri4U)] <br/>
 <br/>
 Optimistic Policy Gradient in Multi-Player Markov Games with a Single Controller: Convergence Beyond the Minty Property
 (with Ioannis Anagnostides, Gabriele Farina and Tuomas Sandholm). <br/>
