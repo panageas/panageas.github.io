@@ -92,7 +92,7 @@ Area Chair at International Conference on Machine Learning (<b>ICML</b>) 2024 <b
 Annual Symposium on Foundations of Computer Science (<b>FOCS</b>) 2024 <br/>
 Area Chair at International Conference on Learning Representations (<b>ICLR</b>) 2024 <br/>
 Area Chair at International Conference on Artificial Intelligence and Statistics (<b>AISTATS</b>) 2024 <br/>
-EC Mentoring Workshop <a href="https://sites.google.com/view/ec23mentoring/home"> 2023 </a> and 2024   <br/>
+EC Mentoring Workshop <a href="https://sites.google.com/view/ec23mentoring/home"> 2023</a> and 2024   <br/>
 Conference on Economics and Computation (<b>EC</b>) 2019, 2020, 2021, 2022, 2023 <br/>
 Conference on Web and Internet Economics (<b>WINE</b>) 2019, 2021, 2023 <br/>
 AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2020 
