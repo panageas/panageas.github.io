@@ -17,10 +17,9 @@ I am interested in theory of computation and its interface with optimization, dy
 
 Links
 ======
-[Teaching](https://panageas.github.io/teaching/) <br/> 
-[Google Scholar](https://scholar.google.com/citations?user=5NiFWuwAAAAJ&hl=en) profile <br/>
-[DBLP](https://dblp.org/pers/hd/p/Panageas:Ioannis) profile <br/>
-[CV](https://panageas.github.io/files/panageascv.pdf) 
+For courses I have taught see [here](https://panageas.github.io/teaching/). I am currently teaching [CS 161](https://panageas.github.io/algo24.html) <br/> 
+My [CV](https://panageas.github.io/files/panageascv.pdf), [Google Scholar](https://scholar.google.com/citations?user=5NiFWuwAAAAJ&hl=en) and [DBLP](https://dblp.org/pers/hd/p/Panageas:Ioannis) profiles. <br/>
+ 
 
 Selected Publications 
 ======
