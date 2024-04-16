@@ -13,7 +13,7 @@ I am an Assistant Professor in the department of [Computer Science](https://www.
 
 Interests
 ======
-I am interested in theory of computation and its interface with optimization, dynamical systems, probability and statistics, machine learning and their applications to multi-agent Reinforcement Learning. 
+I am interested in theory of computation and its interface with online learning in games, optimization (convex, non-convex, min-max), dynamical systems, probability and statistics and their applications to multi-agent Reinforcement Learning. 
 
 Links
 ======
