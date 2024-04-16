@@ -13,7 +13,14 @@ I am an Assistant Professor in the department of [Computer Science](https://www.
 
 Interests
 ======
-I am interested in theory of computation and its interface with optimization, dynamical systems, probability and statistics, machine learning and their applications to multi-agent Reinforcement Learning. Here are my [Google Scholar](https://scholar.google.com/citations?user=5NiFWuwAAAAJ&hl=en) and my [dblp](https://dblp.org/pers/hd/p/Panageas:Ioannis) profiles. Here is my [CV](https://panageas.github.io/files/panageascv.pdf). For courses I teach, see [here](https://panageas.github.io/teaching/).
+I am interested in theory of computation and its interface with optimization, dynamical systems, probability and statistics, machine learning and their applications to multi-agent Reinforcement Learning. 
+
+Links
+======
+[Teaching](https://panageas.github.io/teaching/) <br/> 
+[Google Scholar](https://scholar.google.com/citations?user=5NiFWuwAAAAJ&hl=en) profile <br/>
+[DBLP](https://dblp.org/pers/hd/p/Panageas:Ioannis) profile <br/>
+[CV](https://panageas.github.io/files/panageascv.pdf) 
 
 Selected Publications 
 ======
