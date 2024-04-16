@@ -10,11 +10,10 @@ About Me
 ======
 I am an Assistant Professor in the department of [Computer Science](https://www.cs.uci.edu/), in the [Donald Bren School of Information & Computer Science](https://www.ics.uci.edu/) at [UC Irvine](https://uci.edu/) and the director of the [GOALLab](https://goallabuci.github.io/). I am affiliated with the [Center for Algorithms and Theory of Computation](https://www.ics.uci.edu/~theory/), the [Center for Machine Learning and Intelligent Systems (CML)](https://cml.ics.uci.edu/) and the [Algorithms, Combinatorics and Optimization Center (ACO)](https://acoi.ics.uci.edu/). I am also affiliated with [Archimedes research unit](https://www.archimedesai.gr/). Prior to UCI, I was an Assistant Professor in [Information Systems](https://istd.sutd.edu.sg/) at [SUTD](https://www.sutd.edu.sg/). Before that I was a MIT Postdoctoral Fellow working with [Costis Daskalakis](http://people.csail.mit.edu/costis/). I obtained my PhD in [Algorithms, Combinatorics, and Optimization (ACO)](https://www.aco.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/), advised by [Prasad Tetali](https://tetali.github.io/). At Georgia Tech, I also obtained a MSc in Mathematics. I did my undergrad studies in [National Technical University of Athens](https://www.ntua.gr/en/). <br/>
 
-Here are my [Google Scholar](https://scholar.google.com/citations?user=5NiFWuwAAAAJ&hl=en) and my [dblp](https://dblp.org/pers/hd/p/Panageas:Ioannis) profiles. <br/>
 
 Interests
 ======
-I am interested in theory of computation and its interface with optimization, dynamical systems, probability and statistics, machine learning and their applications to multi-agent Reinforcement Learning. Here is my [CV](https://panageas.github.io/files/panageascv.pdf).
+I am interested in theory of computation and its interface with optimization, dynamical systems, probability and statistics, machine learning and their applications to multi-agent Reinforcement Learning. Here are my [Google Scholar](https://scholar.google.com/citations?user=5NiFWuwAAAAJ&hl=en) and my [dblp](https://dblp.org/pers/hd/p/Panageas:Ioannis) profiles. Here is my [CV](https://panageas.github.io/files/panageascv.pdf). For courses I teach, see [here](https://panageas.github.io/teaching/).
 
 Selected Publications 
 ======
@@ -82,6 +81,8 @@ Past Postdocs
 
 Committees and Organizing Workshops
 ======
+Area Chair at Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2024 <br/>
+Area Chair at International Conference on Machine Learning (<b>ICML</b>) 2024 <br/>
 Annual Symposium on Foundations of Computer Science (<b>FOCS</b>) 2024 <br/>
 Area Chair at International Conference on Learning Representations (<b>ICLR</b>) 2024 <br/>
 Area Chair at International Conference on Artificial Intelligence and Statistics (<b>AISTATS</b>) 2024 <br/>
