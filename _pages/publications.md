@@ -15,7 +15,6 @@ Last-iterate Convergence Separation between Extra-gradient and Optimisim in Cons
 (with Yi Feng, Ping Li and Xiao Wang). <br/>
 _<font color="red">UAI 2024</font>_ [[Link soon](https://panageas.github.io/)] <br/>
 <br/>
-<br/>
 Learning Nash equilibria in Rank-1 games <br/>
 (with Nikolas Patris). <br/>
 _<font color="red">ICLR 2024</font>_ [[OpenReview](https://openreview.net/pdf?id=8utTlmhw8v)] <br/>
