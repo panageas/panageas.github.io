@@ -10,7 +10,7 @@ redirect_from:
 2024
 ======
 <br/>
-Last-iterate Convergence Separation between Extra-gradient and Optimisim in Constrained Periodic Game
+Last-iterate Convergence Separation between Extra-gradient and Optimism in Constrained Periodic Games
  <br/>
 (with Yi Feng, Ping Li and Xiao Wang). <br/>
 _<font color="red">UAI 2024</font>_ [[Link soon](https://panageas.github.io/)] <br/>
