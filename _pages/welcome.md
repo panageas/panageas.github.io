@@ -15,9 +15,9 @@ Interests
 ======
 I am interested in theory of computation and its interface with online learning in games, optimization (convex, non-convex, min-max), dynamical systems, probability and statistics and their applications to multi-agent Reinforcement Learning. 
 
-Links
+Teaching and other Links
 ======
-For courses I have taught see [here](https://panageas.github.io/teaching/). I am currently teaching [CS 161](https://panageas.github.io/algo2024.html) (Design and Analysis of Algorithms). <br/> 
+For courses I have taught see [here](https://panageas.github.io/teaching/). <br/> I am currently teaching [CS 161](https://panageas.github.io/algo2024.html) (Design and Analysis of Algorithms). <br/> 
 My [CV](https://panageas.github.io/files/panageascv.pdf), [Google Scholar](https://scholar.google.com/citations?user=5NiFWuwAAAAJ&hl=en) and [DBLP](https://dblp.org/pers/hd/p/Panageas:Ioannis) profiles. <br/>
  
 
