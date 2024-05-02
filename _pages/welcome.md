@@ -38,6 +38,7 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 News 
 ======
   <ul>
+    <li> 5/2024: One paper got accepted in ICML 2024. </li>
     <li> 4/2024: One paper got accepted in UAI 2024. </li>
     <li> 3/2024: Talks at 2024 Informs Optimization Society Conference (<a href="https://ios2024.rice.edu/">IOS24</a>) </li>
     <li> 1/2024: New <a href="https://arxiv.org/abs/2401.09628">paper</a> on bandit feedback in congestion games. </li>
