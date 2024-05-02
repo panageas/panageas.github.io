@@ -9,6 +9,12 @@ redirect_from:
 ---
 2024
 ======
+
+<br/>
+The Computational Complexity of Finding Second-Order Stationary Points
+ <br/>
+(with Andreas Kontogiannis, Vasilis Pollatos, Sotiris Kanellopoulos, Panayotis Mertikopoulos and Aris Pagourtzis). <br/>
+_<font color="red">ICML 2024</font>_ [[Link soon](https://panageas.github.io/)] <br/>
 <br/>
 Last-iterate Convergence Separation between Extra-gradient and Optimism in Constrained Periodic Games
  <br/>
