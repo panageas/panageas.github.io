@@ -17,7 +17,7 @@ I am interested in theory of computation and its interface with online learning 
 
 Links
 ======
-For courses I have taught see [here](https://panageas.github.io/teaching/). I am currently teaching [CS 161 (Design and Analysis of Algorithms)](https://panageas.github.io/algo2024.html). <br/> 
+For courses I have taught see [here](https://panageas.github.io/teaching/). I am currently teaching [CS 161](https://panageas.github.io/algo2024.html) (Design and Analysis of Algorithms). <br/> 
 My [CV](https://panageas.github.io/files/panageascv.pdf), [Google Scholar](https://scholar.google.com/citations?user=5NiFWuwAAAAJ&hl=en) and [DBLP](https://dblp.org/pers/hd/p/Panageas:Ioannis) profiles. <br/>
  
 
