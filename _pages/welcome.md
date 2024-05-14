@@ -72,10 +72,10 @@ Talks
 Current Students 
 ======
 
-[Nikolas Patris](https://npatris.github.io/) (2022 - Present, coadvised with Vijay V. Vazirani) <br/>
-[Stelios Stavroulakis](https://steliostavroulakis.github.io/) (2022 - Present) <br/>
-Jingming Yan (2023 - Present) <br/>
-
+[Nikolas Patris](https://npatris.github.io/) (Fall 2022 - Present, coadvised with Vijay V. Vazirani) <br/>
+[Stelios Stavroulakis](https://steliostavroulakis.github.io/) (Fall 2022 - Present) <br/>
+Jingming Yan (Fall 2023 - Present) <br/>
+Rohan Chauhan (will join in Fall 2024) <br/>
 
 Past Students (chronological order)
 ======
