@@ -38,6 +38,8 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 News 
 ======
   <ul>
+    <li> 6/2024: I'm co-organizing the <a href="https://sites.google.com/view/ec24mentoring/home">
+    EC 2024 Mentoring</a> Workshop with Simina Branzei. </li>
     <li> 5/2024: One paper got accepted in ICML 2024. </li>
     <li> 4/2024: One paper got accepted in UAI 2024. </li>
     <li> 3/2024: Talks at 2024 Informs Optimization Society Conference (<a href="https://ios2024.rice.edu/">IOS24</a>) </li>
@@ -94,7 +96,7 @@ Area Chair at International Conference on Machine Learning (<b>ICML</b>) 2024 <b
 Annual Symposium on Foundations of Computer Science (<b>FOCS</b>) 2024 <br/>
 Area Chair at International Conference on Learning Representations (<b>ICLR</b>) 2024 <br/>
 Area Chair at International Conference on Artificial Intelligence and Statistics (<b>AISTATS</b>) 2024 <br/>
-EC Mentoring Workshop <a href="https://sites.google.com/view/ec23mentoring/home"> 2023</a> and 2024   <br/>
+EC Mentoring Workshop <a href="https://sites.google.com/view/ec23mentoring/home"> 2023</a> and <a href="https://sites.google.com/view/ec24mentoring/home"> 2024</a>   <br/>
 Conference on Economics and Computation (<b>EC</b>) 2019, 2020, 2021, 2022, 2023 <br/>
 Conference on Web and Internet Economics (<b>WINE</b>) 2019, 2021, 2023 <br/>
 AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2020 
