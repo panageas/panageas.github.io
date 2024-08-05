@@ -19,13 +19,13 @@ I am an Assistant Professor in the department of [Computer Science](https://www.
 
 I am interested in theory of computation and its interface with online learning in games, optimization (convex, non-convex, min-max), dynamical systems, probability and statistics and their applications to multi-agent Reinforcement Learning. 
 
-Teaching 
-==
+## Teaching 
+
 I am currently teaching [CS 161](https://panageas.github.io/algo2024.html) (Design and Analysis of Algorithms). <br/> For courses I have taught see [here](https://panageas.github.io/teaching/). <br/>
  
 
-Selected Publications 
-==
+## Selected Publications 
+
 Click [here](https://panageas.github.io/publications) for full list<br/>
 <br/>
 [Efficiently Computing Nash Equilibria in Adversarial Team Markov Games.](https://arxiv.org/abs/2208.02204) _<font color="red">ICLR 2023 (oral)</font>_ <br/>
@@ -38,8 +38,8 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 [Multiplicative Weights Update with Constant step-size in Congestion Games: Convergence, Limit Cycles and Chaos.](https://arxiv.org/abs/1703.01138) 
  _<font color="red">NeurIPS 2017 (spotlight)</font>_ <br/>
 
-News 
-=====
+## News 
+
 <u1>
     <li> 7/2024: Invited talk at <a href="https://sites.google.com/view/marl-school2024/home">MARL summer school</a>,  EPFL, Switzerland. </li>
     <li> 7/2024: I am co-organizing a workshop on <a href="https://corelab.ntua.gr/aifoundations2024/"> the foundations of modern AI</a>, NTUA, Greece. </li>
@@ -69,38 +69,39 @@ News
 </details>
 </u1>   
 
-Talks 
-=====
+<details>
+<summary> ## Talks </summary>
+
 [Learning in Bimatrix Games (MSRI talk)](https://panageas.github.io/_pages/MSRItalkfinal.pdf) <br/>
 [Nash equilibria in Markov Games](https://panageas.github.io/_pages/recent_advances.pdf) <br/>
 [Policy Gradient for Markov Potential Games](https://www.youtube.com/watch?v=d1QRdQ2ayNA&ab_channel=UCIBrenICS) <br/>
 [On first-order methods (UCI ML seminar)](https://www.youtube.com/watch?v=4cepfWDiL3A&list=PLcm9UtazJCOKyuab1cGVE5H54Kt0XxEPN&index=3&t=2s) <br/>
 [Depth-width tradeoffs for NNs (MiFODS - MIT)](https://www.youtube.com/watch?v=HNQ204BmOQ8&t=1s) <br/>
 
-Current Students 
-=====
+</details>
+
+## Current Students 
 
 [Nikolas Patris](https://npatris.github.io/) (Fall 2022 - Present, coadvised with Vijay V. Vazirani) <br/>
 [Stelios Stavroulakis](https://steliostavroulakis.github.io/) (Fall 2022 - Present) <br/>
 Jingming Yan (Fall 2023 - Present) <br/>
 Rohan Chauhan (will join in Fall 2024) <br/>
 
-Past Students (chronological order)
-=====
+## Past Students (chronological order)
+
 [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (PhD '21 $\to$ Postdoc at EPFL) <br/>
 [Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en&oi=sra) (MSc '22 $\to$ PhD at Stanford) <br/>
 [Fivos Kalogiannis](https://fivoskal.github.io) (MSc '24 $\to$ PhD at UCSD) <br/>
 
-Past Postdocs
-=====
+## Past Postdocs
+
 [Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at [SUFE](http://itcs.shufe.edu.cn/))
 
 <details>
 
 <summary> 
   
-Committees and Organizing Workshops
-   =====
+## Committees and Organizing Workshops
    
 </summary>
 
@@ -115,7 +116,7 @@ Conference on Web and Internet Economics (<b>WINE</b>) 2019, 2021, 2023 <br/>
 AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2020 
 </details>
 
-Miscellaneous
-=====
+## Miscellaneous
+
 <a href="https://www.imo-official.org/"> International Mathematical Olympiad </a> <br/>
 <a href="https://stats.ioinformatics.org/"> International Olympiad in Informatics </a> <br/>
