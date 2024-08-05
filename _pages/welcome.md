@@ -6,6 +6,7 @@ redirect_from:
   - /welcome
   - /welcome.html
   - 
+---
  <style>
  details>summary {
  
@@ -22,8 +23,6 @@ redirect_from:
    content: " -";
  }
  </style>
----
-
 
 <SPAN STYLE="font-size:22px"> <b>Short bio </b></SPAN>
 
