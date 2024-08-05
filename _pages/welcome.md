@@ -37,7 +37,6 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 
 News 
 ======
-  <ul>
     <li> 7/2024: Invited talk at <a href="https://sites.google.com/view/marl-school2024/home">MARL summer school</a>,  EPFL, Switzerland. </li>
     <li> 7/2024: I am co-organizing a workshop on <a href="https://corelab.ntua.gr/aifoundations2024/"> the foundations of modern AI</a>, NTUA, Greece. </li>
     <li> 6/2024: Invited talk at <a href="https://www.gaimss24.org/workshop">GAIMSS</a>,  Metz, France. </li>
@@ -70,8 +69,7 @@ News
 <li>1/2023: Two papers accepted in ICLR 2023, <a href="https://arxiv.org/abs/2208.02204"> one oral.</a></li>
   </blockquote>
   </div>
-    </ul>
-    
+      
 Talks 
 ======
 [Learning in Bimatrix Games (MSRI talk)](https://panageas.github.io/_pages/MSRItalkfinal.pdf) <br/>
