@@ -20,7 +20,7 @@ redirect_from:
    content: "[+]";
  }
  details[open] summary:after {
-   content: "[-]";
+   content: "[&mdash;]";
  }
  </style>
 
