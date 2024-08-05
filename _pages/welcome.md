@@ -69,9 +69,10 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 </details>
 </u1>   
 <br/>
+
 <details><summary> 
   
-  ## Talks</span> 
+  ## Talks 
 </summary>
 [Learning in Bimatrix Games (MSRI talk)](https://panageas.github.io/_pages/MSRItalkfinal.pdf) <br/>
 [Nash equilibria in Markov Games](https://panageas.github.io/_pages/recent_advances.pdf) <br/>
@@ -97,14 +98,10 @@ Rohan Chauhan (will join in Fall 2024) <br/>
 
 [Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at [SUFE](http://itcs.shufe.edu.cn/))
 
-<details>
-
-<summary> 
+<details><summary> 
   
 ## Committees and Organizing Workshops
-   
 </summary>
-
 Area Chair at Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2024 <br/>
 Area Chair at International Conference on Machine Learning (<b>ICML</b>) 2024 <br/>
 Annual Symposium on Foundations of Computer Science (<b>FOCS</b>) 2024 <br/>
