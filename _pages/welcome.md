@@ -73,7 +73,7 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 </u1>   
 <br/>
 
-<details><summary> </summary>
+<details><summary>  <SPAN STYLE="font-size:22px"> <b>Talks </b></SPAN></summary>
 
 [Learning in Bimatrix Games (MSRI talk)](https://panageas.github.io/_pages/MSRItalkfinal.pdf) <br/>
 [Nash equilibria in Markov Games](https://panageas.github.io/_pages/recent_advances.pdf) <br/>
@@ -100,15 +100,15 @@ Rohan Chauhan (will join in Fall 2024) <br/>
 [Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at [SUFE](http://itcs.shufe.edu.cn/))
 
 <details><summary> <SPAN STYLE="font-size:22px"> <b>Committees and Organizing Workshops </b></SPAN></summary>
+Senior Area Chair at AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2025 <br/>  
 Area Chair at Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2024 <br/>
 Area Chair at International Conference on Machine Learning (<b>ICML</b>) 2024 <br/>
-Annual Symposium on Foundations of Computer Science (<b>FOCS</b>) 2024 <br/>
+PC member for Annual Symposium on Foundations of Computer Science (<b>FOCS</b>) 2024 <br/>
 Area Chair at International Conference on Learning Representations (<b>ICLR</b>) 2024 <br/>
 Area Chair at International Conference on Artificial Intelligence and Statistics (<b>AISTATS</b>) 2024 <br/>
-EC Mentoring Workshop <a href="https://sites.google.com/view/ec23mentoring/home"> 2023</a> and <a href="https://sites.google.com/view/ec24mentoring/home"> 2024</a>   <br/>
-Conference on Economics and Computation (<b>EC</b>) 2019, 2020, 2021, 2022, 2023 <br/>
-Conference on Web and Internet Economics (<b>WINE</b>) 2019, 2021, 2023 <br/>
-AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2020 
+Organizer of EC Mentoring Workshop <a href="https://sites.google.com/view/ec23mentoring/home"> 2023</a> and <a href="https://sites.google.com/view/ec24mentoring/home"> 2024</a>   <br/>
+PC member for Conference on Economics and Computation (<b>EC</b>) 2019, 2020, 2021, 2022, 2023 <br/>
+PC member for Conference on Web and Internet Economics (<b>WINE</b>) 2019, 2021, 2023, 2024  
 </details>
 
 <SPAN STYLE="font-size:22px"> <b>Miscellaneous </b></SPAN> 
