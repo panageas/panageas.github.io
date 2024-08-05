@@ -21,7 +21,7 @@ I am interested in theory of computation and its interface with online learning 
 
 ## Teaching 
 
-I am currently teaching [CS 161](https://panageas.github.io/algo2024.html) (Design and Analysis of Algorithms). <br/> For courses I have taught see [here](https://panageas.github.io/teaching/). <br/>
+I will be teaching [CS 280](https://panageas.github.io/agt2023.html) (Algorithmic Game Theory) in the Fall. <br/> For courses I have taught see [here](https://panageas.github.io/teaching/). <br/>
  
 
 ## Selected Publications 
@@ -96,7 +96,7 @@ Rohan Chauhan (will join in Fall 2024) <br/>
 
 [Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at [SUFE](http://itcs.shufe.edu.cn/))
 
-<details><summary> <SPAN STYLE="font-size:18px"> Committees and Organizing Workshops </SPAN></summary>
+<details><summary> <SPAN STYLE="font-size:36px"> Committees and Organizing Workshops </SPAN></summary>
 Area Chair at Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2024 <br/>
 Area Chair at International Conference on Machine Learning (<b>ICML</b>) 2024 <br/>
 Annual Symposium on Foundations of Computer Science (<b>FOCS</b>) 2024 <br/>
