@@ -7,19 +7,7 @@ redirect_from:
   - /welcome.html
   - 
 ---
-<script>
-function copy(dest, source) {
-  if(dest.source == source) {
-    dest.innerHTML = "";
-    dest.source = null;
-  }
-  else {
-    dest.innerHTML = source.innerHTML;
-    dest.source = source;
-  }
-  dest.blur();
-}
-</script>
+
 About Me
 ======
 I am an Assistant Professor in the department of [Computer Science](https://www.cs.uci.edu/), in the [Donald Bren School of Information & Computer Science](https://www.ics.uci.edu/) at [UC Irvine](https://uci.edu/) and the director of the [GOALLab](https://goallabuci.github.io/). I am affiliated with the [Center for Algorithms and Theory of Computation](https://www.ics.uci.edu/~theory/), the [Center for Machine Learning and Intelligent Systems (CML)](https://cml.ics.uci.edu/) and the [Algorithms, Combinatorics and Optimization Center (ACO)](https://acoi.ics.uci.edu/). I am also affiliated with [Archimedes research unit](https://www.archimedesai.gr/). Prior to UCI, I was an Assistant Professor in [Information Systems](https://istd.sutd.edu.sg/) at [SUTD](https://www.sutd.edu.sg/). Before that I was a MIT Postdoctoral Fellow working with [Costis Daskalakis](http://people.csail.mit.edu/costis/). I obtained my PhD in [Algorithms, Combinatorics, and Optimization (ACO)](https://www.aco.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/), advised by [Prasad Tetali](https://tetali.github.io/). At Georgia Tech, I also obtained a MSc in Mathematics. I did my undergrad studies in [National Technical University of Athens](https://www.ntua.gr/en/). Here you can find my [CV](https://panageas.github.io/files/panageascv.pdf), [Google Scholar](https://scholar.google.com/citations?user=5NiFWuwAAAAJ&hl=en) and [DBLP](https://dblp.org/pers/hd/p/Panageas:Ioannis) profiles. <br/>
@@ -64,11 +52,8 @@ News
      1/2024: PC member for FOCS 2024, AC for ICML, NeurIPS 2024. <br/>
      1/2024: Two papers got accepted in ICLR 2024. <br/>
      1/2024: Two papers got accepted in AAAI 2024. <br/>
-<a href="javascript:copy(div1, news)">Earlier news</a>
-<div id="div1"></div>
-<div id="news" style="display:none">
-<blockquote>
-     11/2023: Talk at Simons Laufer Mathematical Sciences Institute on learning in two player games. <br/>
+<details>
+       11/2023: Talk at Simons Laufer Mathematical Sciences Institute on learning in two player games. <br/>
      10/2023: Talk at Informs on Markov polymatrix Games. <br/>
      10/2023: AC for ICLR 2024, AISTATS 2024. <br/>
      9/2023: Four papers got accepted in NeurIPS 2023. <br/>
@@ -79,8 +64,7 @@ News
  3/2023: <a href="https://panageas.github.io/_pages/recent_advances.pdf">Talk</a> on computing Nash equilibria in Markov Games.<br/>
 2/2023: New paper on <a href="https://arxiv.org/abs/2301.11241">time-varying games.</a> <br/>
 1/2023: Two papers accepted in ICLR 2023, <a href="https://arxiv.org/abs/2208.02204"> one oral.</a><br/>
-  </blockquote>
-  </div>
+</details>
 </u1>   
 
 Talks 
