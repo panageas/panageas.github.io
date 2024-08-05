@@ -16,10 +16,10 @@ redirect_from:
    display: none
  }
  
- summary::after {
+ summary::before {
    content: ' +';
  }
- details[open] summary:after {
+ details[open] summary:before {
    content: " -";
  }
  </style>
