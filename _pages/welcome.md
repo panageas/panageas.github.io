@@ -96,7 +96,11 @@ Past Postdocs
 
 <details>
 
-<summary> # Committees and Organizing Workshops </summary>
+<summary> 
+  
+Committees and Organizing Workshops
+   ======
+</summary>
 
 Area Chair at Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2024 <br/>
 Area Chair at International Conference on Machine Learning (<b>ICML</b>) 2024 <br/>
