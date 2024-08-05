@@ -105,7 +105,9 @@ PC member for Conference on Economics and Computation (<b>EC</b>) 2019, 2020, 20
 PC member for Conference on Web and Internet Economics (<b>WINE</b>) 2019, 2021, 2023, 2024  
 </details>
 
-<SPAN STYLE="font-size:22px"> <b>Miscellaneous </b></SPAN> 
+<details>
+<summary><SPAN STYLE="font-size:22px"> <b>Miscellaneous </b></SPAN> </summary>
 
 <a href="https://www.imo-official.org/"> International Mathematical Olympiad </a> <br/>
 <a href="https://stats.ioinformatics.org/"> International Olympiad in Informatics </a> <br/>
+</details>
