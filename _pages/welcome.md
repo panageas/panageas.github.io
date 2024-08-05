@@ -53,6 +53,7 @@ News
      1/2024: Two papers got accepted in ICLR 2024. <br/>
      1/2024: Two papers got accepted in AAAI 2024. <br/>
 <details>
+  <summary>Earlier news</summary>
        11/2023: Talk at Simons Laufer Mathematical Sciences Institute on learning in two player games. <br/>
      10/2023: Talk at Informs on Markov polymatrix Games. <br/>
      10/2023: AC for ICLR 2024, AISTATS 2024. <br/>
