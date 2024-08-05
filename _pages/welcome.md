@@ -17,10 +17,10 @@ redirect_from:
  }
  
  summary::after {
-   content: "[+]";
+   content: '[+]';
  }
  details[open] summary:after {
-   content: "[&mdash;]";
+   content: '[&mdash;]';
  }
  </style>
 
