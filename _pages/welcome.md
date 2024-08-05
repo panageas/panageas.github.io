@@ -68,20 +68,17 @@ News
 <div id="div1"></div>
 <div id="news" style="display:none">
 <blockquote>
-    <li> 11/2023: Talk at Simons Laufer Mathematical Sciences Institute on learning in two player games. </li>
-    <li> 10/2023: Talk at Informs on Markov polymatrix Games. </li>
-    <li> 10/2023: AC for ICLR 2024, AISTATS 2024. </li>
-    <li> 9/2023: Four papers got accepted in NeurIPS 2023. </li>
-    <li> 6/2023: I'm co-organizing the <a href="https://sites.google.com/view/ec23mentoring/home">
-    EC 2023 Mentoring</a> Workshop with Simina Branzei. </li>
-  <li> 5/2023 One <a href="https://arxiv.org/abs/2301.02129">
-    paper</a> accepted in EC 2023. </li>
-  <li> 4/2023 One <a href="https://arxiv.org/abs/2306.15543">paper</a> accepted in ICML 2023 as oral. </li>
- <li>3/2023: <a href="https://panageas.github.io/_pages/recent_advances.pdf">
-        Talk</a> on computing Nash equilibria in Markov Games.</li>
-<li>2/2023: New paper on <a href="https://arxiv.org/abs/2301.11241">
-        time-varying games.</a> </li>
-<li>1/2023: Two papers accepted in ICLR 2023, <a href="https://arxiv.org/abs/2208.02204"> one oral.</a></li>
+     11/2023: Talk at Simons Laufer Mathematical Sciences Institute on learning in two player games. <br/>
+     10/2023: Talk at Informs on Markov polymatrix Games. <br/>
+     10/2023: AC for ICLR 2024, AISTATS 2024. <br/>
+     9/2023: Four papers got accepted in NeurIPS 2023. <br/>
+     6/2023: I'm co-organizing the <a href="https://sites.google.com/view/ec23mentoring/home">
+    EC 2023 Mentoring</a> Workshop with Simina Branzei. <br/>
+   5/2023 One <a href="https://arxiv.org/abs/2301.02129"> paper</a> accepted in EC 2023. <br/>
+   4/2023 One <a href="https://arxiv.org/abs/2306.15543">paper</a> accepted in ICML 2023 as oral. <br/>
+ 3/2023: <a href="https://panageas.github.io/_pages/recent_advances.pdf">Talk</a> on computing Nash equilibria in Markov Games.<br/>
+2/2023: New paper on <a href="https://arxiv.org/abs/2301.11241">time-varying games.</a> <br/>
+1/2023: Two papers accepted in ICLR 2023, <a href="https://arxiv.org/abs/2208.02204"> one oral.</a><br/>
   </blockquote>
   </div>
 </u1>   
