@@ -23,8 +23,8 @@ I am interested in theory of computation and its interface with online learning 
 
 I will be teaching [CS 280](https://panageas.github.io/agt2023.html) (Algorithmic Game Theory) in the Fall. <br/> For courses I have taught see [here](https://panageas.github.io/teaching/). <br/>
  
-<details><summary><SPAN STYLE="font-size:22px"> <b>Selected Publications </b></SPAN></summary>
-<br/>
+<details markdown="1"><summary><SPAN STYLE="font-size:22px"> <b>Selected Publications </b></SPAN></summary>
+
 Click [here](https://panageas.github.io/publications) for full list<br/>
 <br/>
 [Efficiently Computing Nash Equilibria in Adversarial Team Markov Games.](https://arxiv.org/abs/2208.02204) _<font color="red">ICLR 2023 (oral)</font>_ <br/>
@@ -39,7 +39,7 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
  
 </details>
 
-<details>
+<details markdown="1">
   <summary><SPAN STYLE="font-size:22px"> <b>News </b></SPAN></summary> 
 <u1>
     <li> 7/2024: Invited talk at <a href="https://sites.google.com/view/marl-school2024/home">MARL summer school</a>,  EPFL, Switzerland. </li>
@@ -69,18 +69,18 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 </details>   
 <br/>
 
-<details><summary>  <SPAN STYLE="font-size:22px"> <b>Talks </b></SPAN></summary>
-  <u1>
+<details markdown="1"><summary>  <SPAN STYLE="font-size:22px"> <b>Talks </b></SPAN></summary>
+
 [Learning in Bimatrix Games (MSRI talk)](https://panageas.github.io/_pages/MSRItalkfinal.pdf) <br/>
 [Nash equilibria in Markov Games](https://panageas.github.io/_pages/recent_advances.pdf) <br/>
 [Policy Gradient for Markov Potential Games](https://www.youtube.com/watch?v=d1QRdQ2ayNA&ab_channel=UCIBrenICS) <br/>
 [On first-order methods (UCI ML seminar)](https://www.youtube.com/watch?v=4cepfWDiL3A&list=PLcm9UtazJCOKyuab1cGVE5H54Kt0XxEPN&index=3&t=2s) <br/>
 [Depth-width tradeoffs for NNs (MiFODS - MIT)](https://www.youtube.com/watch?v=HNQ204BmOQ8&t=1s) <br/>
-</u1>
+
   </details>
 
-<details><summary><SPAN STYLE="font-size:22px"> <b>Students </b></SPAN></summary>
-<u1>
+<details markdown="1"><summary><SPAN STYLE="font-size:22px"> <b>Students </b></SPAN></summary>
+
 <SPAN STYLE="font-size:22px"> <b>Current Students </b></SPAN>
 
 [Nikolas Patris](https://npatris.github.io/) (Fall 2022 - Present, coadvised with Vijay V. Vazirani) <br/>
@@ -97,10 +97,9 @@ Rohan Chauhan (will join in Fall 2024) <br/>
 <SPAN STYLE="font-size:22px"> <b>Past Postdocs </b></SPAN>
 
 [Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at [SUFE](http://itcs.shufe.edu.cn/))
-</u1>
+
 </details>
-<details><summary> <SPAN STYLE="font-size:22px"> <b>Committees and Organizing Workshops </b></SPAN></summary>
-  
+<details markdown="1"><summary> <SPAN STYLE="font-size:22px"> <b>Committees and Organizing Workshops </b></SPAN></summary>
 Senior Area Chair at AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2025 <br/>  
 Area Chair at Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2024 <br/>
 Area Chair at International Conference on Machine Learning (<b>ICML</b>) 2024 <br/>
@@ -112,7 +111,7 @@ PC member for Conference on Economics and Computation (<b>EC</b>) 2019, 2020, 20
 PC member for Conference on Web and Internet Economics (<b>WINE</b>) 2019, 2021, 2023, 2024  
 </details>
 
-<details>
+<details markdown="1">
 <summary><SPAN STYLE="font-size:22px"> <b>Miscellaneous </b></SPAN> </summary>
 
 <a href="https://www.imo-official.org/"> International Mathematical Olympiad </a> <br/>
