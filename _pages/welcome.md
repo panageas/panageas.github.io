@@ -94,7 +94,9 @@ Past Postdocs
 ======
 [Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at [SUFE](http://itcs.shufe.edu.cn/))
 
-Committees and Organizing Workshops
+<details>
+
+<summary> Committees and Organizing Workshops </summary>
 ======
 Area Chair at Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2024 <br/>
 Area Chair at International Conference on Machine Learning (<b>ICML</b>) 2024 <br/>
@@ -105,6 +107,7 @@ EC Mentoring Workshop <a href="https://sites.google.com/view/ec23mentoring/home"
 Conference on Economics and Computation (<b>EC</b>) 2019, 2020, 2021, 2022, 2023 <br/>
 Conference on Web and Internet Economics (<b>WINE</b>) 2019, 2021, 2023 <br/>
 AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2020 
+</details>
 
 Miscellaneous
 ======
