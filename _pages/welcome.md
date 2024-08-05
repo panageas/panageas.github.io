@@ -10,22 +10,22 @@ redirect_from:
 
 
 About Me
-======
+=====
 I am an Assistant Professor in the department of [Computer Science](https://www.cs.uci.edu/), in the [Donald Bren School of Information & Computer Science](https://www.ics.uci.edu/) at [UC Irvine](https://uci.edu/) and the director of the [GOALLab](https://goallabuci.github.io/). I am affiliated with the [Center for Algorithms and Theory of Computation](https://www.ics.uci.edu/~theory/), the [Center for Machine Learning and Intelligent Systems (CML)](https://cml.ics.uci.edu/) and the [Algorithms, Combinatorics and Optimization Center (ACO)](https://acoi.ics.uci.edu/). I am also affiliated with [Archimedes research unit](https://www.archimedesai.gr/). Prior to UCI, I was an Assistant Professor in [Information Systems](https://istd.sutd.edu.sg/) at [SUTD](https://www.sutd.edu.sg/). Before that I was a MIT Postdoctoral Fellow working with [Costis Daskalakis](http://people.csail.mit.edu/costis/). I obtained my PhD in [Algorithms, Combinatorics, and Optimization (ACO)](https://www.aco.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/), advised by [Prasad Tetali](https://tetali.github.io/). At Georgia Tech, I also obtained a MSc in Mathematics. I did my undergrad studies in [National Technical University of Athens](https://www.ntua.gr/en/). Here you can find my [CV](https://panageas.github.io/files/panageascv.pdf), [Google Scholar](https://scholar.google.com/citations?user=5NiFWuwAAAAJ&hl=en) and [DBLP](https://dblp.org/pers/hd/p/Panageas:Ioannis) profiles. <br/>
 
 
 
 Interests
-======
+=====
 I am interested in theory of computation and its interface with online learning in games, optimization (convex, non-convex, min-max), dynamical systems, probability and statistics and their applications to multi-agent Reinforcement Learning. 
 
 Teaching 
-======
+=====
 I am currently teaching [CS 161](https://panageas.github.io/algo2024.html) (Design and Analysis of Algorithms). <br/> For courses I have taught see [here](https://panageas.github.io/teaching/). <br/>
  
 
 Selected Publications 
-======
+=====
 Click [here](https://panageas.github.io/publications) for full list<br/>
 <br/>
 [Efficiently Computing Nash Equilibria in Adversarial Team Markov Games.](https://arxiv.org/abs/2208.02204) _<font color="red">ICLR 2023 (oral)</font>_ <br/>
@@ -39,7 +39,7 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
  _<font color="red">NeurIPS 2017 (spotlight)</font>_ <br/>
 
 News 
-======
+=====
 <u1>
     <li> 7/2024: Invited talk at <a href="https://sites.google.com/view/marl-school2024/home">MARL summer school</a>,  EPFL, Switzerland. </li>
     <li> 7/2024: I am co-organizing a workshop on <a href="https://corelab.ntua.gr/aifoundations2024/"> the foundations of modern AI</a>, NTUA, Greece. </li>
@@ -69,7 +69,7 @@ News
 </u1>   
 
 Talks 
-======
+=====
 [Learning in Bimatrix Games (MSRI talk)](https://panageas.github.io/_pages/MSRItalkfinal.pdf) <br/>
 [Nash equilibria in Markov Games](https://panageas.github.io/_pages/recent_advances.pdf) <br/>
 [Policy Gradient for Markov Potential Games](https://www.youtube.com/watch?v=d1QRdQ2ayNA&ab_channel=UCIBrenICS) <br/>
@@ -77,7 +77,7 @@ Talks
 [Depth-width tradeoffs for NNs (MiFODS - MIT)](https://www.youtube.com/watch?v=HNQ204BmOQ8&t=1s) <br/>
 
 Current Students 
-======
+=====
 
 [Nikolas Patris](https://npatris.github.io/) (Fall 2022 - Present, coadvised with Vijay V. Vazirani) <br/>
 [Stelios Stavroulakis](https://steliostavroulakis.github.io/) (Fall 2022 - Present) <br/>
@@ -85,13 +85,13 @@ Jingming Yan (Fall 2023 - Present) <br/>
 Rohan Chauhan (will join in Fall 2024) <br/>
 
 Past Students (chronological order)
-======
+=====
 [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (PhD '21 $\to$ Postdoc at EPFL) <br/>
 [Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en&oi=sra) (MSc '22 $\to$ PhD at Stanford) <br/>
 [Fivos Kalogiannis](https://fivoskal.github.io) (MSc '24 $\to$ PhD at UCSD) <br/>
 
 Past Postdocs
-======
+=====
 [Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at [SUFE](http://itcs.shufe.edu.cn/))
 
 <details>
@@ -99,7 +99,7 @@ Past Postdocs
 <summary> 
   
 Committees and Organizing Workshops
-   ======
+   =====
 </summary>
 
 Area Chair at Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2024 <br/>
@@ -114,6 +114,6 @@ AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2020
 </details>
 
 Miscellaneous
-======
+=====
 <a href="https://www.imo-official.org/"> International Mathematical Olympiad </a> <br/>
 <a href="https://stats.ioinformatics.org/"> International Olympiad in Informatics </a> <br/>
