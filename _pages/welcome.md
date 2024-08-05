@@ -38,9 +38,8 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
  _<font color="red">NeurIPS 2017 (spotlight)</font>_ <br/>
 </details>
 
-
-<SPAN STYLE="font-size:22px"> <b>News </b></SPAN> 
-
+ <details>
+  <summary><SPAN STYLE="font-size:22px"> <b>News </b></SPAN></summary> 
 <u1>
     <li> 7/2024: Invited talk at <a href="https://sites.google.com/view/marl-school2024/home">MARL summer school</a>,  EPFL, Switzerland. </li>
     <li> 7/2024: I am co-organizing a workshop on <a href="https://corelab.ntua.gr/aifoundations2024/"> the foundations of modern AI</a>, NTUA, Greece. </li>
@@ -54,8 +53,6 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
      <li> 1/2024: PC member for FOCS 2024, AC for ICML, NeurIPS 2024. </li>
      <li> 1/2024: Two papers got accepted in ICLR 2024. </li>
     <li> 1/2024: Two papers got accepted in AAAI 2024. </li>
-  <details>
-  <summary>Earlier news</summary>
      <li> 11/2023: Talk at Simons Laufer Mathematical Sciences Institute on learning in two player games. </li>
      <li> 10/2023: Talk at Informs on Markov polymatrix Games. </li>
      <li> 10/2023: AC for ICLR 2024, AISTATS 2024. </li>
@@ -67,12 +64,11 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
  <li> 3/2023: <a href="https://panageas.github.io/_pages/recent_advances.pdf">Talk</a> on computing Nash equilibria in Markov Games.</li>
 <li> 2/2023: New paper on <a href="https://arxiv.org/abs/2301.11241">time-varying games.</a> </li>
 <li> 1/2023: Two papers accepted in ICLR 2023, <a href="https://arxiv.org/abs/2208.02204"> one oral.</a></li>
-</details>
-</u1>   
+</u1>
+</details>   
 <br/>
 
 <details><summary>  <SPAN STYLE="font-size:22px"> <b>Talks </b></SPAN></summary>
-
 [Learning in Bimatrix Games (MSRI talk)](https://panageas.github.io/_pages/MSRItalkfinal.pdf) <br/>
 [Nash equilibria in Markov Games](https://panageas.github.io/_pages/recent_advances.pdf) <br/>
 [Policy Gradient for Markov Potential Games](https://www.youtube.com/watch?v=d1QRdQ2ayNA&ab_channel=UCIBrenICS) <br/>
@@ -80,7 +76,7 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 [Depth-width tradeoffs for NNs (MiFODS - MIT)](https://www.youtube.com/watch?v=HNQ204BmOQ8&t=1s) <br/>
 </details>
 
- <SPAN STYLE="font-size:22px"> <b>Current Students </b></SPAN>
+<SPAN STYLE="font-size:22px"> <b>Current Students </b></SPAN>
 
 [Nikolas Patris](https://npatris.github.io/) (Fall 2022 - Present, coadvised with Vijay V. Vazirani) <br/>
 [Stelios Stavroulakis](https://steliostavroulakis.github.io/) (Fall 2022 - Present) <br/>
