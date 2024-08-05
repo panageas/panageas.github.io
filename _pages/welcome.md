@@ -67,7 +67,6 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 <li> 1/2023: Two papers accepted in ICLR 2023, <a href="https://arxiv.org/abs/2208.02204"> one oral.</a></li>
 </u1>
 </details>   
-<br/>
 
 <details markdown="1"><summary>  <SPAN STYLE="font-size:22px"> <b>Talks </b></SPAN></summary>
 
@@ -82,20 +81,17 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 <details markdown="1"><summary><SPAN STYLE="font-size:22px"> <b>Students </b></SPAN></summary>
 
 <SPAN STYLE="font-size:22px"> <b>Current Students </b></SPAN>
-
 [Nikolas Patris](https://npatris.github.io/) (Fall 2022 - Present, coadvised with Vijay V. Vazirani) <br/>
 [Stelios Stavroulakis](https://steliostavroulakis.github.io/) (Fall 2022 - Present) <br/>
 Jingming Yan (Fall 2023 - Present) <br/>
 Rohan Chauhan (will join in Fall 2024) <br/>
 
 <SPAN STYLE="font-size:22px"> <b>Past Students (chronological order) </b></SPAN>
-
 [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (PhD '21 $\to$ Postdoc at EPFL) <br/>
 [Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en&oi=sra) (MSc '22 $\to$ PhD at Stanford) <br/>
 [Fivos Kalogiannis](https://fivoskal.github.io) (MSc '24 $\to$ PhD at UCSD) <br/>
 
 <SPAN STYLE="font-size:22px"> <b>Past Postdocs </b></SPAN>
-
 [Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at [SUFE](http://itcs.shufe.edu.cn/))
 
 </details>
