@@ -9,22 +9,22 @@ redirect_from:
 ---
 
 
-## Short bio
+<SPAN STYLE="font-size:22px"> <b>Short bio </b></SPAN>
 
 I am an Assistant Professor in the department of [Computer Science](https://www.cs.uci.edu/), in the [Donald Bren School of Information & Computer Science](https://www.ics.uci.edu/) at [UC Irvine](https://uci.edu/) and the director of the [GOALLab](https://goallabuci.github.io/). I am affiliated with the [Center for Algorithms and Theory of Computation](https://www.ics.uci.edu/~theory/), the [Center for Machine Learning and Intelligent Systems (CML)](https://cml.ics.uci.edu/) and the [Algorithms, Combinatorics and Optimization Center (ACO)](https://acoi.ics.uci.edu/). I am also affiliated with [Archimedes research unit](https://www.archimedesai.gr/). Prior to UCI, I was an Assistant Professor in [Information Systems](https://istd.sutd.edu.sg/) at [SUTD](https://www.sutd.edu.sg/). Before that I was a MIT Postdoctoral Fellow working with [Costis Daskalakis](http://people.csail.mit.edu/costis/). I obtained my PhD in [Algorithms, Combinatorics, and Optimization (ACO)](https://www.aco.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/), advised by [Prasad Tetali](https://tetali.github.io/). At Georgia Tech, I also obtained a MSc in Mathematics. I did my undergrad studies in [National Technical University of Athens](https://www.ntua.gr/en/). Here you can find my [CV](https://panageas.github.io/files/panageascv.pdf), [Google Scholar](https://scholar.google.com/citations?user=5NiFWuwAAAAJ&hl=en) and [DBLP](https://dblp.org/pers/hd/p/Panageas:Ioannis) profiles. <br/>
 
 
 
-## Interests
+<SPAN STYLE="font-size:22px"> <b>Interests </b></SPAN>
 
 I am interested in theory of computation and its interface with online learning in games, optimization (convex, non-convex, min-max), dynamical systems, probability and statistics and their applications to multi-agent Reinforcement Learning. 
 
-## Teaching 
+<SPAN STYLE="font-size:22px"> <b>Teaching </b></SPAN>
 
 I will be teaching [CS 280](https://panageas.github.io/agt2023.html) (Algorithmic Game Theory) in the Fall. <br/> For courses I have taught see [here](https://panageas.github.io/teaching/). <br/>
  
 
-## Selected Publications 
+<SPAN STYLE="font-size:22px"> <b>Selected Publications </b></SPAN>
 
 Click [here](https://panageas.github.io/publications) for full list<br/>
 <br/>
@@ -79,20 +79,20 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 [Depth-width tradeoffs for NNs (MiFODS - MIT)](https://www.youtube.com/watch?v=HNQ204BmOQ8&t=1s) <br/>
 </details>
 
-## Current Students 
+ <SPAN STYLE="font-size:22px"> <b>Current Students </b></SPAN>
 
 [Nikolas Patris](https://npatris.github.io/) (Fall 2022 - Present, coadvised with Vijay V. Vazirani) <br/>
 [Stelios Stavroulakis](https://steliostavroulakis.github.io/) (Fall 2022 - Present) <br/>
 Jingming Yan (Fall 2023 - Present) <br/>
 Rohan Chauhan (will join in Fall 2024) <br/>
 
-## Past Students (chronological order)
+<SPAN STYLE="font-size:22px"> <b>Past Students (chronological order) </b></SPAN>
 
 [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (PhD '21 $\to$ Postdoc at EPFL) <br/>
 [Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en&oi=sra) (MSc '22 $\to$ PhD at Stanford) <br/>
 [Fivos Kalogiannis](https://fivoskal.github.io) (MSc '24 $\to$ PhD at UCSD) <br/>
 
-## Past Postdocs
+<SPAN STYLE="font-size:22px"> <b>Past Postdocs </b></SPAN>
 
 [Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at [SUFE](http://itcs.shufe.edu.cn/))
 
@@ -108,7 +108,7 @@ Conference on Web and Internet Economics (<b>WINE</b>) 2019, 2021, 2023 <br/>
 AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2020 
 </details>
 
-## Miscellaneous
+<SPAN STYLE="font-size:22px"> <b>Miscellaneous </b></SPAN> 
 
 <a href="https://www.imo-official.org/"> International Mathematical Olympiad </a> <br/>
 <a href="https://stats.ioinformatics.org/"> International Olympiad in Informatics </a> <br/>
