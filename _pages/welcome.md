@@ -6,6 +6,22 @@ redirect_from:
   - /welcome
   - /welcome.html
   - 
+ <style>
+ details>summary {
+ 
+   list-style: none;
+ }
+ summary::-webkit-details-marker {
+   display: none
+ }
+ 
+ summary::after {
+   content: ' +';
+ }
+ details[open] summary:after {
+   content: " -";
+ }
+ </style>
 ---
 
 
