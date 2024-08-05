@@ -96,7 +96,7 @@ Rohan Chauhan (will join in Fall 2024) <br/>
 
 [Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at [SUFE](http://itcs.shufe.edu.cn/))
 
-<details><summary> <SPAN STYLE="font-size:36px"> Committees and Organizing Workshops </SPAN></summary>
+<details><summary> <SPAN STYLE="font-size:26px"> Committees and Organizing Workshops </SPAN></summary>
 Area Chair at Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2024 <br/>
 Area Chair at International Conference on Machine Learning (<b>ICML</b>) 2024 <br/>
 Annual Symposium on Foundations of Computer Science (<b>FOCS</b>) 2024 <br/>
