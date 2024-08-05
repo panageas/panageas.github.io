@@ -7,6 +7,9 @@ redirect_from:
   - /welcome.html
   - 
 ---
+details summary::-webkit-details-marker {
+  display:none;
+}
 
 About Me
 ======
