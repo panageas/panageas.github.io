@@ -8,12 +8,6 @@ redirect_from:
   - 
 ---
 
-details > summary {
-  list-style: none;
-}
-details > summary::-webkit-details-marker {
-  display: none;
-}
 
 About Me
 ======
@@ -60,6 +54,12 @@ News
      <li> 1/2024: Two papers got accepted in ICLR 2024. </li>
     <li> 1/2024: Two papers got accepted in AAAI 2024. </li>
 <details>
+  details > summary {
+  list-style: none;
+}
+details > summary::-webkit-details-marker {
+  display: none;
+}
   <summary>Earlier news</summary>
      <li> 11/2023: Talk at Simons Laufer Mathematical Sciences Institute on learning in two player games. </li>
      <li> 10/2023: Talk at Informs on Markov polymatrix Games. </li>
