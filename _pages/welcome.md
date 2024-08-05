@@ -71,6 +71,7 @@ News
   </blockquote>
   </div>
 </u1>   
+
 Talks 
 ======
 [Learning in Bimatrix Games (MSRI talk)](https://panageas.github.io/_pages/MSRItalkfinal.pdf) <br/>
