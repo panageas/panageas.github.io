@@ -23,8 +23,8 @@ I am interested in theory of computation and its interface with online learning 
 
 I will be teaching [CS 280](https://panageas.github.io/agt2023.html) (Algorithmic Game Theory) in the Fall. <br/> For courses I have taught see [here](https://panageas.github.io/teaching/). <br/>
  
+<details><summary><SPAN STYLE="font-size:22px"> <b>Selected Publications </b></SPAN></summary>
 
-<SPAN STYLE="font-size:22px"> <b>Selected Publications </b></SPAN>
 
 Click [here](https://panageas.github.io/publications) for full list<br/>
 <br/>
@@ -38,7 +38,10 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 [Multiplicative Weights Update with Constant step-size in Congestion Games: Convergence, Limit Cycles and Chaos.](https://arxiv.org/abs/1703.01138) 
  _<font color="red">NeurIPS 2017 (spotlight)</font>_ <br/>
 
-## News 
+</details>
+
+
+<SPAN STYLE="font-size:22px"> <b>News </b></SPAN> 
 
 <u1>
     <li> 7/2024: Invited talk at <a href="https://sites.google.com/view/marl-school2024/home">MARL summer school</a>,  EPFL, Switzerland. </li>
