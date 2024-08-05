@@ -53,13 +53,6 @@ News
      <li> 1/2024: PC member for FOCS 2024, AC for ICML, NeurIPS 2024. </li>
      <li> 1/2024: Two papers got accepted in ICLR 2024. </li>
     <li> 1/2024: Two papers got accepted in AAAI 2024. </li>
-<details>
-  details > summary {
-  list-style: none;
-}
-details > summary::-webkit-details-marker {
-  display: none;
-}
   <summary>Earlier news</summary>
      <li> 11/2023: Talk at Simons Laufer Mathematical Sciences Institute on learning in two player games. </li>
      <li> 10/2023: Talk at Informs on Markov polymatrix Games. </li>
@@ -103,7 +96,7 @@ Past Postdocs
 
 <details>
 
-<summary> Committees and Organizing Workshops====== </summary>
+<summary> # Committees and Organizing Workshops </summary>
 
 Area Chair at Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2024 <br/>
 Area Chair at International Conference on Machine Learning (<b>ICML</b>) 2024 <br/>
