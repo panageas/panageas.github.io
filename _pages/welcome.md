@@ -49,9 +49,9 @@ News
     <li> 1/2024: PC member for FOCS 2024, AC for ICML, NeurIPS 2024. </li>
     <li> 1/2024: Two papers got accepted in ICLR 2024. </li>
     <li> 1/2024: Two papers got accepted in AAAI 2024. </li>
-<a href="javascript:copy(div2, awards)">Earlier news</a>
+<a href="javascript:copy(div1, news)">Earlier news</a>
 <div id="div1"></div>
-<div id="Earlier news" style="display:none">
+<div id="news" style="display:none">
 <blockquote>
     <li> 11/2023: Talk at Simons Laufer Mathematical Sciences Institute on learning in two player games. </li>
     <li> 10/2023: Talk at Informs on Markov polymatrix Games. </li>
