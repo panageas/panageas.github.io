@@ -60,10 +60,10 @@ News
     <li> 5/2024: One paper got accepted in ICML 2024. </li>
     <li> 4/2024: One paper got accepted in UAI 2024. </li>
     <li> 3/2024: Talks at 2024 Informs Optimization Society Conference (<a href="https://ios2024.rice.edu/">IOS24</a>) </li>
-    <li> 1/2024: New <a href="https://arxiv.org/abs/2401.09628">paper</a> on bandit feedback in congestion games. </li>
-    <li> 1/2024: PC member for FOCS 2024, AC for ICML, NeurIPS 2024. </li>
-    <li> 1/2024: Two papers got accepted in ICLR 2024. </li>
-    <li> 1/2024: Two papers got accepted in AAAI 2024. </li>
+     1/2024: New <a href="https://arxiv.org/abs/2401.09628">paper</a> on bandit feedback in congestion games. <br/>
+     1/2024: PC member for FOCS 2024, AC for ICML, NeurIPS 2024. <br/>
+     1/2024: Two papers got accepted in ICLR 2024. <br/>
+     1/2024: Two papers got accepted in AAAI 2024. <br/>
 <a href="javascript:copy(div1, news)">Earlier news</a>
 <div id="div1"></div>
 <div id="news" style="display:none">
