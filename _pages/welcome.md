@@ -69,12 +69,15 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 <br/>
 
 <details><summary>  <SPAN STYLE="font-size:22px"> <b>Talks </b></SPAN></summary>
+  
 [Learning in Bimatrix Games (MSRI talk)](https://panageas.github.io/_pages/MSRItalkfinal.pdf) <br/>
 [Nash equilibria in Markov Games](https://panageas.github.io/_pages/recent_advances.pdf) <br/>
 [Policy Gradient for Markov Potential Games](https://www.youtube.com/watch?v=d1QRdQ2ayNA&ab_channel=UCIBrenICS) <br/>
 [On first-order methods (UCI ML seminar)](https://www.youtube.com/watch?v=4cepfWDiL3A&list=PLcm9UtazJCOKyuab1cGVE5H54Kt0XxEPN&index=3&t=2s) <br/>
 [Depth-width tradeoffs for NNs (MiFODS - MIT)](https://www.youtube.com/watch?v=HNQ204BmOQ8&t=1s) <br/>
 </details>
+
+<details><summary><SPAN STYLE="font-size:22px"> <b>Students </b></SPAN></summary>
 
 <SPAN STYLE="font-size:22px"> <b>Current Students </b></SPAN>
 
@@ -94,6 +97,7 @@ Rohan Chauhan (will join in Fall 2024) <br/>
 [Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at [SUFE](http://itcs.shufe.edu.cn/))
 
 <details><summary> <SPAN STYLE="font-size:22px"> <b>Committees and Organizing Workshops </b></SPAN></summary>
+  
 Senior Area Chair at AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2025 <br/>  
 Area Chair at Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2024 <br/>
 Area Chair at International Conference on Machine Learning (<b>ICML</b>) 2024 <br/>
