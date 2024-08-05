@@ -50,6 +50,9 @@ News
     <li> 1/2024: PC member for FOCS 2024, AC for ICML, NeurIPS 2024. </li>
     <li> 1/2024: Two papers got accepted in ICLR 2024. </li>
     <li> 1/2024: Two papers got accepted in AAAI 2024. </li>
+<div id="div1"></div>
+<div id="Earlier news" style="display:none">
+<blockquote>
     <li> 11/2023: Talk at Simons Laufer Mathematical Sciences Institute on learning in two player games. </li>
     <li> 10/2023: Talk at Informs on Markov polymatrix Games. </li>
     <li> 10/2023: AC for ICLR 2024, AISTATS 2024. </li>
@@ -64,6 +67,8 @@ News
 <li>2/2023: New paper on <a href="https://arxiv.org/abs/2301.11241">
         time-varying games.</a> </li>
 <li>1/2023: Two papers accepted in ICLR 2023, <a href="https://arxiv.org/abs/2208.02204"> one oral.</a></li>
+  </blockquote>
+  </div>
     </ul>
     
 Talks 
