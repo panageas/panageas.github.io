@@ -50,6 +50,7 @@ News
     <li> 1/2024: PC member for FOCS 2024, AC for ICML, NeurIPS 2024. </li>
     <li> 1/2024: Two papers got accepted in ICLR 2024. </li>
     <li> 1/2024: Two papers got accepted in AAAI 2024. </li>
+<a href="javascript:copy(div2, awards)">Earlier news</a>
 <div id="div1"></div>
 <div id="Earlier news" style="display:none">
 <blockquote>
