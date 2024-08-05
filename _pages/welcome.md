@@ -25,7 +25,6 @@ I will be teaching [CS 280](https://panageas.github.io/agt2023.html) (Algorithmi
  
 <details><summary><SPAN STYLE="font-size:22px"> <b>Selected Publications </b></SPAN></summary>
 
-
 Click [here](https://panageas.github.io/publications) for full list<br/>
 <br/>
 [Efficiently Computing Nash Equilibria in Adversarial Team Markov Games.](https://arxiv.org/abs/2208.02204) _<font color="red">ICLR 2023 (oral)</font>_ <br/>
@@ -37,7 +36,6 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 [The Limit Points of (Optimistic) Gradient Descent in Min-Max Optimization.](https://arxiv.org/abs/1807.03907) _<font color="red">NeurIPS 2018</font>_ <br/>
 [Multiplicative Weights Update with Constant step-size in Congestion Games: Convergence, Limit Cycles and Chaos.](https://arxiv.org/abs/1703.01138) 
  _<font color="red">NeurIPS 2017 (spotlight)</font>_ <br/>
-
 </details>
 
 
