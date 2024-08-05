@@ -16,11 +16,11 @@ redirect_from:
    display: none
  }
  
- summary::before {
-   content: ' +';
+ summary::after {
+   content: $\rightarrow$;
  }
- details[open] summary:before {
-   content: " -";
+ details[open] summary:after {
+   content: $\leftarrow$;
  }
  </style>
 
