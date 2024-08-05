@@ -80,23 +80,23 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 
 <details markdown="1"><summary><SPAN STYLE="font-size:22px"> <b>Students </b></SPAN></summary>
 
-<SPAN STYLE="font-size:22px"> <b>Current Students </b></SPAN>
+<SPAN STYLE="font-size:22px"> <b>Current Students </b></SPAN><br/>
 [Nikolas Patris](https://npatris.github.io/) (Fall 2022 - Present, coadvised with Vijay V. Vazirani) <br/>
 [Stelios Stavroulakis](https://steliostavroulakis.github.io/) (Fall 2022 - Present) <br/>
 Jingming Yan (Fall 2023 - Present) <br/>
 Rohan Chauhan (will join in Fall 2024) <br/>
 
-<SPAN STYLE="font-size:22px"> <b>Past Students (chronological order) </b></SPAN>
+<SPAN STYLE="font-size:22px"> <b>Past Students (chronological order) </b></SPAN><br/>
 [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (PhD '21 $\to$ Postdoc at EPFL) <br/>
 [Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en&oi=sra) (MSc '22 $\to$ PhD at Stanford) <br/>
 [Fivos Kalogiannis](https://fivoskal.github.io) (MSc '24 $\to$ PhD at UCSD) <br/>
 
-<SPAN STYLE="font-size:22px"> <b>Past Postdocs </b></SPAN>
+<SPAN STYLE="font-size:22px"> <b>Past Postdocs </b></SPAN><br/>
 [Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at [SUFE](http://itcs.shufe.edu.cn/))
 
 </details>
 <details markdown="1"><summary> <SPAN STYLE="font-size:22px"> <b>Committees and Organizing Workshops </b></SPAN></summary>
-Senior Area Chair at AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2025 <br/>  
+Senior Area Chair at AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2025
 Area Chair at Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2024 <br/>
 Area Chair at International Conference on Machine Learning (<b>ICML</b>) 2024 <br/>
 PC member for Annual Symposium on Foundations of Computer Science (<b>FOCS</b>) 2024 <br/>
