@@ -68,19 +68,16 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 <li> 1/2023: Two papers accepted in ICLR 2023, <a href="https://arxiv.org/abs/2208.02204"> one oral.</a></li>
 </details>
 </u1>   
-
-<details>
-
-  <br/>
+<br/>
+<details><summary> 
   
-<summary> <span style="font-size:0.8em;">Talks</span> </summary>
-
+  ## Talks</span> 
+</summary>
 [Learning in Bimatrix Games (MSRI talk)](https://panageas.github.io/_pages/MSRItalkfinal.pdf) <br/>
 [Nash equilibria in Markov Games](https://panageas.github.io/_pages/recent_advances.pdf) <br/>
 [Policy Gradient for Markov Potential Games](https://www.youtube.com/watch?v=d1QRdQ2ayNA&ab_channel=UCIBrenICS) <br/>
 [On first-order methods (UCI ML seminar)](https://www.youtube.com/watch?v=4cepfWDiL3A&list=PLcm9UtazJCOKyuab1cGVE5H54Kt0XxEPN&index=3&t=2s) <br/>
 [Depth-width tradeoffs for NNs (MiFODS - MIT)](https://www.youtube.com/watch?v=HNQ204BmOQ8&t=1s) <br/>
-
 </details>
 
 ## Current Students 
