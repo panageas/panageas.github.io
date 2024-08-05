@@ -7,8 +7,12 @@ redirect_from:
   - /welcome.html
   - 
 ---
-details summary::-webkit-details-marker {
-  display:none;
+
+details > summary {
+  list-style: none;
+}
+details > summary::-webkit-details-marker {
+  display: none;
 }
 
 About Me
