@@ -70,7 +70,10 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 </u1>   
 
 <details>
-<summary> ## Talks </summary>
+
+  <br/>
+  
+<summary> <span style="font-size:0.5em;">Talks</span> </summary>
 
 [Learning in Bimatrix Games (MSRI talk)](https://panageas.github.io/_pages/MSRItalkfinal.pdf) <br/>
 [Nash equilibria in Markov Games](https://panageas.github.io/_pages/recent_advances.pdf) <br/>
