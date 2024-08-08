@@ -19,7 +19,7 @@ _<font color="red">ICML 2024</font>_ [[Link soon](https://panageas.github.io/)] 
 Last-iterate Convergence Separation between Extra-gradient and Optimism in Constrained Periodic Games
  <br/>
 (with Yi Feng, Ping Li and Xiao Wang). <br/>
-_<font color="red">UAI 2024</font>_ [[Link soon](https://panageas.github.io/)] <br/>
+_<font color="red">UAI 2024</font>_ [[Arxiv](https://arxiv.org/abs/2406.10605)] <br/>
 <br/>
 Learning Nash equilibria in Rank-1 games <br/>
 (with Nikolas Patris). <br/>
