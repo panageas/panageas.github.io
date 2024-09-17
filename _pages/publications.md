@@ -11,6 +11,9 @@ redirect_from:
 ======
 
 <br/>
+Combinatorial Algorithms for Matching Markets via Nash Bargaining: One-Sided, Two-Sided and Non-Bipartite (with Thorben Tröbst and Vijay Vazirani). <br/>
+_<font color="red">WINE 2024</font>_ [[Arxiv](https://arxiv.org/abs/2106.02024)] <br/>
+<br/>
 The Computational Complexity of Finding Second-Order Stationary Points
  <br/>
 (with Andreas Kontogiannis, Vasilis Pollatos, Sotiris Kanellopoulos, Panayotis Mertikopoulos and Aris Pagourtzis). <br/>
@@ -113,9 +116,6 @@ _<font color="red">SOSA 2022</font>_ [[Arxiv](https://arxiv.org/abs/2109.04603)]
 2021
 ======
 
-<br/>
-Combinatorial Algorithms for Matching Markets via Nash Bargaining: One-Sided, Two-Sided and Non-Bipartite (with Thorben Tröbst and Vijay Vazirani). <br/>
-[[Arxiv](https://arxiv.org/abs/2106.02024)] <br/>
 <br/>
 Convergence to Second-Order Stationarity for Non-negative Matrix Factorization: Provably and Concurrently (with Stratis Skoulakis, Antonios Varvitsiotis and Xiao Wang). <br/>
 [[Arxiv](https://arxiv.org/abs/2002.11323)] <br/>
