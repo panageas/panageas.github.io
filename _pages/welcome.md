@@ -36,7 +36,7 @@ I am interested in theory of computation and its interface with online learning 
 
 <SPAN STYLE="font-size:22px"> <b>Teaching </b></SPAN>
 
-I will be teaching [CS 280](https://panageas.github.io/agt2023.html) (Algorithmic Game Theory) in the Fall. <br/> For courses I have taught see [here](https://panageas.github.io/teaching/). <br/>
+I teach [CS 280](https://panageas.github.io/agt2024.html) (Algorithmic Game Theory) in the Fall. <br/> For courses I have taught see [here](https://panageas.github.io/teaching/). <br/>
  
 <details markdown="1" open><summary><SPAN STYLE="font-size:22px"> <b>Selected Publications </b></SPAN></summary>
 
