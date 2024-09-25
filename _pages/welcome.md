@@ -53,7 +53,7 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
  _<font color="red">NeurIPS 2017 (spotlight)</font>_ <br/>
  
 </details>
-
+<SPAN STYLE="font-size:22px"> <b>News </b></SPAN>
 <u1>
     <li> 9/2024: One paper got accepted in NeurIPS 2024. Congratulations to my student Jingming for his first publication.</li>
     <li> 9/2024: Two papers got accepted in WINE 2024. </li>
