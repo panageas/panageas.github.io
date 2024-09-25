@@ -11,7 +11,13 @@ redirect_from:
 ======
 
 <br/>
-Combinatorial Algorithms for Matching Markets via Nash Bargaining: One-Sided, Two-Sided and Non-Bipartite (with Thorben Tröbst and Vijay Vazirani). <br/>
+Learning Equilibria in Adversarial Team Markov Games: A Nonconvex-Hidden-Concave Min-Max Optimization Problem (Fivos Kalogiannis and Jingming Yan). <br/>
+_<font color="red">NeurIPS 2024</font>_ [[Link soon](https://panageas.github.io)] <br/>
+<br/>
+Polynomial Convergence of Bandit No-Regret Dynamics in Congestion Games (Leello Dadi, Stratis Skoulakis, Luca Viano, Volkan Cevher). <br/>
+_<font color="red">WINE 2024</font>_ [[Arxiv](https://arxiv.org/abs/2401.09628)] <br/>
+<br/>
+Time-Efficient Algorithms for Nash-Bargaining-Based Matching Market Models (with Thorben Tröbst and Vijay Vazirani). <br/>
 _<font color="red">WINE 2024</font>_ [[Arxiv](https://arxiv.org/abs/2106.02024)] <br/>
 <br/>
 The Computational Complexity of Finding Second-Order Stationary Points
