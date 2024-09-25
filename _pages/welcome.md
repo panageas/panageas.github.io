@@ -55,7 +55,7 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 </details>
 <SPAN STYLE="font-size:22px"> <b>News </b></SPAN>
 <u1>
-    <li> 9/2024: One paper got accepted in NeurIPS 2024. Congratulations to my student Jingming for his first publication.</li>
+    <li> 9/2024: One paper got accepted in NeurIPS 2024. Congratulations to my student Jingming for his first publication!</li>
     <li> 9/2024: Two papers got accepted in WINE 2024. </li>
     <li> 7/2024: Invited talk at <a href="https://sites.google.com/view/marl-school2024/home">MARL summer school</a>,  EPFL, Switzerland. </li>
     <li> 7/2024: I am co-organizing a workshop on <a href="https://corelab.ntua.gr/aifoundations2024/"> the foundations of modern AI</a>, NTUA, Greece. </li>
