@@ -131,15 +131,16 @@ Rohan Chauhan (will join in Fall 2024) <br/>
 
 </details>
 <details markdown="1"><summary> <SPAN STYLE="font-size:22px"> <b>Committees and Organizing Workshops </b></SPAN></summary>
-Senior Area Chair at AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2025 <br/>
 Area Chair at Conference on Neural Information Processing Systems (<b>NeurIPS</b>) 2024 <br/>
 Area Chair at International Conference on Machine Learning (<b>ICML</b>) 2024 <br/>
 PC member for Annual Symposium on Foundations of Computer Science (<b>FOCS</b>) 2024 <br/>
 Area Chair at International Conference on Learning Representations (<b>ICLR</b>) 2024, 2025 <br/>
-Area Chair at International Conference on Artificial Intelligence and Statistics (<b>AISTATS</b>) 2024 <br/>
-Organizer of EC Mentoring Workshop <a href="https://sites.google.com/view/ec23mentoring/home"> 2023</a> and <a href="https://sites.google.com/view/ec24mentoring/home"> 2024</a>   <br/>
+Senior PC at AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2025 <br/>
+Area Chair at International Conference on Artificial Intelligence and Statistics (<b>AISTATS</b>) 2024, 2025 <br/>
 PC member for Conference on Economics and Computation (<b>EC</b>) 2019, 2020, 2021, 2022, 2023 <br/>
-PC member for Conference on Web and Internet Economics (<b>WINE</b>) 2019, 2021, 2023, 2024  
+PC member for Conference on Web and Internet Economics (<b>WINE</b>) 2019, 2021, 2023, 2024
+
+Organizer of EC Mentoring Workshop <a href="https://sites.google.com/view/ec23mentoring/home"> 2023</a> and <a href="https://sites.google.com/view/ec24mentoring/home"> 2024</a>   <br/>
 </details>
 
 <details markdown="1">
