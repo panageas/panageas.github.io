@@ -138,7 +138,7 @@ Area Chair at <b>ICLR</b> 2024, 2025 <br/>
 Senior PC at <b>AAAI</b> 2025 <br/>
 Area Chair at <b>AISTATS</b> 2024, 2025 <br/>
 PC member for <b>EC</b> 2019, 2020, 2021, 2022, 2023 <br/>
-PC member for <b>WINE</b> 2019, 2021, 2023, 2024
+PC member for <b>WINE</b> 2019, 2021, 2023, 2024 <br/>
 Organizer of EC Mentoring Workshop <a href="https://sites.google.com/view/ec23mentoring/home"> 2023</a> and <a href="https://sites.google.com/view/ec24mentoring/home"> 2024</a>   <br/>
 </details>
 
