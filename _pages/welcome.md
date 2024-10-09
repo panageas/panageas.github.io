@@ -119,7 +119,7 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 [Jingming Yan](https://jingming-yan.github.io/) (Fall 2023 - Present) <br/>
 [Andreas Kontogiannis](https://ddaedalus.github.io/) (Archimedes, co-advised with A. Pagourtzis) <br/>
 [Vasilis Pollatos](https://archimedesai.gr/en/researchers/vasilis-pollatos) (Archimedes, co-advised with P. Mertikopoulos) <br/>
-Rohan Chauhan (will join in Fall 2024) <br/>
+Rohan Chauhan (Fall 2024 - Present) <br/>
 
 <SPAN STYLE="font-size:22px"> <b>Past Students (chronological order) </b></SPAN><br/>
 [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (PhD '21 $\to$ Postdoc at EPFL) <br/>
