@@ -116,7 +116,7 @@ _<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
 <SPAN STYLE="font-size:22px"> <b>Current Students </b></SPAN><br/>
 [Nikolas Patris](https://npatris.github.io/) (Fall 2022 - Present, coadvised with Vijay V. Vazirani) <br/>
 [Stelios Stavroulakis](https://steliostavroulakis.github.io/) (Fall 2022 - Present) <br/>
-Jingming Yan (Fall 2023 - Present) <br/>
+[Jingming Yan](https://jingming-yan.github.io/) (Fall 2023 - Present) <br/>
 [Andreas Kontogiannis](https://ddaedalus.github.io/) (Archimedes, co-advised with A. Pagourtzis) <br/>
 [Vasilis Pollatos](https://archimedesai.gr/en/researchers/vasilis-pollatos) (Archimedes, co-advised with P. Mertikopoulos) <br/>
 Rohan Chauhan (will join in Fall 2024) <br/>
