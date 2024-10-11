@@ -12,7 +12,7 @@ redirect_from:
 
 <br/>
 Learning Equilibria in Adversarial Team Markov Games: A Nonconvex-Hidden-Concave Min-Max Optimization Problem (Fivos Kalogiannis and Jingming Yan). <br/>
-_<font color="red">NeurIPS 2024</font>_ [[Link soon](https://panageas.github.io)] <br/>
+_<font color="red">NeurIPS 2024</font>_ [[Arxiv](https://arxiv.org/abs/2410.05673)] <br/>
 <br/>
 Polynomial Convergence of Bandit No-Regret Dynamics in Congestion Games (Leello Dadi, Stratis Skoulakis, Luca Viano, Volkan Cevher). <br/>
 _<font color="red">WINE 2024</font>_ [[Arxiv](https://arxiv.org/abs/2401.09628)] <br/>
