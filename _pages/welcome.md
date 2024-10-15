@@ -42,10 +42,9 @@ I teach [CS 280](https://panageas.github.io/agt2024.html) (Algorithmic Game Theo
 
 Click [here](https://panageas.github.io/publications) for full list<br/>
 <br/>
+[Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret.](https://arxiv.org/abs/2306.15543) _<font color="red">ICML 2023 (oral)</font>_ <br/>
 [Efficiently Computing Nash Equilibria in Adversarial Team Markov Games.](https://arxiv.org/abs/2208.02204) _<font color="red">ICLR 2023 (oral)</font>_ <br/>
-[Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games.](https://arxiv.org/abs/2106.01969) _<font color="red">ICLR 2022</font>_ <br/>
-[Depth-Width Trade-offs for ReLU Networks via Sharkovsky's Theorem.](https://arxiv.org/abs/1912.04378) 
-_<font color="red">ICLR 2020 (spotlight)</font>_ <br/>
+[Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games.](https://arxiv.org/abs/2106.01969) _<font color="red">ICLR 2022</font>_ <br/> 
 [Regression from Dependent Observations.](https://arxiv.org/abs/1905.03353) _<font color="red"> STOC 2019 </font>_  <br/>
 [First-order Methods Almost Always Avoid Saddle Points.](https://arxiv.org/abs/1710.07406) _<font color="red"> Math. Programming 2019. </font>_  <br/>
 [The Limit Points of (Optimistic) Gradient Descent in Min-Max Optimization.](https://arxiv.org/abs/1807.03907) _<font color="red">NeurIPS 2018</font>_ <br/>
