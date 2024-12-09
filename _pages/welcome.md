@@ -54,6 +54,7 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 </details>
 <SPAN STYLE="font-size:22px"> <b>News </b></SPAN>
 <u1>
+    <li> 12/2024: Invited talk at <a href="https://silo.wisc.edu/">SILO</a>,  Madison, Wisconsin. </li>
     <li> 9/2024: One paper got accepted in NeurIPS 2024. Congratulations to my student Jingming for his first publication!</li>
     <li> 9/2024: Two papers got accepted in WINE 2024. </li>
     <li> 7/2024: Invited talk at <a href="https://sites.google.com/view/marl-school2024/home">MARL summer school</a>,  EPFL, Switzerland. </li>
