@@ -133,7 +133,7 @@ Rohan Chauhan (Fall 2024 - Present) <br/>
 </details>
 <details markdown="1"><summary> <SPAN STYLE="font-size:22px"> <b>Committees and Organizing Workshops </b></SPAN></summary>
 PC member for <b>FOCS</b> 2024 <br/>
-SPC member for <b>EC </b> 2025   
+SPC member for <b>EC </b> 2025 <br/>  
 Area Chair at  <b>NeurIPS</b> 2024 <br/>
 Area Chair at <b>ICML</b> 2024, 2025 <br/>
 Area Chair at <b>ICLR</b> 2024, 2025 <br/>
