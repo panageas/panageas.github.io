@@ -132,13 +132,14 @@ Rohan Chauhan (Fall 2024 - Present) <br/>
 
 </details>
 <details markdown="1"><summary> <SPAN STYLE="font-size:22px"> <b>Committees and Organizing Workshops </b></SPAN></summary>
-Area Chair at  <b>NeurIPS</b> 2024 <br/>
-Area Chair at <b>ICML</b> 2024 <br/>
 PC member for <b>FOCS</b> 2024 <br/>
+SPC member for <b>EC </b> 2025   
+Area Chair at  <b>NeurIPS</b> 2024 <br/>
+Area Chair at <b>ICML</b> 2024, 2025 <br/>
 Area Chair at <b>ICLR</b> 2024, 2025 <br/>
 Senior PC at <b>AAAI</b> 2025 <br/>
 Area Chair at <b>AISTATS</b> 2024, 2025 <br/>
-PC member for <b>EC</b> 2019, 2020, 2021, 2022, 2023 <br/>
+PC member for <b>EC</b> 2019, 2020, 2021, 2022, 2023 <br/> <br/>
 PC member for <b>WINE</b> 2019, 2021, 2023, 2024 <br/>
 Organizer of EC Mentoring Workshop <a href="https://sites.google.com/view/ec23mentoring/home"> 2023</a> and <a href="https://sites.google.com/view/ec24mentoring/home"> 2024</a>   <br/>
 </details>
