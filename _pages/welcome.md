@@ -54,6 +54,7 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 </details>
 <SPAN STYLE="font-size:22px"> <b>News </b></SPAN>
 <u1>
+    <li> 2/2025: New <a href="https://www.arxiv.org/abs/2502.08519">paper</a> on the complexity of min-max. </li>
     <li> 1/2025: Invited talk at <a href="https://english.sufe.edu.cn/">SUFE</a> and Chinese Academy of Sciences. </li>
     <li> 12/2024: Invited talk at <a href="https://silo.wisc.edu/">SILO</a>,  Madison, Wisconsin. </li>
     <li> 9/2024: One paper got accepted in NeurIPS 2024. Congratulations to my student Jingming for his first publication!</li>
