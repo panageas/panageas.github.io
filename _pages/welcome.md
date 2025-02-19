@@ -91,6 +91,7 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 
 <details markdown="1"><summary>  <SPAN STYLE="font-size:22px"> <b>Talks </b></SPAN></summary>
 
+[The complexity of symmetric min-max](https://panageas.github.io/_pages/min-max.pdf) <br/>
 [Learning in Bimatrix Games (MSRI talk)](https://panageas.github.io/_pages/MSRItalkfinal.pdf) <br/>
 [Nash equilibria in Markov Games](https://panageas.github.io/_pages/recent_advances.pdf) <br/>
 [Policy Gradient for Markov Potential Games](https://www.youtube.com/watch?v=d1QRdQ2ayNA&ab_channel=UCIBrenICS) <br/>
