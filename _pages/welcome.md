@@ -112,6 +112,7 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 [Vasilis Pollatos](https://archimedesai.gr/en/researchers/vasilis-pollatos) (Archimedes, co-advised with P. Mertikopoulos) <br/>
 Rohan Chauhan (Fall 2024 - Present) <br/>
 [Parnian Shahkar](https://parnianshahkar.github.io/academic-website/) (Spring 2025 - Present) <br/>
+
 <SPAN STYLE="font-size:22px"> <b>Past Students (chronological order) </b></SPAN><br/>
 [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (PhD '21, now Assistant Professor at SDU) <br/>
 [Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en&oi=sra) (MSc '22, now PhD at Stanford) <br/>
