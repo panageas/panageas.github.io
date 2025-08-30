@@ -105,7 +105,7 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 <details markdown="1"><summary><SPAN STYLE="font-size:22px"> <b>Students </b></SPAN></summary>
 
 <SPAN STYLE="font-size:22px"> <b>Current Students (chronological order)</b></SPAN><br/>
-[Nikolas Patris](https://npatris.github.io/) (Fall 2022 - Present) <br/>
+[Nikolas Patris](https://scholar.google.com/citations?user=HW3mzYQAAAAJ&hl=en) (Fall 2022 - Present) <br/>
 [Stelios Stavroulakis](https://steliostavroulakis.github.io/) (Fall 2022 - Present) <br/>
 [Jingming Yan](https://jingming-yan.github.io/) (Fall 2023 - Present) <br/>
 [Andreas Kontogiannis](https://ddaedalus.github.io/) (Archimedes, co-advised with A. Pagourtzis) <br/>
