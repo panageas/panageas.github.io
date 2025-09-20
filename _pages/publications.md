@@ -7,6 +7,20 @@ redirect_from:
   - /publications
   - /publications.md
 ---
+2025
+======
+
+<br/>
+The Complexity of Symmetric Equilibria in Min-Max Optimization and Team Zero-Sum Games (with Ioannis Anagnostides, Tuomas Sandholm, Jingming Yan). <br/>
+_<font color="red">NeurIPS 2025</font>_ [[Arxiv](https://arxiv.org/abs/2502.08519)] <br/>
+<br/>
+Efficient Kernelized Learning in Polyhedral Games Beyond Full-Information: From Colonel Blotto to Congestion Games (with Andreas Kontogiannis, Vasilis Pollatos, Gabriele Farina, Panayotis Mertikopoulos). <br/>
+_<font color="red">NeurIPS 2025</font>_ [Link soon] <br/>
+<br/>
+The Complexity of Finding Local Optima in Contrastive Learning (with Jingming Yan, Yiyuan Luo, Vaggos Chatziafratis, Parnian Shahkar, Stelios Stavroulakis). <br/>
+_<font color="red">NeurIPS 2025</font>_ [Link soon] <br/>
+<br/>
+
 2024
 ======
 
@@ -50,6 +64,7 @@ _<font color="red">AAAI 2024</font>_ [[Arxiv](https://arxiv.org/abs/2402.07797)]
 
 2023
 ======
+
 <br/>
 Exponential Lower Bounds for Fictitious Play in Potential Games <br/>
 (with Nikolas Patris, Stratis Skoulakis and Volkan Cevher). <br/>
