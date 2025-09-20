@@ -55,7 +55,7 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 <SPAN STYLE="font-size:22px"> <b>News </b></SPAN>
 <u1>
     <li> 9/2025: Three papers got accepted in NeurIPS 2025, one spotlight. </li>
-    <li> 7/2025: Invited talk at <a href="https://archimedesai.gr/en/events/448-2025-archimedes-workshop-on-algorithmic-game-theory">workshop</a> on Algorithmic Game Theory</li>
+    <li> 7/2025: Invited talk at <a href="https://archimedesai.gr/en/events/448-2025-archimedes-workshop-on-algorithmic-game-theory">workshop</a> on Algorithmic Game Theory.</li>
     <li> 4/2025: Received NSF grant award from AF. </li>
     <li> 4/2025: Invited talk at <a href="https://sites.google.com/view/learningtheoryday/home">Learning theory workshop</a>, NTU, Singapore. </li>
     <li> 3/2025: Invited talk at UC Santa Cruz, CS department. </li>
