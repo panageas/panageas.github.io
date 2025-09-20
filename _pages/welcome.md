@@ -54,6 +54,9 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 </details>
 <SPAN STYLE="font-size:22px"> <b>News </b></SPAN>
 <u1>
+    <li> 9/2025: Three papers got accepted in NeurIPS 2025, one spotlight.
+    <li> 7/2025: Invited talk at <a href="https://archimedesai.gr/en/events/448-2025-archimedes-workshop-on-algorithmic-game-theory">workshop </a> on Algorithmic Game Theory</li>
+    <li> 4/2025: Received NSF grant award from AF. </li>
     <li> 4/2025: Invited talk at <a href="https://sites.google.com/view/learningtheoryday/home">Learning theory workshop</a>, NTU, Singapore. </li>
     <li> 3/2025: Invited talk at UC Santa Cruz, CS department. </li>
     <li> 2/2025: New <a href="https://www.arxiv.org/abs/2502.08519">paper</a> on the complexity of min-max. </li>
@@ -61,6 +64,11 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
     <li> 12/2024: Invited talk at <a href="https://silo.wisc.edu/">SILO</a>,  Madison, Wisconsin. </li>
     <li> 9/2024: One paper got accepted in NeurIPS 2024. Congratulations to my student Jingming for his first publication!</li>
     <li> 9/2024: Two papers got accepted in WINE 2024. </li>
+    
+</u1>
+<details markdown="1">
+  <summary><SPAN STYLE="font-size:22px"> <b>Older news </b></SPAN></summary> 
+<u1>
     <li> 7/2024: Invited talk at <a href="https://sites.google.com/view/marl-school2024/home">MARL summer school</a>,  EPFL, Switzerland. </li>
     <li> 7/2024: I am co-organizing a workshop on <a href="https://corelab.ntua.gr/aifoundations2024/"> the foundations of modern AI</a>, NTUA, Greece. </li>
     <li> 6/2024: Invited talk at <a href="https://www.gaimss24.org/workshop">GAIMSS</a>,  Metz, France. </li>
@@ -72,11 +80,7 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
      <li> 1/2024: New <a href="https://arxiv.org/abs/2401.09628">paper</a> on bandit feedback in congestion games. </li>
      <li> 1/2024: PC member for FOCS 2024, AC for ICML, NeurIPS 2024. </li>
      <li> 1/2024: Two papers got accepted in ICLR 2024. </li>
-    <li> 1/2024: Two papers got accepted in AAAI 2024. </li>
-</u1>
-<details markdown="1">
-  <summary><SPAN STYLE="font-size:22px"> <b>Older news </b></SPAN></summary> 
-<u1>
+    <li> 1/2024: Two papers got accepted in AAAI 2024. </li> 
      <li> 11/2023: Talk at Simons Laufer Mathematical Sciences Institute on learning in two player games. </li>
      <li> 10/2023: Talk at Informs on Markov polymatrix Games. </li>
      <li> 10/2023: AC for ICLR 2024, AISTATS 2024. </li>
