@@ -54,16 +54,16 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 </details>
 <SPAN STYLE="font-size:22px"> <b>News </b></SPAN>
 <u1>
-    <li> 9/2025: Three papers got accepted in NeurIPS 2025, one spotlight. </li>
+    <li> 9/2025: Three papers accepted in NeurIPS 2025, one spotlight. </li>
     <li> 7/2025: Invited talk at <a href="https://archimedesai.gr/en/events/448-2025-archimedes-workshop-on-algorithmic-game-theory">workshop</a> on Algorithmic Game Theory.</li>
-    <li> 4/2025: Received NSF grant award from AF. </li>
+    <li> 4/2025: Received an NSF grant award from AF. </li>
     <li> 4/2025: Invited talk at <a href="https://sites.google.com/view/learningtheoryday/home">Learning theory workshop</a>, NTU, Singapore. </li>
     <li> 3/2025: Invited talk at UC Santa Cruz, CS department. </li>
     <li> 2/2025: New <a href="https://www.arxiv.org/abs/2502.08519">paper</a> on the complexity of min-max. </li>
     <li> 1/2025: Invited talk at <a href="https://english.sufe.edu.cn/">SUFE</a> and Chinese Academy of Sciences. </li>
     <li> 12/2024: Invited talk at <a href="https://silo.wisc.edu/">SILO</a>,  Madison, Wisconsin. </li>
-    <li> 9/2024: One paper got accepted in NeurIPS 2024. Congratulations to my student Jingming for his first publication!</li>
-    <li> 9/2024: Two papers got accepted in WINE 2024. </li>
+    <li> 9/2024: One paper accepted in NeurIPS 2024. Congratulations to my student Jingming for his first publication!</li>
+    <li> 9/2024: Two papers accepted in WINE 2024. </li>
 </u1>
 
 <details markdown="1">
@@ -74,17 +74,17 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
     <li> 6/2024: Invited talk at <a href="https://www.gaimss24.org/workshop">GAIMSS</a>,  Metz, France. </li>
     <li> 6/2024: I'm co-organizing the <a href="https://sites.google.com/view/ec24mentoring/home">
     EC 2024 Mentoring</a> Workshop with Simina Branzei. </li>
-    <li> 5/2024: One paper got accepted in ICML 2024. </li>
-    <li> 4/2024: One paper got accepted in UAI 2024. </li>
+    <li> 5/2024: One paper accepted in ICML 2024. </li>
+    <li> 4/2024: One paper accepted in UAI 2024. </li>
     <li> 3/2024: Talks at 2024 Informs Optimization Society Conference (<a href="https://ios2024.rice.edu/">IOS24</a>) </li>
      <li> 1/2024: New <a href="https://arxiv.org/abs/2401.09628">paper</a> on bandit feedback in congestion games. </li>
      <li> 1/2024: PC member for FOCS 2024, AC for ICML, NeurIPS 2024. </li>
-     <li> 1/2024: Two papers got accepted in ICLR 2024. </li>
-    <li> 1/2024: Two papers got accepted in AAAI 2024. </li> 
+     <li> 1/2024: Two papers accepted in ICLR 2024. </li>
+    <li> 1/2024: Two papers accepted in AAAI 2024. </li> 
      <li> 11/2023: Talk at Simons Laufer Mathematical Sciences Institute on learning in two player games. </li>
      <li> 10/2023: Talk at Informs on Markov polymatrix Games. </li>
      <li> 10/2023: AC for ICLR 2024, AISTATS 2024. </li>
-     <li> 9/2023: Four papers got accepted in NeurIPS 2023. </li>
+     <li> 9/2023: Four papers accepted in NeurIPS 2023. </li>
      <li> 6/2023: I'm co-organizing the <a href="https://sites.google.com/view/ec23mentoring/home">
     EC 2023 Mentoring</a> Workshop with Simina Branzei. </li>
     <li> 5/2023 One <a href="https://arxiv.org/abs/2301.02129"> paper</a> accepted in EC 2023. </li>
