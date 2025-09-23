@@ -18,7 +18,7 @@ Efficient Kernelized Learning in Polyhedral Games Beyond Full-Information: From 
 _<font color="red">NeurIPS 2025</font>_ [Link soon] <br/>
 <br/>
 The Complexity of Finding Local Optima in Contrastive Learning (with Jingming Yan, Yiyuan Luo, Vaggos Chatziafratis, Parnian Shahkar, Stelios Stavroulakis). <br/>
-_<font color="red">NeurIPS 2025</font>_ [Link soon] <br/>
+_<font color="red">NeurIPS 2025</font>_ [[Arxiv](https://arxiv.org/abs/2509.16898)] <br/>
 <br/>
 
 2024
