@@ -15,7 +15,7 @@ The Complexity of Symmetric Equilibria in Min-Max Optimization and Team Zero-Sum
 _<font color="red">NeurIPS 2025 (spotlight)</font>_ [[Arxiv](https://arxiv.org/abs/2502.08519)] <br/>
 <br/>
 Efficient Kernelized Learning in Polyhedral Games Beyond Full-Information: From Colonel Blotto to Congestion Games (with Andreas Kontogiannis, Vasilis Pollatos, Gabriele Farina, Panayotis Mertikopoulos). <br/>
-_<font color="red">NeurIPS 2025</font>_ [Link soon] <br/>
+_<font color="red">NeurIPS 2025</font>_ [[Arxiv](https://arxiv.org/abs/2509.20919)] <br/>
 <br/>
 The Complexity of Finding Local Optima in Contrastive Learning (with Jingming Yan, Yiyuan Luo, Vaggos Chatziafratis, Parnian Shahkar, Stelios Stavroulakis). <br/>
 _<font color="red">NeurIPS 2025</font>_ [[Arxiv](https://arxiv.org/abs/2509.16898)] <br/>
