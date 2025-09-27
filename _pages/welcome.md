@@ -115,7 +115,7 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 [Jingming Yan](https://jingming-yan.github.io/) (Fall 2023 - Present) <br/>
 [Andreas Kontogiannis](https://ddaedalus.github.io/) (Archimedes, co-advised with A. Pagourtzis) <br/>
 [Vasilis Pollatos](https://archimedesai.gr/en/researchers/vasilis-pollatos) (Archimedes, co-advised with P. Mertikopoulos) <br/>
-Rohan Chauhan (Fall 2024 - Present) <br/>
+[Rohan Chauhan](https://rmchauhan03.github.io/) (Fall 2024 - Present) <br/>
 [Parnian Shahkar](https://parnianshahkar.github.io/academic-website/) (Spring 2025 - Present) <br/>
 
 <SPAN STYLE="font-size:22px"> <b>Past Students (chronological order) </b></SPAN><br/>
