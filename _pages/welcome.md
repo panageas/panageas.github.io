@@ -54,6 +54,7 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 </details>
 <SPAN STYLE="font-size:22px"> <b>News </b></SPAN>
 <u1>
+    <li> 11/2025: Stelios successfully defended his thesis! </li>
     <li> 9/2025: Very excited about the <a href="https://arxiv.org/abs/2509.20993">first paper</a> of my student Rohan. Comments are welcome! </li> 
     <li> 9/2025: Three papers accepted in NeurIPS 2025, one spotlight. </li>
     <li> 7/2025: Invited talk at <a href="https://archimedesai.gr/en/events/448-2025-archimedes-workshop-on-algorithmic-game-theory">workshop</a> on Algorithmic Game Theory.</li>
@@ -111,15 +112,15 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 
 <SPAN STYLE="font-size:22px"> <b>Current Students (chronological order)</b></SPAN><br/>
 [Nikolas Patris](https://scholar.google.com/citations?user=HW3mzYQAAAAJ&hl=en) (Fall 2022 - Present) <br/>
-[Stelios Stavroulakis](https://steliostavroulakis.github.io/) (Fall 2022 - Present) <br/>
 [Jingming Yan](https://jingming-yan.github.io/) (Fall 2023 - Present) <br/>
 [Andreas Kontogiannis](https://ddaedalus.github.io/) (Archimedes, co-advised with A. Pagourtzis) <br/>
 [Vasilis Pollatos](https://archimedesai.gr/en/researchers/vasilis-pollatos) (Archimedes, co-advised with P. Mertikopoulos) <br/>
 [Rohan Chauhan](https://rmchauhan03.github.io/) (Fall 2024 - Present) <br/>
 [Parnian Shahkar](https://parnianshahkar.github.io/academic-website/) (Spring 2025 - Present) <br/>
 
-<SPAN STYLE="font-size:22px"> <b>Past Students (chronological order) </b></SPAN><br/>
+<SPAN STYLE="font-size:22px"> <b>Past Students (PhD, MSc, chronological order) </b></SPAN><br/>
 [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (PhD '21, now Assistant Professor at SDU) <br/>
+[Stelios Stavroulakis](https://steliostavroulakis.github.io/) (PhD '25, Senior RL Researcher at Quilter) <br/>
 [Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en&oi=sra) (MSc '22, now PhD at Stanford) <br/>
 [Fivos Kalogiannis](https://fivoskal.github.io) (MSc '24, now PhD at UCSD) <br/>
 
