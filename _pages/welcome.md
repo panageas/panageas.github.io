@@ -119,10 +119,10 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 [Parnian Shahkar](https://parnianshahkar.github.io/academic-website/) (Spring 2025 - Present) <br/>
 
 <SPAN STYLE="font-size:22px"> <b>Past Students (PhD, MSc, chronological order) </b></SPAN><br/>
-[Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (PhD '21, now Assistant Professor at SDU) <br/>
-[Stelios Stavroulakis](https://steliostavroulakis.github.io/) (PhD '25, Senior RL Researcher at Quilter) <br/>
-[Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en&oi=sra) (MSc '22, now PhD at Stanford) <br/>
-[Fivos Kalogiannis](https://fivoskal.github.io) (MSc '24, now PhD at UCSD) <br/>
+[Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (PhD '21, &rarr; Assistant Professor at SDU) <br/>
+[Stelios Stavroulakis](https://steliostavroulakis.github.io/) (PhD '25, &rarr; Senior RL Researcher at Quilter) <br/>
+[Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en&oi=sra) (MSc '22, &rarr; PhD at Stanford) <br/>
+[Fivos Kalogiannis](https://fivoskal.github.io) (MSc '24, &rarr; PhD at UCSD) <br/>
 
 <SPAN STYLE="font-size:22px"> <b>Past Postdocs </b></SPAN><br/>
 [Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at [SUFE](http://itcs.shufe.edu.cn/))
