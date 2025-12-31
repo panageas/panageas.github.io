@@ -1,0 +1,296 @@
+<HTML><HEAD>
+<TITLE>CS 161 - Design and Analysis of Algorithms - Winter, 2026 </TITLE>
+</HEAD><BODY>
+<H2>CS 161 - Design and Analysis of Algorithms - Winter, 2026</H2>
+
+<H2>Course staff</H2>
+<UL>
+ <LI> Instructor: </LI>
+ <UL>
+  <LI> Ioannis Panageas</LI>
+  <UL>
+   <LI> Email: ipanagea at ics dot uci dot edu.  </LI>
+   <LI>Office hours: Wednesday 02:00 - 04:00pm, by appointment</LI>
+    </UL>
+  </UL>
+ <LI> Teaching Assistants: </LI>
+ <UL>
+  <LI>  Rohan Chauhan (Head TA)  </LI>
+  <UL>
+   <LI> Email: rmchauha at uci dot edu.</LI>
+   <LI> Office hours: TBA</LI>
+ </UL>
+  <LI> Nikolas Patris </LI>
+  <UL>
+   <LI> Email: npatris at uci dot edu.</LI>
+   <LI> Office hours: TBA, via zoom </LI>
+ </UL>
+   <LI> Jingming Yan </LI>
+  <UL>
+   <LI> Email: jingmy1 at uci dot edu.</LI>
+   <LI> Office hours: TBA, via zoom</LI>
+ </UL>
+ </UL>
+ </UL>  
+<H2>Class announcements</H2>
+<UL>
+	<LI> Class announcements will be made on <a href="https://canvas.eee.uci.edu/">canvas</a> and <a href="https://edstem.org">Edstem</a>. Please check there frequently. </LI>
+</UL>
+<H2>Class meetings</H2>
+<UL>
+ <LI> Lectures: 05:00 - 06:20pm TuTh <a href="https://classrooms.uci.edu/classrooms/alp/alp-1300/"> ALP 1300</a> </LI>
+  <UL>
+  <LI> Tests will be given during the lecture time. </LI>
+   </UL>
+ </UL>
+<UL> 
+ <LI> Discussion: </LI>
+ <UL>
+  <LI> (A1) 04:00 - 04:50pm MW <a href="https://classrooms.uci.edu/classrooms/hg/hg-1800/"> HG 1800</a> </LI>
+ </UL>
+ </UL>
+<UL> 
+ <LI> Edstem - Gradescope: </LI>
+ <UL>  
+<LI> Questions of general interest about the course material, the homework,
+        and the tests  should be posted on <a href="https://edstem.org">Edstem</a>. 
+	 </LI>
+<LI> Regrade requests on the homework and midterm will be handled by TAs on <a href="https://www.gradescope.com/">Gradescope</a>. For any other requests you need first to send an email to the Head TA (Navin).</LI>
+  </UL>
+ </UL> 
+<H2>Syllabus</H2>
+<UL>
+<LI> The syllabus, including grading policy, schedule of hws/exams and academic honor code can be found <a href="https://panageas.github.io/algo26slides/syllabus.pdf"> here</a>.
+</LI>
+</UL> 
+<H2>Textbook</H2>
+<UL>
+<LI> Required textbook. <b>[GT]</b> &nbsp; <i>Algorithm Design and Applications</i>, 
+by Michael T. Goodrich and
+Roberto Tamassia. 
+</LI>
+<LI> Recommended textbook. <b>[CLRS]</b> &nbsp; <i>Introduction to Algorithms</i>, 
+by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. 
+</LI>
+</UL>
+<H2>Schedule of classes and slides </H2>
+<table align="center" border="3" cellpadding="2" cellspacing="2">
+	 
+	<thead bgcolor="lightgreen">
+		<tr>
+			<th style="width:16%"><span style="font-weight:400">Lecture no.</span></th>
+			<th style="width:42%"><span style="font-weight:400">Topics</span></th>
+			<th style="width:7%"><span style="font-weight:400">Slides (PDF)</span></th>
+			<th style="width:7%"><span style="font-weight:400">Slides-annotated (PDF)</span></th>
+			<th style="width:7%"><span style="font-weight:400">Slides (PPT)</span></th>
+			<th style="width:21%"><span style="font-weight:400">Reading - Comments</span></th>
+		</tr>
+	</thead>
+		<tr>
+			<td><span style="font-size:larger;">Lecture 1 (4/2)</span></td>
+			<td>Administrivia, Introduction</td>
+			<td><a href="https://panageas.github.io/algo24slides/L01%20Introduction.pdf"><span style="font-size:larger;">L1</span></a></td>
+			<td> </td>
+			<td><a href="https://panageas.github.io/algo24slides/L01Introduction.pptx"><span style="font-size:larger;">L1</span></a></td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td><span style="font-size:larger;">Lecture 2 (4/4)</span></td>
+			<td>Review of basic concepts</td>
+			<td><a href="https://panageas.github.io/algo24slides/L02%20recap.pdf"><span style="font-size:larger;">L2</span></a></td>
+			<td><a href="https://panageas.github.io/algo24slides/L02recap_annotated.pdf"><span style="font-size:larger;">L2</span></a></td>
+			<td><a href="https://panageas.github.io/algo24slides/L02recap.pptx"><span style="font-size:larger;">L2</span></a></td>
+			<td> [GT] Sections 1.1, 1.2, 1.3, Chapter 2, Sections 3.1, 5.2.2 </td>
+		</tr>
+		<tr> 
+			<td><span style="font-size:larger;">Lecture 3 (4/9)</span></td>
+			<td> Divide and conquer, mergesort, counting intersections </td>
+			<td><a href="https://panageas.github.io/algo24slides/L03DivideandConquer1.pdf"><span style="font-size:larger;">L3</span></a> </td>
+			<td><a href="https://panageas.github.io/algo24slides/L03DivideandConquer1annotated.pdf"><span style="font-size:larger;">L3</span></a></td>
+			<td><a href="https://panageas.github.io/algo24slides/L03DivideandConquer1.pptx"><span style="font-size:larger;">L3</span></a></td>
+			<td> [GT] Sections 8.1, 8.2, 11.1, 11.2, 11.3, 11.4 </td>
+
+		</tr>
+                <tr>
+			<td><span style="font-size:larger;">Lecture 4 (4/11)</span></td>
+			<td> Divide and conquer (continued) </td>
+			<td> <a href="https://panageas.github.io/algo24slides/L04DivideandConquer2.pdf"><span style="font-size:larger;">L4</span></a></td> 
+			<td><a href="https://panageas.github.io/algo24slides/L04DivideandConquer2annotated.pdf"><span style="font-size:larger;">L4</span></a></td>
+			<td> <a href="https://panageas.github.io/algo24slides/L04DivideandConquer2.pptx"><span style="font-size:larger;">L4</span></a></td>
+			<td> [GT] Sections 8.1, 8.2, 11.1, 11.2, 11.3, 11.4 </td>
+		</tr>
+		<tr>
+	        <td><span style="font-size:larger;">Lecture 5 (4/16)</span></td>
+			<td> Divide and conquer (continued)</td>
+			<td> <a href="https://panageas.github.io/algo24slides/L05DivideandConquer3.pdf"><span style="font-size:larger;">L5</span></a></td>
+			<td> <a href="https://panageas.github.io/algo24slides/L05DivideandConquer3annotated.pdf"><span style="font-size:larger;">L5</span></a></td>
+			<td> <a href="https://panageas.github.io/algo24slides/L05DivideandConquer3.pptx"><span style="font-size:larger;">L5</span></a></td>
+	        <td> [GT] Sections 8.1, 8.2, 11.1, 11.2, 11.3, 11.4 </td>
+		</tr>
+		<tr>	
+	        <td><span style="font-size:larger;">Lecture 6 (4/18)</span></td>
+			<td> Divide and conquer (continued)</td>
+			<td><a href="https://panageas.github.io/algo24slides/L06DivideandConquer4.pdf"><span style="font-size:larger;">L6</span></a></td>
+			<td><a href="https://panageas.github.io/algo24slides/L06DivideandConquer4annotated.pdf"><span style="font-size:larger;">L6</span></a></td>
+			<td> <a href="https://panageas.github.io/algo24slides/L06DivideandConquer4.pptx"><span style="font-size:larger;">L6</span></a></td>
+	        <td> [GT] Sections 8.1, 8.2, 11.1, 11.2, 11.3, 11.4 </td>
+		</tr>
+		<tr>	
+	        <td><span style="font-size:larger;"> Lecture 7 (4/23)</span></td>
+		<td> Midterm 1</td>
+		<td> </td>
+		<td> </td>
+		<td> </td>
+		<td> </td>
+		</tr>
+		<tr>	
+	        <td><span style="font-size:larger;">Lecture 8 (4/25)</span></td>
+			<td> Dynamic Programming: Introduction. Memoization, Rod cutting and 0/1 Knapsack problems  </td>
+	        	<td> <a href="https://panageas.github.io/algo24slides/L08DynamicProgramming.pdf"><span style="font-size:larger;">L8</span></a> </td>
+			<td> <a href="https://panageas.github.io/algo24slides/L08DynamicProgrammingannotated.pdf"><span style="font-size:larger;">L8</span></a></td>
+			<td> <a href="https://panageas.github.io/algo24slides/L08DynamicProgramming.pptx"><span style="font-size:larger;">L8</span></a> </td>
+		<td> [GT] Chapter 12 </td>
+		</tr>
+		<tr>	
+		<td><span style="font-size:larger;"> Lecture 9 (4/30)</span></td>	
+		        <td> Dynamic Programming: 0/1 Knapsack (cont.), Bellman-Ford, Interval Scheduling  </td>
+		        <td> <a href="https://panageas.github.io/algo24slides/L09DynamicProgramming.pdf"><span style="font-size:larger;">L9</span></a> </td>
+			<td> <a href="https://panageas.github.io/algo24slides/L09DynamicProgramming.pdf"><span style="font-size:larger;">L9</span></a></td>
+			<td> <a href="https://panageas.github.io/algo24slides/L09DynamicProgramming.pptx"><span style="font-size:larger;">L9</span></a> </td>
+			<td> [GT] Chapter 12 </td>
+		</tr>
+		<tr>	
+		<td><span style="font-size:larger;"> Lecture 10 (5/2)</span></td>	
+	        	<td> Dynamic Programming (cont.)  </td>
+	        	<td>  <a href="https://panageas.github.io/algo24slides/L10DynamicProgramming.pdf"><span style="font-size:larger;">L10</span></a></td>
+			<td>  <a href="https://panageas.github.io/algo24slides/L10DynamicProgrammingannotated.pdf"><span style="font-size:larger;">L10</span></a></td>
+			<td>  <a href="https://panageas.github.io/algo24slides/L10DynamicProgramming.pptx"><span style="font-size:larger;">L10</span></a></td>
+			<td> [GT] Chapter 12 </td>
+		</tr>
+		<tr>	
+	        <td><span style="font-size:larger;"> Lecture 11 (5/7)</span></td>
+		<td> Midterm 2</td>
+		<td> </td>
+		<td> </td>
+		<td> </td>
+		<td> </td>
+		</tr>
+		<tr>	
+	        <td><span style="font-size:larger;">Lecture 12 (5/9)</span></td>
+		<td> Max flow, bipartite matching  </td>
+	        	<td>  <a href="https://panageas.github.io/algo24slides/L12Maxflow.pdf"><span style="font-size:larger;">L12</span></a></td>
+			<td>  <a href="https://panageas.github.io/algo24slides/L12Maxflow.pdf"><span style="font-size:larger;">L12</span></a></td>
+			<td>  <a href="https://panageas.github.io/algo24slides/L12Maxflow.pptx"><span style="font-size:larger;">L12</span></a></td>
+			<td> [GT] Sections 16.1, 16.2, 16.3, 16.4 </td>
+		</tr>
+		<tr>	
+	        <td><span style="font-size:larger;">Lecture 13 (5/14)</span></td>
+		<td> Max flow, bipartite matching, further examples  </td>
+	       	<td>  <a href="https://panageas.github.io/algo24slides/L13Maxflow.pdf"><span style="font-size:larger;">L13</span></a></td>
+			<td>  <a href="https://panageas.github.io/algo24slides/L13Maxflowannotated.pdf"><span style="font-size:larger;">L13</span></a></td>
+			<td>  <a href="https://panageas.github.io/algo24slides/L13Maxflow.pptx"><span style="font-size:larger;">L13</span></a></td>
+			<td> [GT] Sections 16.1, 16.2, 16.3, 16.4 </td>
+		</tr>
+		<td><span style="font-size:larger;">Lecture 14 (5/16)</span></td>
+		<td> Greedy method, Fractional Knapsack  </td>
+	        	<td> <a href="https://panageas.github.io/algo24slides/L14knapsack.pdf"><span style="font-size:larger;">L14</span></a> </td>
+			<td>  <a href="https://panageas.github.io/algo24slides/L14knapsack.pdf"><span style="font-size:larger;">L14</span></a></td>
+			<td>  <a href="https://panageas.github.io/algo24slides/L14knapsack.pptx"><span style="font-size:larger;">L14</span></a> </td>
+			<td> [GT] Sections 10.1, 10.2 </td>
+		</tr>
+		<tr>	
+	        <td><span style="font-size:larger;"> Lecture 15 (5/21)</span></td>
+		<td> Minimum spanning trees</td>
+		<td> <a href="https://panageas.github.io/algo24slides/L15MST.pdf"><span style="font-size:larger;">L15</span></a></td>
+		<td><a href="https://panageas.github.io/algo24slides/L15MSTannotated.pdf"><span style="font-size:larger;">L15</span></a></td>
+		<td> <a href="https://panageas.github.io/algo24slides/L15MST.pptx"><span style="font-size:larger;">L15</span></a></td>
+		<td> [GT] Sections 15.1, 15.2, 15.3 </td>
+		</tr>
+		<tr>	
+	        <td><span style="font-size:larger;"> Lecture 16 (5/23)</span></td>
+		<td> More problems on greedy</td>
+		<td> <a href="https://panageas.github.io/algo24slides/L16greedy.pdf"><span style="font-size:larger;">L16</span></a> </td>
+		<td><a href="https://panageas.github.io/algo24slides/L16greedyannotated.pdf"><span style="font-size:larger;">L16</span></a> </td>
+		<td><a href="https://panageas.github.io/algo24slides/L16greedy.pptx"><span style="font-size:larger;">L16</span></a> </td>
+		<td> [GT] Sections 10.1, 10.2 </td>
+		</tr>
+		<tr>	
+	        <td><span style="font-size:larger;"> Lecture 17 (5/28)</span></td>
+		<td> Midterm 3</td>
+		<td> </td>
+		<td> </td>
+		<td> </td>
+		<td> </td>
+		</tr>
+		<td><span style="font-size:larger;"> Lecture 18 (5/30)</span></td>
+		<td> NP-completeness, reductions</td>
+		<td> <a href="https://panageas.github.io/algo24slides/L18NP.pdf"><span style="font-size:larger;">L18</span></a> </td>
+		<td> <a href="https://panageas.github.io/algo24slides/L18NPannotated.pdf"><span style="font-size:larger;">L18</span></a></td>
+		<td> <a href="https://panageas.github.io/algo24slides/L18NP.pptx"><span style="font-size:larger;">L18</span></a></td>
+		<td> [GT] Chapter 17, NOT part of the final exam </td>
+		</tr>
+		<td><span style="font-size:larger;"> Lecture 19 (6/4)</span></td>
+		<td> Recap</td>
+		<td><a href="https://panageas.github.io/algo24slides/L19Recap.pdf"><span style="font-size:larger;">L19</span></a> </td>
+		<td> <a href="https://panageas.github.io/algo24slides/L19Recap.pdf"><span style="font-size:larger;">L19</span></a></td>
+		<td> <a href="https://panageas.github.io/algo24slides/L19Recap.pptx"><span style="font-size:larger;">L19</span></a></td>
+		<td> Dynamic Programming, Divide and Conquer </td>
+		</tr>
+		<td><span style="font-size:larger;"> Lecture 20 (6/6)</span></td>
+		<td> Recap</td>
+		<td><a href="https://panageas.github.io/algo24slides/L20Recap.pdf"><span style="font-size:larger;">L20</span></a> </td>
+		<td><a href="https://panageas.github.io/algo24slides/L20Recap.pdf"><span style="font-size:larger;">L20</span></a> </td>
+		<td><a href="https://panageas.github.io/algo24slides/L20Recap.pptx"><span style="font-size:larger;">L20</span></a> </td>
+		<td> Greedy, Maxflow, MSTs </td>
+		</tr>
+		<!--
+		<tr>	
+	        <td><span style="font-size:larger;">Lecture 12 (5/11)</span></td>
+		<td><font color="#000000"> Shortest path algorithms <a href="https://panageas.github.io/algo23slides/L12 ShortestPath.pdf"><span style="font-size:larger;">slides</span></a></font></td>
+	        <td> [GT] Sections 14.1, 14.2, 14.3, 14.4, 14.5 </td>
+		</tr>
+		<tr>
+		<td><span style="font-size:larger;">Lecture 13 (5/16)</span></td>
+		<td><font color="#000000"> MSTs: Prim, Kruskal <a href="https://panageas.github.io/algo23slides/L13 MST.pdf"><span style="font-size:larger;">slides</span></a></font></td>
+	        <td> [GT] Sections 15.1, 15.2, 15.3</td>
+		</tr>
+		<tr>	
+       		<td><span style="font-size:larger;">Lecture 14 (5/18)</span></td>
+		<td><font color="#000000"> Maxflow, bipartite matching <a href="https://panageas.github.io/algo23slides/L14 MaxFlow.pdf"><span style="font-size:larger;">slides</span></a></font></td>
+        	<td> [GT] Sections 16.1, 16.2, 16.3, 16.4</td>
+		</tr>
+		<tr>	
+	        <td><span style="font-size:larger;">Lecture 15 (5/23)</span></td>
+		<td><font color="#000000"> Greedy method <a href="https://panageas.github.io/algo23slides/L15 Greedy.pdf"><span style="font-size:larger;">slides</span></a></font></td>
+	        <td> [GT] Sections 10.1, 10.2 </td>
+		</tr>
+		<tr>	
+	        <td><span style="font-size:larger;">Lecture 16, (5/25), Lecture 17 (5/30)</span></td>
+		<td><font color="#000000"> Dynamic Programming <a href="https://panageas.github.io/algo23slides/L16 DP_compact.pdf"><span style="font-size:larger;">slides</span></a></font></td>
+	        <td> [GT] Chapter 12</td>
+		</tr>
+		<tr>	
+	        <td><span style="font-size:larger;">Lecture 18 (6/1)</span></td>
+		<td><font color="#000000"> Midterm 2 </font></td>
+	        <td> </td>
+		</tr>
+		<tr>	
+	        <td><span style="font-size:larger;">Lecture 19 (6/6)</span></td>
+		<td><font color="#000000"> NP-completeness <a href="https://panageas.github.io/algo23slides/L19 NP.pdf"><span style="font-size:larger;">slides</span></a></font></td>
+	        <td> [GT] Chapter 17</td>
+		</tr>
+		<tr>	
+	        <td><span style="font-size:larger;">Lecture 20 (6/8)</span></td>
+		<td><font color="#000000"> NP-completeness reductions <a href="https://panageas.github.io/algo23slides/L20 reductions.pdf"><span style="font-size:larger;">slides</span></a></font></td>
+	        <td> [GT] Chapter 17</td>
+		</tr>
+		-->
+		<!--
+-->
+		 
+</table>
+
+<H3>Homework Assignments</H3>
+<UL>
+<LI> The homework assignments will be posted in Edstem, Canvas and Gradescope. </LI>	
+</UL>
