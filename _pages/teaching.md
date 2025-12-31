@@ -8,6 +8,7 @@ redirect_from:
 ---
 Teaching
 ======
+[CS 161 - Design and Analysis of Algorithms](https://panageas.github.io/algo2026), Winter 2026 <br/>
 [CS 280 - Algorithmic Game Theory](https://panageas.github.io/agt2025.html), Fall 2025 <br/>
 [CS 280 - Algorithmic Game Theory](https://panageas.github.io/agt2024.html), Fall 2024 <br/>
 [CS 161 - Design and Analysis of Algorithms](https://panageas.github.io/algo2024), Spring 2024 <br/>
