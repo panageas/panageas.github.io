@@ -85,6 +85,7 @@ _<font color="red">NeurIPS 2023</font>_ [[Arxiv](https://arxiv.org/abs/2301.1124
 Algorithms and Complexity for Computing Nash Equilibria in Adversarial Team Games <br/>
 (with Ioannis Anagnostides, Fivos Kalogiannis, Manolis Vlatakis and Stephen McAleer). <br/>
 _<font color="red">EC 2023</font>_ [[Arxiv](https://arxiv.org/abs/2301.02129)] <br/>
+_<font color="red">Games and Economic Behavior (to appear)</font>_ <br/>
 <br/>
 Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees
 (with Stratis Skoulakis, Luca Viano, Xiao Wang and Volkan Cevher). <br/>
