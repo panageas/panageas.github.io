@@ -17,7 +17,7 @@ _<font color="red">AISTATS 2026 </font>_ [Arxiv soon] <br/>
 Efficient Uncoupled Learning Dynamics with Last-Iterate Convergence in Bilinear Saddle-Point Problems over Convex Sets under Bandit Feedback (with Arnab Maiti, Claire Jie Zhang, Kevin Jamieson, Jamie Heather Morgenstern,  Lillian J. Ratliff). <br/>
 _<font color="red">AISTATS 2026</font>_ [Arxiv soon] <br/>
 <br/>
-Convex Markov Games and Beyond: New Proof of Existence, Characterization and Learning Algorithms for Nash Equilibria (with Anas Barakat, Antonios Varvitsiotis) <br/>
+Convex Markov Games and Beyond: New Proof of Existence, Characterization and Learning Algorithms for Nash Equilibria (with Anas Barakat, Antonios Varvitsiotis). <br/>
 _<font color="red">AISTATS 2026</font>_ [Arxiv soon] <br/>
 <br/>
 
