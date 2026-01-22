@@ -190,7 +190,6 @@ _<font color="red"> STOC 2019 </font>_ [[Arxiv](https://arxiv.org/abs/1905.03353
 <br/>
 First-order Methods Almost Always Avoid Saddle Points <br/>(with Jason D. Lee, Georgios Piliouras, Max Simchowitz, Michael I. Jordan and Benjamin Recht). <br/>
 _<font color="red"> Math. Programming 2019, issue on non-convex optimization for statistical learning. </font>_ [[Arxiv](https://arxiv.org/abs/1710.07406)] <br/>
-[Have a look at this nice exposition about our work!](http://noahgolmant.com/avoiding-saddle-points) <br/>
 <br/>
 Last-Iterate Convergence: Zero-Sum Games and Constrained Min-Max Optimization <br/>(with Costis Daskalakis). <br/>
 _<font color="red"> ITCS 2019 </font>_ [[Arxiv](https://arxiv.org/abs/1807.04252)], [[Slides](https://panageas.github.io/files/ITCS2019_slides.pdf)] <br/>
