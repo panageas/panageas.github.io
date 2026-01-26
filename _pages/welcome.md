@@ -54,6 +54,7 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 </details>
 <SPAN STYLE="font-size:22px"> <b>News </b></SPAN>
 <u1>
+    <li> 1/2026: Two papers accepted in ICLR 2026.  </li>
     <li> 1/2026: Three papers accepted in AISTATS 2026. Links are coming soon. </li>
     <li> 11/2025: Stelios successfully defended his thesis! </li>
     <li> 9/2025: Very excited about the <a href="https://arxiv.org/abs/2509.20993">first paper</a> of my student Rohan. Comments are welcome! </li> 
