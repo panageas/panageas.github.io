@@ -11,6 +11,9 @@ redirect_from:
 ======
 
 <br/>
+Learning the Inverse Temperature of Ising models under Hard Constraints (with Rohan Chauhan). <br/>
+_<font color="red">ICLR 2026 </font>_ [[Arxiv](https://arxiv.org/abs/2509.20993)] <br/>
+<br/>
 Convergence of Regret Matching in Potential Games and Constrained Optimization (with Ioannis Anagnostides, Emanuel Tewolde, Brian Hu Zhang, Vincent Conitzer, Tuomas Sandholm). <br/>
 _<font color="red">ICLR 2026 </font>_ [[Arxiv](https://arxiv.org/abs/2510.17067)] <br/>
 <br/>
