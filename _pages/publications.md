@@ -11,6 +11,9 @@ redirect_from:
 ======
 
 <br/>
+Convergence of Regret Matching in Potential Games and Constrained Optimization (with Ioannis Anagnostides, Emanuel Tewolde, Brian Hu Zhang, Vincent Conitzer, Tuomas Sandholm). <br/>
+_<font color="red">ICLR 2026 </font>_ [[Arxiv](https://arxiv.org/abs/2510.17067)] <br/>
+<br/>
 Near-Optimal Swap Regret in Combinatorial Bandits (with Andreas Kontogiannis, Vasilis Pollatos, Panayotis Mertikopoulos). <br/>
 _<font color="red">AISTATS 2026 </font>_ [Arxiv soon] <br/>
 <br/>
