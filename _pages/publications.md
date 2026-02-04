@@ -18,7 +18,7 @@ Convergence of Regret Matching in Potential Games and Constrained Optimization (
 _<font color="red">ICLR 2026 </font>_ [[Arxiv](https://arxiv.org/abs/2510.17067)] <br/>
 <br/>
 Near-Optimal Swap Regret in Combinatorial Bandits (with Andreas Kontogiannis, Vasilis Pollatos, Panayotis Mertikopoulos). <br/>
-_<font color="red">AISTATS 2026 </font>_ [Arxiv soon] <br/>
+_<font color="red">AISTATS 2026 </font>_ [[Arxiv](https://arxiv.org/abs/2602.02087)] <br/>
 <br/>
 Efficient Uncoupled Learning Dynamics with Last-Iterate Convergence in Bilinear Saddle-Point Problems over Convex Sets under Bandit Feedback (with Arnab Maiti, Claire Jie Zhang, Kevin Jamieson, Jamie Heather Morgenstern,  Lillian J. Ratliff). <br/>
 _<font color="red">AISTATS 2026</font>_ [Arxiv soon] <br/>
