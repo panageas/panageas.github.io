@@ -24,7 +24,7 @@ Efficient Uncoupled Learning Dynamics with $\tilde{O}\left(T^{-1/4}\right)$ Last
 _<font color="red">AISTATS 2026</font>_ [Arxiv soon] <br/>
 <br/>
 Convex Markov Games and Beyond: New Proof of Existence, Characterization and Learning Algorithms for Nash Equilibria (with Anas Barakat, Antonios Varvitsiotis). <br/>
-_<font color="red">AISTATS 2026</font>_ [Arxiv soon] <br/>
+_<font color="red">AISTATS 2026</font>_ [[Arxiv](https://arxiv.org/abs/2602.12181)] <br/>
 <br/>
 
 
