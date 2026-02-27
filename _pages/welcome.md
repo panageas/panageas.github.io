@@ -60,7 +60,7 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
     <li> 1/2026: New <a href="https://arxiv.org/abs/2601.20180">paper</a> on Performative prediction. </li> 
     <li> 1/2026: New <a href="https://arxiv.org/abs/2601.23248">paper</a> on lower bounds of no-regret in potential games. </li> 
     <li> 1/2026: Two papers accepted in ICLR 2026 (Congrats Rohan!).  </li>
-    <li> 1/2026: Three papers accepted in AISTATS 2026. Links are coming soon. </li>
+    <li> 1/2026: Three papers accepted in AISTATS 2026.  </li>
     <li> 11/2025: Stelios successfully defended his thesis! </li>
     <li> 9/2025: Very excited about the <a href="https://arxiv.org/abs/2509.20993">first paper</a> of my student Rohan. Comments are welcome! </li> 
     <li> 9/2025: Three papers accepted in NeurIPS 2025, one spotlight. </li>
