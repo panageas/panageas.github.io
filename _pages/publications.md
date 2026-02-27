@@ -21,7 +21,7 @@ Near-Optimal Swap Regret in Combinatorial Bandits (with Andreas Kontogiannis, Va
 _<font color="red">AISTATS 2026 </font>_ [[Arxiv](https://arxiv.org/abs/2602.02087)] <br/>
 <br/>
 Efficient Uncoupled Learning Dynamics with $\tilde{O}\left(T^{-1/4}\right)$ Last-Iterate Convergence in Bilinear Saddle-Point Problems over Convex Sets under Bandit Feedback (with Arnab Maiti, Claire Jie Zhang, Kevin Jamieson, Jamie Heather Morgenstern,  Lillian J. Ratliff). <br/>
-_<font color="red">AISTATS 2026</font>_ [Arxiv soon] <br/>
+_<font color="red">AISTATS 2026</font>_ [[Arxiv](https://arxiv.org/abs/2602.21436)] <br/>
 <br/>
 Convex Markov Games and Beyond: New Proof of Existence, Characterization and Learning Algorithms for Nash Equilibria (with Anas Barakat, Antonios Varvitsiotis). <br/>
 _<font color="red">AISTATS 2026</font>_ [[Arxiv](https://arxiv.org/abs/2602.12181)] <br/>
