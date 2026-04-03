@@ -54,6 +54,7 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 </details>
 <SPAN STYLE="font-size:22px"> <b>News </b></SPAN>
 <u1>
+    <li> 4/2026: New <a href="https://arxiv.org/abs/2604.02285">paper</a> on the complexity of second-order stationary points in constrained optimization. </li>
     <li> 2/2026: My first <a href="https://arxiv.org/pdf/2602.03837">paper (AI for Math)</a> in collaboration with Google (leading by David Woodruff and Vahab Mirrokni) and many universities. You can find a blog 
       <a href="https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/">post</a> posted by Google DeepMind. Special thanks to Simina Branzei and Dimitris Paparas! </li>
     <li> 1/2026: Our EC23 <a href="https://www.sciencedirect.com/science/article/pii/S0899825626000163?dgcid=author">paper</a> got accepted in Games and Economic Behavior. </li>
