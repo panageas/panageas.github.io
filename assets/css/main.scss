@@ -37,3 +37,16 @@
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Increase the left sidebar width on desktop screens to prevent mobile layout issues */
+@media (min-width: 1024px) {
+  .sidebar {
+    width: 350px !important; /* Adjust this value up from the default ~300px */
+  }
+}
+
+/* Enlarge the profile picture */
+.author__avatar img {
+  max-width: 160px !important; /* Adjust this value up from the default ~110px */
+  height: auto !important;     /* Keeps the image proportional */
+}
