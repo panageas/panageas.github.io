@@ -54,16 +54,16 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 </details>
 <SPAN STYLE="font-size:22px"> <b>News </b></SPAN>
 <u1>
-  <li> <b>[Apr 2026]:</b> Two papers got accepted in ICML, one spotlight! </li>
-  <li> <b>[Apr 2026]:</b> I have officially been granted tenure! </li>
-    <li> <b>[Apr 2026]:</b> New <a href="https://arxiv.org/abs/2604.02285">paper</a> on the complexity of second-order stationary points in constrained optimization. </li>
-    <li> <b>[Feb 2026]:</b> My first <a href="https://arxiv.org/pdf/2602.03837">paper (AI for Math)</a> in collaboration with Google (leading by David Woodruff and Vahab Mirrokni) and many universities. You can find a blog 
-      <a href="https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/">post</a> posted by Google DeepMind. Special thanks to Simina Branzei and Dimitris Paparas! </li>
-    <li> <b>[Jan 2026]:</b> Our EC23 <a href="https://www.sciencedirect.com/science/article/pii/S0899825626000163?dgcid=author">paper</a> got accepted in Games and Economic Behavior. </li>
-    <li> <b>[Jan 2026]:</b> New <a href="https://arxiv.org/abs/2601.20180">paper</a> on Performative prediction. </li> 
-    <li> <b>[Jan 2026]:</b> New <a href="https://arxiv.org/abs/2601.23248">paper</a> on lower bounds of no-regret in potential games. </li> 
-    <li> <b>[Jan 2026]:</b> Two papers accepted in ICLR 2026 (Congrats Rohan!).  </li>
-    <li> <b>[Jan 2026]:</b> Three papers accepted in AISTATS 2026.  </li>
+  <b>[Apr 2026]:</b> Two papers got accepted in ICML, one spotlight! <br/>
+  <b>[Apr 2026]:</b> I have officially been granted tenure! <br/>
+    <b>[Apr 2026]:</b> New <a href="https://arxiv.org/abs/2604.02285">paper</a> on the complexity of second-order stationary points in constrained optimization. <br/>
+    <b>[Feb 2026]:</b> My first <a href="https://arxiv.org/pdf/2602.03837">paper (AI for Math)</a> in collaboration with Google (leading by David Woodruff and Vahab Mirrokni) and many universities. You can find a blog 
+      <a href="https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/">post</a> posted by Google DeepMind. Special thanks to Simina Branzei and Dimitris Paparas! <br/>
+    <b>[Jan 2026]:</b> Our EC23 <a href="https://www.sciencedirect.com/science/article/pii/S0899825626000163?dgcid=author">paper</a> got accepted in Games and Economic Behavior. <br/>
+    <b>[Jan 2026]:</b> New <a href="https://arxiv.org/abs/2601.20180">paper</a> on Performative prediction. <br/> 
+    <b>[Jan 2026]:</b> New <a href="https://arxiv.org/abs/2601.23248">paper</a> on lower bounds of no-regret in potential games. <br/> 
+    <b>[Jan 2026]:</b> Two papers accepted in ICLR 2026 (Congrats Rohan!).  <br/>
+    <b>[Jan 2026]:</b> Three papers accepted in AISTATS 2026.  <br/>
 </u1>
 
 <details markdown="1">
