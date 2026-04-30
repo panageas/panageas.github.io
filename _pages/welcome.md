@@ -54,15 +54,21 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 </details>
 <SPAN STYLE="font-size:22px"> <b>News </b></SPAN>
 <u1>
-  <li> I have officially been granted tenure! </li>
-    <li> 4/2026: New <a href="https://arxiv.org/abs/2604.02285">paper</a> on the complexity of second-order stationary points in constrained optimization. </li>
-    <li> 2/2026: My first <a href="https://arxiv.org/pdf/2602.03837">paper (AI for Math)</a> in collaboration with Google (leading by David Woodruff and Vahab Mirrokni) and many universities. You can find a blog 
+  <li> **[Apr 2026]:** Two papers got accepted in ICML, one spotlight! </li>
+  <li> **[Apr 2026]:** I have officially been granted tenure! </li>
+    <li> **[Apr 2026]:** New <a href="https://arxiv.org/abs/2604.02285">paper</a> on the complexity of second-order stationary points in constrained optimization. </li>
+    <li> **[Feb 2026]:** My first <a href="https://arxiv.org/pdf/2602.03837">paper (AI for Math)</a> in collaboration with Google (leading by David Woodruff and Vahab Mirrokni) and many universities. You can find a blog 
       <a href="https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/">post</a> posted by Google DeepMind. Special thanks to Simina Branzei and Dimitris Paparas! </li>
-    <li> 1/2026: Our EC23 <a href="https://www.sciencedirect.com/science/article/pii/S0899825626000163?dgcid=author">paper</a> got accepted in Games and Economic Behavior. </li>
-    <li> 1/2026: New <a href="https://arxiv.org/abs/2601.20180">paper</a> on Performative prediction. </li> 
-    <li> 1/2026: New <a href="https://arxiv.org/abs/2601.23248">paper</a> on lower bounds of no-regret in potential games. </li> 
-    <li> 1/2026: Two papers accepted in ICLR 2026 (Congrats Rohan!).  </li>
-    <li> 1/2026: Three papers accepted in AISTATS 2026.  </li>
+    <li> **[Jan 2026]:** Our EC23 <a href="https://www.sciencedirect.com/science/article/pii/S0899825626000163?dgcid=author">paper</a> got accepted in Games and Economic Behavior. </li>
+    <li> **[Jan 2026]:** New <a href="https://arxiv.org/abs/2601.20180">paper</a> on Performative prediction. </li> 
+    <li> **[Jan 2026]:** New <a href="https://arxiv.org/abs/2601.23248">paper</a> on lower bounds of no-regret in potential games. </li> 
+    <li> **[Jan 2026]:** Two papers accepted in ICLR 2026 (Congrats Rohan!).  </li>
+    <li> **[Jan 2026]:** Three papers accepted in AISTATS 2026.  </li>
+</u1>
+
+<details markdown="1">
+  <summary><SPAN STYLE="font-size:22px"> <b>Older news </b></SPAN></summary> 
+<u1>
     <li> 11/2025: Stelios successfully defended his thesis! </li>
     <li> 9/2025: Very excited about the <a href="https://arxiv.org/abs/2509.20993">first paper</a> of my student Rohan. Comments are welcome! </li> 
     <li> 9/2025: Three papers accepted in NeurIPS 2025, one spotlight. </li>
@@ -75,11 +81,6 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
     <li> 12/2024: Invited talk at <a href="https://silo.wisc.edu/">SILO</a>,  Madison, Wisconsin. </li>
     <li> 9/2024: One paper accepted in NeurIPS 2024. Congratulations to my student Jingming for his first publication!</li>
     <li> 9/2024: Two papers accepted in WINE 2024. </li>
-</u1>
-
-<details markdown="1">
-  <summary><SPAN STYLE="font-size:22px"> <b>Older news </b></SPAN></summary> 
-<u1>
     <li> 7/2024: Invited talk at <a href="https://sites.google.com/view/marl-school2024/home">MARL summer school</a>,  EPFL, Switzerland. </li>
     <li> 7/2024: I am co-organizing a workshop on <a href="https://corelab.ntua.gr/aifoundations2024/"> the foundations of modern AI</a>, NTUA, Greece. </li>
     <li> 6/2024: Invited talk at <a href="https://www.gaimss24.org/workshop">GAIMSS</a>,  Metz, France. </li>
