@@ -11,6 +11,12 @@ redirect_from:
 ======
 
 <br/>
+(Doubly) Exponential Lower Bounds for Follow the Regularized Leader in Potential Games (with Ioannis Anagnostides, Nikolas Patris and Tuomas Sandholm). <br/>
+_<font color="red">ICML 2026 (spotlight) </font>_ [[Arxiv](https://arxiv.org/abs/2601.23248)] <br/>
+<br/>
+Learning the Inverse Temperature of Ising models under Hard Constraints (with Ioannis Anagnostides, Rohan Chauhan, Tuomas Sandholm and Jingming Yan). <br/>
+_<font color="red">ICML 2026 </font>_ [[Arxiv](https://arxiv.org/abs/2601.20180)] <br/>
+<br/>
 Learning the Inverse Temperature of Ising models under Hard Constraints (with Rohan Chauhan). <br/>
 _<font color="red">ICLR 2026 </font>_ [[Arxiv](https://arxiv.org/abs/2509.20993)] <br/>
 <br/>
