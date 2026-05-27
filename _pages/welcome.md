@@ -123,7 +123,6 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 <details markdown="1"><summary><SPAN STYLE="font-size:22px"> <b>Students </b></SPAN></summary>
 
 <SPAN STYLE="font-size:22px"> <b>Current Students (chronological order)</b></SPAN><br/>
-[Nikolas Patris](https://scholar.google.com/citations?user=HW3mzYQAAAAJ&hl=en) (Fall 2022 - Present) <br/>
 [Jingming Yan](https://jingming-yan.github.io/) (Fall 2023 - Present) <br/>
 [Andreas Kontogiannis](https://andreaskontogiannis.github.io/) (Archimedes, co-advised with A. Pagourtzis) <br/>
 [Vasilis Pollatos](https://archimedesai.gr/en/researchers/vasilis-pollatos) (Archimedes, co-advised with P. Mertikopoulos) <br/>
@@ -135,6 +134,7 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 [Stelios Stavroulakis](https://steliostavroulakis.github.io/) (PhD '25 &rarr; Senior RL Researcher at Quilter) <br/>
 [Will Overman](https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en&oi=sra) (MSc '22 &rarr; PhD at Stanford) <br/>
 [Fivos Kalogiannis](https://fivoskal.github.io) (MSc '24 &rarr; PhD at UCSD) <br/>
+[Nikolas Patris](https://scholar.google.com/citations?user=HW3mzYQAAAAJ&hl=en) (PhD '26)<br/>
 
 <SPAN STYLE="font-size:22px"> <b>Past Postdocs </b></SPAN><br/>
 [Xiao Wang](https://xiiaowang.github.io/) (Assistant Professor at [SUFE](http://itcs.shufe.edu.cn/))
