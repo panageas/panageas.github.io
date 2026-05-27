@@ -54,6 +54,8 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 </details>
 <SPAN STYLE="font-size:22px"> <b>News </b></SPAN>
 <u1>
+  <b>[May 2026]:</b> Nikolas defended his thesis, congrats, great work! <br/>
+  <b>[May 2026]:</b> New <a href="https://arxiv.org/abs/2605.26373">paper</a> on no-regret learning for hidden convex losses. <br/>
   <b>[Apr 2026]:</b> Two papers got accepted in ICML, one spotlight! <br/>
   <b>[Apr 2026]:</b> I have officially been granted tenure! <br/>
     <b>[Apr 2026]:</b> New <a href="https://arxiv.org/abs/2604.02285">paper</a> on the complexity of second-order stationary points in constrained optimization. <br/>
