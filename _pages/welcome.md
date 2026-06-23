@@ -109,7 +109,7 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 </u1>
 </details>   
 
-<details markdown="1"><summary>  <SPAN STYLE="font-size:22px"> <b>Talks </b></SPAN></summary>
+<details markdown="1" open><summary>  <SPAN STYLE="font-size:22px"> <b>Talks </b></SPAN></summary>
 
 [The complexity of avoiding strict saddles](https://panageas.github.io/files/talksecondorder.pdf) <br/>
 [The complexity of symmetric min-max](https://panageas.github.io/_pages/min-max.pdf) <br/>
