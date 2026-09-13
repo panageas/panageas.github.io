@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CS 280 - Algorithmic Game Theory - Fall, 2026</title>
+  <style>
+    /* Preserve the original page's plain serif style and blue table header. */
+    body {
+      margin: 0.5rem;
+      background: white;
+      color: black;
+      font-family: "Times New Roman", Times, serif;
+      font-size: 1rem;
+    }
+
+    h1, h2 {
+      font-size: 1.5rem;
+      margin-block: 0.83em;
+    }
+
+    .section-content {
+      margin-block: 1em;
+      margin-inline-start: 2.5rem;
+      overflow-wrap: anywhere;
+    }
+
+    .homework-heading {
+      font-size: 1.17rem;
+      margin-block: 1em;
+    }
+
+    a { color: #0000ee; }
+    a:visited { color: #551a8b; }
+
+    :focus-visible {
+      outline: 3px solid #000080;
+      outline-offset: 3px;
+    }
+
+    .skip-link {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      overflow: hidden;
+      clip-path: inset(50%);
+      white-space: nowrap;
+    }
+
+    .skip-link:focus {
+      position: fixed;
+      top: 0.5rem;
+      left: 0.5rem;
+      width: auto;
+      height: auto;
+      padding: 0.5rem;
+      clip-path: none;
+      background: white;
+      z-index: 1;
+    }
+
+    table {
+      max-width: 100%;
+      margin-inline: auto;
+      border: 3px outset gray;
+      border-spacing: 2px;
+    }
+
+    caption {
+      text-align: left;
+      padding-block-end: 0.5rem;
+    }
+
+    thead { background: lightblue; }
+
+    th, td {
+      border: 1px inset gray;
+      padding: 2px;
+      font-weight: normal;
+      text-align: center;
+      overflow-wrap: anywhere;
+    }
+
+    th p, td p { margin-block: 1em; }
+
+    .lecture-column { width: 20%; }
+    .topic-column { width: 54%; }
+    .reading-column { width: 26%; }
+
+    .accessibility-note { margin-block: 1.5rem 1rem; }
+
+    @media (max-width: 30rem) {
+      .section-content { margin-inline-start: 1rem; }
+      table { width: 100%; }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to course content</a>
+
+  <main id="main-content" tabindex="-1">
+    <h1>CS 280 - Algorithmic Game Theory - Fall, 2026</h1>
+    <p class="section-content">
+      Instructor: Ioannis Panageas<br>
+      Email: <a href="mailto:ipanagea@ics.uci.edu">ipanagea at ics dot uci dot edu</a><br>
+      Office hours: By appointment
+    </p>
+
+    <h2>Class announcements</h2>
+    <p class="section-content">
+      Class announcements will be made on <a href="https://edstem.org">Edstem</a>.
+      Please check there frequently.
+    </p>
+
+    <h2>Class meetings</h2>
+    <p class="section-content">
+      Lectures: 12:30–1:50 p.m., Tuesdays and Thursdays,
+      <a href="https://classrooms.uci.edu/classrooms/dbh/dbh-1300/">DBH 1300</a>
+      (in person).<br>
+      Course code: 34800. Lecture section: A. Units: 4.<br>
+      All times are Pacific Time.
+    </p>
+    <p class="section-content">
+      Questions of general interest about the course material, the homework,
+      and the projects should be posted on <a href="https://edstem.org">Edstem</a>.
+    </p>
+
+    <h2>Syllabus</h2>
+    <!-- Add the accessible Fall 2026 syllabus link after that file is ready. -->
+    <p class="section-content">
+      The Fall 2026 syllabus, including grading policy, homework schedule,
+      and academic honor code, will be posted here.
+    </p>
+
+    <h2>Textbook</h2>
+    <p class="section-content">
+      Required textbook. <b>[AGT]</b> &nbsp; <i>Algorithmic Game Theory</i>,
+      by eds Noam Nisan, Tim Roughgarden, Eva Tardos and Vijay V. Vazirani.<br>
+      Recommended lecture notes. <b>[Rou]</b> &nbsp;
+      <i><a href="https://timroughgarden.org/notes.html">Algorithmic Game Theory</a></i>,
+      by Tim Roughgarden.
+    </p>
+
+    <h2 id="schedule-heading">Schedule of classes</h2>
+    <!--
+      Tentative topic dates retain the previous course's week/weekday placement
+      and topic groupings. Some topic groups intentionally share a class date,
+      as on the original page. Dates without an assigned topic remain TBA.
+      Calendar reference:
+      https://www.reg.uci.edu/calendars/quarterly/2026-2027/quarterly26-27.html
+    -->
+    <table>
+      <caption>Tentative schedule for Fall 2026. Dates are month/day.</caption>
+      <colgroup>
+        <col class="lecture-column">
+        <col class="topic-column">
+        <col class="reading-column">
+      </colgroup>
+      <thead>
+        <tr>
+          <th scope="col">Lecture no.</th>
+          <th scope="col">Topics</th>
+          <th scope="col">Reading - Comments</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row"><p>Lecture 1 (<time datetime="2026-09-24">9/24</time>)</p></th>
+          <td><p>Administrivia, Introduction</p></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row"><p>Lecture 2 (<time datetime="2026-09-29">9/29</time>), (<time datetime="2026-10-01">10/01</time>)</p></th>
+          <td><p>Definitions and Existence of Nash Equilibrium</p></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row"><p>Lecture 3 (<time datetime="2026-10-06">10/06</time>)</p></th>
+          <td><p>LP duality and zero-sum games</p></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row"><p>Lecture 4 (<time datetime="2026-10-08">10/08</time>)</p></th>
+          <td><p>Algorithms for computing Nash in two-player games</p></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row"><p>Lecture 5 (<time datetime="2026-10-13">10/13</time>)</p></th>
+          <td><p>Potential and Congestion Games</p></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row"><p>Lecture 6 (<time datetime="2026-10-15">10/15</time>), (<time datetime="2026-10-20">10/20</time>)</p></th>
+          <td><p>No-regret and a proof of minimax Theorem</p></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row"><p>Lecture 7 (<time datetime="2026-10-22">10/22</time>), (<time datetime="2026-10-27">10/27</time>), (<time datetime="2026-10-29">10/29</time>)</p></th>
+          <td><p>Complexity Classes and AGT, PLS and PPAD</p></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row"><p>Lecture 8 (<time datetime="2026-11-03">11/03</time>)</p></th>
+          <td><p>Other equilibrium notions</p></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row"><p>Lecture 9 (<time datetime="2026-11-05">11/05</time>)</p></th>
+          <td><p>Intro to Mechanism Design</p></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row"><p><time datetime="2026-11-10">11/10</time></p></th>
+          <td><p>To be announced</p></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row"><p>Lecture 10 (<time datetime="2026-11-12">11/12</time>), (<time datetime="2026-11-17">11/17</time>)</p></th>
+          <td><p>Monotone allocations and Myerson’s lemma</p></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row"><p>Lecture 11 (<time datetime="2026-11-17">11/17</time>), (<time datetime="2026-11-19">11/19</time>)</p></th>
+          <td><p>Virtual valuations and reserve prices</p></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row"><p>Lecture 12 (<time datetime="2026-11-19">11/19</time>)</p></th>
+          <td><p>Price of Anarchy</p></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row"><p>Lecture 13 (<time datetime="2026-11-24">11/24</time>)</p></th>
+          <td><p>Markov Games</p></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row"><p><time datetime="2026-11-26">11/26</time></p></th>
+          <td><p>No class — Thanksgiving holiday</p></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row"><p><time datetime="2026-12-01">12/01</time>, <time datetime="2026-12-03">12/03</time></p></th>
+          <td><p>To be announced</p></td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2 class="homework-heading">Homework Assignments</h2>
+    <p class="section-content">
+      The homework assignments will be posted in Edstem and Gradescope.
+    </p>
+
+    <p class="accessibility-note">
+      If you have difficulty accessing course materials, please
+      <a href="mailto:ipanagea@ics.uci.edu">email Ioannis Panageas</a> for assistance.
+    </p>
+  </main>
+</body>
+</html>
