@@ -8,6 +8,8 @@ redirect_from:
 ---
 Teaching
 ======
+[CS 169/268 - Introduction to Optimization](https://panageas.github.io/opt2026.html), Fall 2026 <br/>
+[CS 280 - Algorithmic Game Theory](https://panageas.github.io/agt2026.html), Fall 2026 <br/>
 [CS 161 - Design and Analysis of Algorithms](https://panageas.github.io/algo2026), Winter 2026 <br/>
 [CS 280 - Algorithmic Game Theory](https://panageas.github.io/agt2025.html), Fall 2025 <br/>
 [CS 280 - Algorithmic Game Theory](https://panageas.github.io/agt2024.html), Fall 2024 <br/>
