@@ -57,7 +57,7 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 <SPAN STYLE="font-size:22px"> <b>News </b></SPAN>
 <u1>
   <b>[Sep 2026]:</b> Two new papers on arxiv, resolving questions from complexity of computing equilibria. One is about <a href="https://arxiv.org/abs/2609.23879">PPADS</a> and one about <a href="https://arxiv.org/abs/2609.33225">linear congestion games</a>. <br/> 
-  <b>[Sep 2026]:</b> 5 papers got accepted to Neurips 2026 (one oral), 2 got accepted in SODA 2027. Congrats to all my students for your hard work! <br/>
+  <b>[Sep 2026]:</b> 5 papers got accepted in Neurips 2026 (one oral), 2 got accepted in SODA 2027. Congrats to all my students for your hard work! <br/>
   <b>[May 2026]:</b> Nikolas defended his thesis, congrats, great work! <br/>
   <b>[May 2026]:</b> New <a href="https://arxiv.org/abs/2605.26373">paper</a> on no-regret learning for hidden convex losses. <br/>
   <b>[Apr 2026]:</b> Two papers got accepted in ICML, one spotlight! <br/>
