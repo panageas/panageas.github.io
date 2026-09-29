@@ -42,6 +42,8 @@ I teach [CS 169/268](https://panageas.github.io/opt2026.html) (intro to Optimiza
 
 Click [here](https://panageas.github.io/publications) for full list<br/>
 <br/>
+[The Complexity of Nash Equilibrium in Network Congestion and Coordination Games.](https://arxiv.org/abs/2609.33225)<br/>
+[Finding a Positive Index Nash Equilibrium is PPADS-Complete.](https://arxiv.org/abs/2609.23879) <br/>
 [Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret.](https://arxiv.org/abs/2306.15543) _<font color="red">ICML 2023 (oral)</font>_ <br/>
 [Efficiently Computing Nash Equilibria in Adversarial Team Markov Games.](https://arxiv.org/abs/2208.02204) _<font color="red">ICLR 2023 (oral)</font>_ <br/>
 [Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games.](https://arxiv.org/abs/2106.01969) _<font color="red">ICLR 2022</font>_ <br/> 
