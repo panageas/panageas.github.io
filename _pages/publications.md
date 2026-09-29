@@ -7,9 +7,31 @@ redirect_from:
   - /publications
   - /publications.md
 ---
+2027
+======
+The Computational Complexity of Team Zero-Sum Games (with Ioannis Anagnostides, Tuomas Sandholm and Jingming Yan). <br/>
+_<font color="red">SODA 2027 </font>_ [[Arxiv](https://arxiv.org/abs/2606.16139)] <br/>
+<br/>
+The Complexity of Computing Coarse Correlated Equilibria in Markov Games with a Single Controller (with Gabriele Farina, Andreas Kontogiannis and Vasilis Pollatos). <br/>
+_<font color="red">SODA 2027 </font>_ [[Arxiv](https://arxiv.org/abs/2607.10897)] <br/>
+<br/>
+
 2026
 ======
-
+Follow the Regularized Leader Does Not Converge in Constrained Optimization (with Ioannis Anagnostides, Nikolas Patris and Tuomas Sandholm). <br/>
+_<font color="red">NeurIPS 2026 (oral) </font>_ [Arxiv soon] <br/>
+<br/>
+Efficient Learning of Truncated Boolean Product Distributions: Influence to the Rescue (with Rohan Chauhan). <br/>
+_<font color="red">NeurIPS 2026 </font>_ [[Arxiv](https://arxiv.org/abs/2607.22889)] <br/>
+<br/>
+Efficient Computation and Best-Response Dynamics in Anonymous Two-Action Games with Linear Utilities (with Michail Fasoulakis, Evangelos Markakis, Christodoulos Santorinaios and Jingming Yan). <br/>
+_<font color="red">NeurIPS 2026 </font>_ [Arxiv soon] <br/>
+<br/>
+Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Regret, Geometric Barrier, and Bandit Feedback (with Anas Barakat, Andreas Kontogiannis, Vasilis Pollatos and Antonios Varvitsiotis). <br/>
+_<font color="red">NeurIPS 2026 </font>_ [[Arxiv](https://arxiv.org/abs/2605.26373)] <br/>
+<br/>
+The Query Complexity of Local Search in Rounds on General Graphs (with Simina Branzei and Dimitris Paparas). <br/>
+_<font color="red">NeurIPS 2026 </font>_ [[Arxiv](https://arxiv.org/abs/2601.13266)] <br/>
 <br/>
 (Doubly) Exponential Lower Bounds for Follow the Regularized Leader in Potential Games (with Ioannis Anagnostides, Nikolas Patris and Tuomas Sandholm). <br/>
 _<font color="red">ICML 2026 (spotlight) </font>_ [[Arxiv](https://arxiv.org/abs/2601.23248)] <br/>
