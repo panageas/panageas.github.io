@@ -133,6 +133,7 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 [Vasilis Pollatos](https://archimedesai.gr/en/researchers/vasilis-pollatos) (Archimedes, co-advised with P. Mertikopoulos) <br/>
 [Rohan Chauhan](https://rmchauhan03.github.io/) (Fall 2024 - Present) <br/>
 [Parnian Shahkar](https://parnianshahkar.github.io/academic-website/) (Spring 2025 - Present) <br/>
+[Avi Shein](https://www.linkedin.com/in/avi-shein-962a59229/) (Fall 2026 - Present, co-advised with V. Vazirani) <br/>
 
 <SPAN STYLE="font-size:22px"> <b>Past Students (PhD, MSc, chronological order) </b></SPAN><br/>
 [Sai Ganesh Nagarajan](https://sites.google.com/view/sgnagarajan/home) (PhD '21 &rarr; Assistant Professor at SDU) <br/>
