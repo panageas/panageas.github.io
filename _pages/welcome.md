@@ -130,7 +130,7 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 <SPAN STYLE="font-size:22px"> <b>Current Students (chronological order)</b></SPAN><br/>
 [Jingming Yan](https://jingming-yan.github.io/) (Fall 2023 - Present) <br/>
 [Andreas Kontogiannis](https://andreaskontogiannis.github.io/) (Archimedes, co-advised with A. Pagourtzis) <br/>
-[Vasilis Pollatos](https://archimedesai.gr/en/researchers/vasilis-pollatos) (Archimedes, co-advised with P. Mertikopoulos) <br/>
+[Vasilis Pollatos](https://vaspoll.github.io/) (Archimedes, co-advised with P. Mertikopoulos) <br/>
 [Rohan Chauhan](https://rmchauhan03.github.io/) (Fall 2024 - Present) <br/>
 [Parnian Shahkar](https://parnianshahkar.github.io/academic-website/) (Spring 2025 - Present) <br/>
 [Avi Shein](https://www.linkedin.com/in/avi-shein-962a59229/) (Fall 2026 - Present, co-advised with V. Vazirani) <br/>
@@ -149,8 +149,8 @@ Click [here](https://panageas.github.io/publications) for full list<br/>
 <details markdown="1"><summary> <SPAN STYLE="font-size:22px"> <b>Committees and Organizing Workshops </b></SPAN></summary>
 PC member for <b>FOCS</b> 2024 <br/>
 SPC member for <b>EC </b> 2025 <br/>  
-Area Chair at  <b>NeurIPS</b> 2024, 2025 <br/>
-Area Chair at <b>ICML</b> 2024, 2025, 2026 <br/>
+Area Chair at  <b>NeurIPS</b> 2024, 2025, 2026 <br/>
+Area Chair at <b>ICML</b> 2024, 2025, 2026, 2027 <br/>
 Area Chair at <b>ICLR</b> 2024, 2025, 2026 <br/>
 Senior PC at <b>AAAI</b> 2025, 2026 <br/>
 Area Chair at <b>AISTATS</b> 2024, 2025, 2026 <br/>
