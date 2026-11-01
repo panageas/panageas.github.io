@@ -19,7 +19,7 @@ _<font color="red">SODA 2027 </font>_ [[Arxiv](https://arxiv.org/abs/2607.10897)
 2026
 ======
 Follow the Regularized Leader Does Not Converge in Constrained Optimization (with Ioannis Anagnostides, Nikolas Patris and Tuomas Sandholm). <br/>
-_<font color="red">NeurIPS 2026 (oral) </font>_ [Arxiv soon] <br/>
+_<font color="red">NeurIPS 2026 (oral) </font>_ [[Arxiv](https://arxiv.org/abs/2610.35004)] <br/>
 <br/>
 Efficient Learning of Truncated Boolean Product Distributions: Influence to the Rescue (with Rohan Chauhan). <br/>
 _<font color="red">NeurIPS 2026 </font>_ [[Arxiv](https://arxiv.org/abs/2607.22889)] <br/>
